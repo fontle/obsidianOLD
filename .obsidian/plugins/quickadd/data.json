@@ -1,0 +1,74 @@
+{
+  "choices": [
+    {
+      "id": "2a35b351-6c07-48ec-93bd-44b9949d9390",
+      "name": "Glossary",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Economics/!Glossary/Template",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Economics/!Glossary"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": true,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "41796cff-22d8-4474-9540-b20865d89191",
+      "name": "Lecture",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Economics/Template",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Economics/Data 1",
+          "Economics/Macro 1",
+          "Economics/Micro 1",
+          "Economics/Stats 1",
+          "Economics/Hist 1"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [
+    {
+      "name": "glossary",
+      "id": "338ea79b-6d0b-4eb0-8b49-9bdfe318402d",
+      "commands": [],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false
+}
