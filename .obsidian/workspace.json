@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Micro 1/Time.md",
+                "file": "Economics/Micro 1/Risk.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Micro 1/Time.md",
+                "file": "Economics/Micro 1/Risk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Micro 1/Time.md",
+                "file": "Economics/Micro 1/Risk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Micro 1/Time.md"
+                "file": "Economics/Micro 1/Risk.md"
               }
             }
           },
@@ -137,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -161,15 +162,15 @@
   },
   "active": "86b360e56e79ede1",
   "lastOpenFiles": [
-    "Economics/!Glossary/Homothetic Preferences.md",
     "Economics/Micro 1/Time.md",
-    "Economics/!Glossary/Minimum Variance Unbiased Estimator.md",
+    "Economics/!Glossary/Dynamic Consistency.md",
     "Economics/Micro 1/Spring Problem Set.md",
+    "Economics/!Glossary/Homothetic Preferences.md",
+    "Economics/!Glossary/Minimum Variance Unbiased Estimator.md",
     "Economics/Stats 1/Point Estimation.md",
     "Economics/!Glossary/Mean Squared Errors.md",
     "Example Note.md",
     "202301232127.md",
-    "Economics/Micro 1/Risk.md",
-    "Economics/Micro 1/Consumer Theory.md"
+    "Economics/Micro 1/Risk.md"
   ]
 }

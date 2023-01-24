@@ -42,6 +42,7 @@ periods
 pivot
 person
 proportions
+plans
 basic
 better
 by
@@ -62,6 +63,8 @@ borrow
 borrowing
 become
 borrowers
+being
+beginning
 Not
 New
 North
@@ -75,6 +78,8 @@ Donaldson
 Derive
 Did
 Douglas
+Discounted
+Dynamic
 macro
 micro
 million
@@ -120,6 +125,7 @@ Constraint
 Civil
 Changing
 Cobb
+Consistency
 Summative
 Seminar
 South
@@ -207,6 +213,9 @@ saves
 steep
 smallest
 shown
+seperated
+separated
+stream
 Three
 The
 Today
@@ -221,6 +230,7 @@ Their
 Two
 THIS
 THE
+Thus
 things
 today
 thing
@@ -252,6 +262,7 @@ theta
 times
 tomorrow
 therefore
+tags
 am
 argues
 an
@@ -284,6 +295,8 @@ any
 average
 arrange
 around
+assuming
+aliases
 grateful
 gone
 growth
@@ -325,6 +338,9 @@ full
 form
 favours
 facing
+follows
+fact
+formulated
 wish
 why
 was
@@ -396,6 +412,8 @@ choice
 change
 called
 consumption
+current
+choose
 have
 hist
 had
@@ -450,6 +468,7 @@ normal
 normally
 next
 now
+never
 Why
 What
 Western
@@ -483,11 +502,15 @@ distribution
 desirable
 defined
 decides
+discounted
+discount
+definitions
 America
 Are
 Anna
 And
 All
+As
 outgrow
 outgrew
 of
@@ -551,6 +574,7 @@ re
 rates
 remain
 refers
+refer
 in
 it
 industrialisation
@@ -580,6 +604,7 @@ instead
 increase
 incomes
 identical
+individual
 In
 It
 Invasion
@@ -601,6 +626,7 @@ Marginal
 MRS
 Mean
 More
+Model
 History
 However
 Heckscher
@@ -637,6 +663,7 @@ estimate
 estimator
 efficient
 expresses
+extended
 unequal
 urbanisation
 urban

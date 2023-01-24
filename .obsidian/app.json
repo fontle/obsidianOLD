@@ -1,5 +1,10 @@
 {
   "promptDelete": false,
   "vimMode": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "showInlineTitle": true,
+  "showFrontmatter": false,
+  "trashOption": "local",
+  "showUnsupportedFiles": false
 }

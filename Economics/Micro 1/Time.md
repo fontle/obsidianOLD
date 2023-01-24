@@ -82,12 +82,32 @@ Changing the interest rate will change the slope of the [[Budget Line]] which wi
 ### Impatience
 ---
 
-Impatiance refers to how much a person favours consumption today over tomorrow. This can be shown as the different between the MRS along the [[Equal Consumption Line]] and -1. Therefore the [[Discount Rate|degree of impatience]], $\rho$ is given by:
+Impatience refers to how much a person favours consumption today over tomorrow. This can be shown as the different between the MRS along the [[Equal Consumption Line]] and -1. Therefore the [[Discount Rate|degree of impatience]], $\rho$ is given by:
 
 $$\rho = -1-\text{MRS}$$
 
 **NOTE** the MRS will be the same along the equal consumption line if we have [[Homothetic Preferences]].
 
-## Discounted Utility Model 
+## Discounted Utility Model
 ---
-In the discounted utility model we refer to the present period and future period being seperated by a discount. Thus assuming that future utility is less than the current utility by the value of the utility discount. This discount value can be 
+
+In the discounted utility model we refer to the present period and future period being separated by a discount. Thus assuming that future utility is less than the current utility by the value of the utility discount. This can be extended for more the two periods as follows:
+
+$$\large
+U(c_{1},\ldots, c_{T)}=u(c_{1})+ \frac{u(c_{2})}{1+\rho}+\ldots+\frac{u(c_{T})}{(1+\rho)^{T-1}}
+$$
+
+### [[Dynamic Consistency]]
+---
+
+Refers to the fact that if an individual choose a stream of consumption that is *optimal today*, the this stream will also be optimal *tomorrow* or over any period of time.
+
+As a result, the consumer will never change its plans formulated at the beginning of the time period.
+
+However, consumers can behave in a *dynamically inconsistent* manner, the most common form of such inconsistency is **procrastination**. This can occur when individuals overvalue the present compared to the discounted utility model. Where $\gamma > 1$
+
+$$\large
+U(c_{1},c_{2}, c_{3})=\gamma \cdot u(c_{1})+ \frac{u(c_{2})}{1+\rho}+\frac{u(c_{3})}{(1+\rho)^{T-1}}
+$$
+
+This model is called a *hyperbolic discounting model*. At the first period, the utility is much greater than the periods afterwards.
