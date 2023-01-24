@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Stats 1/Point Estimation.md",
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Stats 1/Point Estimation.md",
+                "file": "Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Stats 1/Point Estimation.md"
+                "file": "Untitled 2.md"
               }
             }
           },
@@ -193,11 +193,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8c207a467d388953",
+  "active": "b6b75ddf4b5bbd36",
   "lastOpenFiles": [
+    "Economics/Stats 1/Point Estimation.md",
     "Economics/Micro 1/Time.md",
     "Untitled 2.md",
-    "Economics/Stats 1/Point Estimation.md",
     "Economics/Micro 1/Risk.md",
     "Economics/!Glossary/Discount Rate.md",
     "Economics/!Glossary/Equal Consumption Line.md",
