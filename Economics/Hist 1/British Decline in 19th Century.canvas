@@ -1,16 +1,16 @@
 {
 	"nodes":[
-		{"id":"755969e885710e5c","x":-796,"y":-387,"width":250,"height":130,"type":"file","file":"Pasted image 20230125104527.png"},
-		{"id":"7287a5a1e8280820","x":-885,"y":-148,"width":354,"height":224,"color":"4","type":"file","file":"Pasted image 20230125104554.png"},
+		{"id":"755969e885710e5c","x":-796,"y":-387,"width":250,"height":130,"type":"file","file":"Attachments/Pasted image 20230125104527.png"},
+		{"id":"7287a5a1e8280820","x":-885,"y":-148,"width":354,"height":224,"color":"4","type":"file","file":"Attachments/Pasted image 20230125104554.png"},
 		{"id":"d1ce5ea0352b6233","x":-833,"y":76,"width":250,"height":60,"type":"text","text":"GDP per capita over time"},
 		{"id":"5e6dc0b9a05d6aaa","x":-796,"y":-257,"width":250,"height":50,"type":"text","text":"*Changes in output over time*"},
 		{"id":"b2f078e1cad8f97f","x":-382,"y":-351,"width":250,"height":60,"type":"text","text":""},
-		{"id":"13cf58418371b084","x":-435,"y":-385,"width":400,"height":128,"type":"file","file":"Pasted image 20230125104829.png"},
+		{"id":"13cf58418371b084","x":-435,"y":-385,"width":400,"height":128,"type":"file","file":"Attachments/Pasted image 20230125104829.png"},
 		{"id":"27824f3d0949bc86","x":-360,"y":-257,"width":250,"height":56,"type":"text","text":"Levels and rate of growth using Geary-Khamis dollars"},
 		{"id":"dc08c8dfaf6c5506","x":-560,"y":329,"width":250,"height":60,"type":"text","text":""},
 		{"id":"29da3486176b3a4d","x":72,"y":76,"width":250,"height":56,"type":"text","text":"# British Decline in the late 19th century "},
 		{"id":"ee72ad0701ed1973","x":-435,"y":-129,"width":389,"height":187,"type":"text","text":"- While Britain was well ahead of Germany and US, it just had slower growth. \n- Britain is overtalen by US and Germany between 1870-1914\n- However, this is relative economic decline, not absolute decline. "},
-		{"id":"9cd7fc2cb20c5dfd","x":234,"y":-478,"width":400,"height":344,"type":"file","file":"Pasted image 20230125105309.png"},
+		{"id":"9cd7fc2cb20c5dfd","x":234,"y":-478,"width":400,"height":344,"type":"file","file":"Attachments/Pasted image 20230125105309.png"},
 		{"id":"cfc6c65f7f73ac4d","x":234,"y":-134,"width":400,"height":60,"type":"text","text":"*Comparison between American and European productivity*"},
 		{"id":"140a9d2cd00170bc","x":-472,"y":190,"width":301,"height":199,"type":"text","text":"*Wiener (1981)* argues that Britain lost its *industrial spirit* and the bourgeois turned to feurdal values. \n\nHowever, this book suffered the common critisicm of quantitative economics that the Hypothesis were unfalsafiable. "}
 	],

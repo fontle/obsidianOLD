@@ -1,7 +1,7 @@
 #lecture-notes #data1 
 ## Correlation Vs causation 
 ---
-A [[correlation]] is a measure of how related multiple variables are related to each other.
+A [[Correlation]] is a measure of how related multiple variables are related to each other.
 
 > [!caution] Spurious Correlations
 > A correlation can be spurious whereby multiple variables are associated but not causally related. 
