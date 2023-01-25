@@ -1,5 +1,5 @@
 ---
-tags: definitions 
+tags: definitions, data1
 aliases:
 ---
 A **correlation** is a measure of how related multiple variables are related to each other. 

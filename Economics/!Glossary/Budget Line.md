@@ -1,5 +1,5 @@
 ---
-tag: definition, micro1
+tag: definitions, micro1
 alias: Budget Constraint, Money Constraint, Utility Constraint, Money Line
 ---
 - Shows the limits of which bundles a consumer can own.

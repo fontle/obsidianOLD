@@ -1,5 +1,5 @@
 ---
-tags: definitions 
+tags: definitions, micro1
 aliases: time budget constraint, budget constraint over time
 ---
 

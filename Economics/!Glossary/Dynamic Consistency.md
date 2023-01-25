@@ -1,5 +1,5 @@
 ---
-tags: definitions 
+tags: definitions, micro1
 aliases: consumption consistency, 
 ---
 - Refers to when a consumer chooses a consumption bundle over a period of time, and that said consumption bundle does not change.

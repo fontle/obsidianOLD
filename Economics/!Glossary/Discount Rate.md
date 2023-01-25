@@ -1,5 +1,5 @@
 ---
-tags: definitions 
+tags: definitions, micro1 
 aliases: rho, rho rate, \rho
 ---
 - The Discount Rate, $\rho$, is the **degree of impatience** of the consumer:

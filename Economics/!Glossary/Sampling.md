@@ -1,5 +1,5 @@
 ---
-tags: definitions, stats1,  
+tags: definitions, stats1, data1
 aliases: 
 ---
 Is the process of taken observations from a select number of observations in a larger population.

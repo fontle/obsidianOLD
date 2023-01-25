@@ -32,8 +32,37 @@ For example:
 - **Institutional data** such as GDP, inflation, and financial indicies
 - **Adminastrative Data** such as mortality data and insurance claims
 - **Data mining** from the metadate of digital transations. 
-[[Counterfactual]]
-## Diff in Diff method 
+
+[[Counterfactual]] is an observation made that estimates what would that would be true under different circumstances. In essence "If X had not occured, Y would not have occured". 
+
+Example of Counterfactual: *"Given Hillary Clinton did not win the presidential election, and given that she did not visit Michigan 3 days prior, what can we say about the probability of her winning the election had she visited Michigan?"*
+
+## The Evaluation Problem
+---
+- It often occurs that researchers estimate causal effects with non-experimental data where all variables are controlled. In natural experiments it is sometimes difficult to identify causal effects. 
+
+- If omitted variables that influence whether an individual is in the treatment group (the group that is measured) then it is most likely that the sample is biased (selection bias). 
+
+- In natural experiments, not all variables are controlled and therefore unforeseen trends caused by omitted varrables occur. 
+> [!example] Moral Hazard in Health Insurance
+> Potential Issues: 
+> - Selection Bias: Individuals who decide to purchase insurance might have greater dental care needs, however we cannot observe that before providing insurance
+> - Trends: The average consumption of dental care might change over time. Such as increasing with an awareness campaign. 
+> Dataset Design:
+> - Cross-section: *Two groups of individuals with and without insurance at a moment in time* 
+> 	- Repeated Cross-Section: *Two different groups of individuals with and without insurance  sampled from the population at the beginning and end of a time period.*
+> - Time Series: *One group of individuals observed before and after puchasing insurance*
+> - Panel Data: *Two groups of individuals (with and without insurance) observed over time for consumption 
+
+![[Pasted image 20230124220414.png]]
+
+Time: 6:11 Finding economic data
+
+
+
+
+> 
+## Differences in Differences Method 
 ---
 $y^{0}$ represents the control group. 
 $y^{1}$ represents the treatment group. 
