@@ -1,3 +1,5 @@
+#macro1 #seminar
+
 ## Question 4
 ---
 The aggregate supply relation implies that an increase in output leads to an increase in  
