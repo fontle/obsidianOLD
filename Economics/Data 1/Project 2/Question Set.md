@@ -18,8 +18,7 @@ Using the $\mathtt{COUNT(UNIQUE(range))}$ formula we can find all distinct value
 | ---------------------------------:| ---------------------------------:|
 |                                26 |                               247 |
 
-
-## Question Two 
+## Question Two
 ---
 
 > *A frequency table showing the number (count) of store observations (store type) in December 2014 and June 2015, with ‘store type’ as the row variable and ‘time period’ as the column variable. For each store type, is the number of observations similar in each time period?*
@@ -32,9 +31,8 @@ Using the $\mathtt{COUNT(UNIQUE(range))}$ formula we can find all distinct value
 | **4**           |        $73$ |        $96$ |           $169$ |
 | **Grand Total** |       $744$ |       $798$ |          $1542$ |
 
-As we can see, the total observations are far greater for store type 2 comparative to other store types. This may be representative for the different types of shops in the bay area: there are more likely to be supermarekets tahn pharmacies for example. 
+As we can see, the total observations are far greater for store type 2 comparative to other store types. This may be representative for the different types of shops in the bay area: there are more likely to be supermarekets than pharmacies for example. 
 
 Additionally, for all store types it seems that the number of observations has increased. 
 
 > *A frequency table showing the number of taxed and non-taxed beverages in December 2014 and June 2015, with ‘store type’ as the row variable and ‘taxed’ as the column variable. (‘Taxed’ equals 1 if the sugar tax applied to that product, and 0 if the tax did not apply). For each store type, is the number of taxed and non-taxed beverages similar*
-

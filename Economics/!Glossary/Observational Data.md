@@ -6,7 +6,6 @@ aliases:
 
 For example: 
 - **Surveys** with data collected from a sample of respondents. 
-- **Institutional data** such as GDP, inflation, and financial indicies
+- **Institutional data** such as GDP, inflation, and financial indices
 - **Adminastrative Data** such as mortality data and insurance claims
 - **Data mining** from the metadate of digital transations. 
-

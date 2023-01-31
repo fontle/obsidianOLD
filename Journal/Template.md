@@ -1,4 +1,5 @@
-### Three Things I Am Grateful for Today
+## Three Things I Am Grateful for Today
 ---
-### One Thing I Wish Could Have Gone Better
+
+## One Thing I Wish Could Have Gone Better
 ---

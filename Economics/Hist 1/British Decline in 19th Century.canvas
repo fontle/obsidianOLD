@@ -1,18 +1,24 @@
 {
 	"nodes":[
 		{"id":"755969e885710e5c","x":-796,"y":-387,"width":250,"height":130,"type":"file","file":"Attachments/Pasted image 20230125104527.png"},
-		{"id":"7287a5a1e8280820","x":-885,"y":-148,"width":354,"height":224,"color":"4","type":"file","file":"Attachments/Pasted image 20230125104554.png"},
-		{"id":"d1ce5ea0352b6233","x":-833,"y":76,"width":250,"height":60,"type":"text","text":"GDP per capita over time"},
 		{"id":"5e6dc0b9a05d6aaa","x":-796,"y":-257,"width":250,"height":50,"type":"text","text":"*Changes in output over time*"},
 		{"id":"b2f078e1cad8f97f","x":-382,"y":-351,"width":250,"height":60,"type":"text","text":""},
 		{"id":"13cf58418371b084","x":-435,"y":-385,"width":400,"height":128,"type":"file","file":"Attachments/Pasted image 20230125104829.png"},
 		{"id":"27824f3d0949bc86","x":-360,"y":-257,"width":250,"height":56,"type":"text","text":"Levels and rate of growth using Geary-Khamis dollars"},
-		{"id":"dc08c8dfaf6c5506","x":-560,"y":329,"width":250,"height":60,"type":"text","text":""},
+		{"id":"b69d655c3f36c30c","x":430,"y":106,"width":425,"height":410,"type":"text","text":"## The Industrial Revolutions\n\n### First Industrial Revolution\n- Main inventors were British using steam and coal \n- High wages and low energy costs allowed capital to replace labour moreso than anywhere in the world, enabling Mechinisation.\n- This lead to slow but steady higher growth in UK."},
+		{"id":"a3ff0473f708f78b","x":-92,"y":516,"width":474,"height":393,"type":"text","text":"*Crafts (2018)*[^1] argues the causes of British decline in the 20th century did not lie in the 19th century.\n\nCauses of failure include: \n- Britain was locked into low tech industries like mining and textiles which were highly regional\n- The British government was too laid back in the implementation of education which hindered innovation and productivity growth during the second industrial revo.ution which required specific knowledge.\n    - Britain did not experience military defeat improved education in countries like France and Germany.\n\n[^1]:*Forging Ahead Falling Behind and Fighting Back*"},
+		{"id":"d5389075941d8d53","x":-603,"y":516,"width":432,"height":393,"type":"text","text":"## Britain Employer Employee Relations\nAt the end of each financial year there was a conflict between stakeholders about how to spend excess revenue: \n1. Increase Wages and Salaries (to workers)\n2. Increase Dividens (to stakeholders)\n3. Reinvest in the company\n\nReinvesting into the company is usually the best option as it can increase the capital in the country which increases productivity and thus revenue.\n\nReinvestment has become even more important over time due to Research and Development."},
+		{"id":"140a9d2cd00170bc","x":-472,"y":190,"width":301,"height":220,"type":"text","text":"*Wiener (1981)* argues that Britain lost its *industrial spirit* and the bourgeois turned to feurdal values. \n\nHowever, this book suffered the common critisicm of quantitative economics that the Hypothesis were unfalsafiable. "},
+		{"id":"390eae6836461db1","x":23,"y":194,"width":299,"height":213,"type":"text","text":"*McCloskey (1970)* argues that Victorian britian did not fail.\n- It was rational to allcoate  capital where its returns were highers. \n- Britain grew its PPF as much as it could at that time."},
+		{"id":"d1ce5ea0352b6233","x":-833,"y":76,"width":250,"height":60,"type":"text","text":"GDP per capita over time"},
 		{"id":"29da3486176b3a4d","x":72,"y":76,"width":250,"height":56,"type":"text","text":"# British Decline in the late 19th century "},
-		{"id":"ee72ad0701ed1973","x":-435,"y":-129,"width":389,"height":187,"type":"text","text":"- While Britain was well ahead of Germany and US, it just had slower growth. \n- Britain is overtalen by US and Germany between 1870-1914\n- However, this is relative economic decline, not absolute decline. "},
-		{"id":"9cd7fc2cb20c5dfd","x":234,"y":-478,"width":400,"height":344,"type":"file","file":"Attachments/Pasted image 20230125105309.png"},
+		{"id":"7287a5a1e8280820","x":-885,"y":-148,"width":354,"height":224,"color":"4","type":"file","file":"Attachments/Pasted image 20230125104554.png"},
+		{"id":"ee72ad0701ed1973","x":-435,"y":-129,"width":389,"height":187,"type":"text","text":"- While Britain was well ahead of Germany and US, it just had slower growth. \n- Britain is overtaken by US and Germany between 1870-1914\n- However, this is relative economic decline, not absolute decline. "},
 		{"id":"cfc6c65f7f73ac4d","x":234,"y":-134,"width":400,"height":60,"type":"text","text":"*Comparison between American and European productivity*"},
-		{"id":"140a9d2cd00170bc","x":-472,"y":190,"width":301,"height":199,"type":"text","text":"*Wiener (1981)* argues that Britain lost its *industrial spirit* and the bourgeois turned to feurdal values. \n\nHowever, this book suffered the common critisicm of quantitative economics that the Hypothesis were unfalsafiable. "}
+		{"id":"9cd7fc2cb20c5dfd","x":230,"y":-478,"width":400,"height":344,"type":"file","file":"Attachments/Pasted image 20230125105309.png"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"cd18ed95065f1005","fromNode":"390eae6836461db1","fromSide":"left","toNode":"140a9d2cd00170bc","toSide":"right","label":"Contradicts"},
+		{"id":"e4b0f85076ef991a","fromNode":"a3ff0473f708f78b","fromSide":"top","toNode":"390eae6836461db1","toSide":"bottom","label":"Builds on"}
+	]
 }

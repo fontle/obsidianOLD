@@ -12,5 +12,3 @@ aliases:
 - No other policy should affect the outcome of the treatment group during observation
 - The control and treatment groups need to follow **parallel trends** to allow for accurate counterfactuals. 
 - 
-
-

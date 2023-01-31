@@ -1,7 +1,6 @@
 #lecture-notes #hist1
 
 ## Why Did America Outgrow UK
-
 **Demographics** had a large role in why America outgrew UK rapdily.
 
 - In the 17th century, the population was 5 million, by 1900 it was **100 Million**
@@ -29,7 +28,6 @@ The US econonmy mid 19th century was split in two:
 > The **South** and **North** developed fundamentally different growth strategies.
 
 ### Southern Economy
-
 - Raw material for the European factories was in high demand
 (Heckscher-Ohlin 2 factor-model with only land and labor → US land
 abundant, Western Europe labor abundant)
@@ -55,7 +53,8 @@ city networks
 
 ![[Pasted image 20230123104525.png]]
 The Northern and Midwestern states had a productive agriculture but not to the point they could overcome the transport costs Europe. However technological advancements allowed agriculture exports to Europe. 
-## The Role of Transport in US Growth
+
+### The Role of Transport in US Growth
 ---
 
 ![[Pasted image 20230123103940.png]]
@@ -67,7 +66,8 @@ The Northern and Midwestern states had a productive agriculture but not to the p
 - His study covers a lot of models and is relevant today. He spoke about the east coast which developed a meaningful system of canals by the 19th century where industrialisation occurred.
 Meanwhile, *Donaldson and Hornbeck 2016* show with GIS that value of land more than doubled due to railroads.
 *Bleakley and Lin 2012* find that portage sites (where you had to carry your float from one river to another) were the birthplaces for many modern US cities.
-### Chicago Case Study
+
+#### Chicago Case Study
 ---
 Chicago acted as a hub connecting the midwest and west coast (thus also europe). One reason for this is an initial advantage, as is good access to both lumber and the Great Plains.
 
@@ -93,8 +93,7 @@ Habbakuk compared relative input conditions into production between America and 
 ---
 Mechinisation allowed for cheaper mass production, and allowed America to mass produce goods countries in Europe couldn't such as the automobile. 
 
-Furthermore, America had more homogenous consumer preference which meant that mass produced products could have a greater reach than in European markets.
-
+Furthermore, America had more homogeneous consumer preference which meant that mass produced products could have a greater reach than in European markets.
 
 ### Capital Transfer
 --- 
@@ -104,12 +103,13 @@ Consequently, America then had large resources, territory and good institutions 
 
 ### Mineral Production in America
 ---
-Between 1870 and 1914 America went from a small irrelavent producer to the largest producer of Coal, Copper, Irone Ore, Lead, Petrol, Silver, Sulphur, and Zinc [^1]
+Between 1870 and 1914 America went from a small irrelevant producer to the largest producer of Coal, Copper, Irone Ore, Lead, Petrol, Silver, Sulphur, and Zinc [^1]
 Transport innovations were usually a result of natural endowments of certain minerals and resources: Britain was endowed with coal which enabled the railway, America was endowed with petrol which allowed the Automobile.
 
 As a result, the American economy was reliant on the idea that energy was cheap and that resources were widely available. 
-[^1]: *Wright (2015, 6.1)*
 
-### 20th century
+### 20th Century
 --- 
-Unlike Europe, America was able to develop without major influence from destructive political factors such as the two world wars which enabled America to become the leader in world economically. 
+Unlike Europe, America was able to develop without major influence from destructive political factors such as the two world wars which enabled America to become the leader in world economically.
+
+[^1]: *Wright (2015, 6.1)*

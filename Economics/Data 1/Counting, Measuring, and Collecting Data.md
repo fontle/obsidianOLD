@@ -13,5 +13,3 @@ Is the process of taken observations from a select number of observations in a l
 [[Sampling Error]] is the difference between the sample estimator and the actual unknown population parameter. 
 
 [[Sample Bias]] occurs when a sample is collected in a way that some members of the population are more or less likely to be included than others, and therefore the sample is not representative of the whole population. 
-
-
