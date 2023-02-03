@@ -1,5 +1,6 @@
 #lecture-notes #data1 
-## Correlation Vs causation 
+
+## Correlation Vs Causation
 ---
 A [[Correlation]] is a measure of how related multiple variables are related to each other.
 
@@ -20,4 +21,3 @@ A [[Causal Effect]] is when one variable (the *independent variable*) causes an 
 This should only be used if there is both **internal validity** where there is a demonstrated causal relationship within the context of the data and **external validity** where you can generalise the findings of a study to other situations. 
 
 [[Economic Forecasting]] is the process of making prediction about the economy indicators such as inflation, GDP, etc.
-

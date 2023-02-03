@@ -6,19 +6,21 @@ kanban-plugin: basic
 
 ## Not Done
 
-- [ ] #data1 Complete Data Prereading @[[24-01-23]]@@{14:00}
-- [ ] Complete Seminar Problems #macro1 @[[25-01-23]]
 - [ ] #macro1 Complete Summative Essay @{01-03-23}
+- [ ] Complete Risk Problems #micro1
+- [ ] Do Data pre-reading #data1 @[[01-02-2023]]
 
 
 ## Doing
 
-- [ ] #micro1 Complete Practical One @[[23-01-23]]
 
 
 ## Done
 
 **Complete**
+- [x] #data1 Complete Data Prereading @[[24-01-23]]@@{14:00}
+- [x] #micro1 Complete Practical One @[[23-01-23]]
+- [x] Complete Seminar Problems #macro1 @[[25-01-23]]
 
 
 

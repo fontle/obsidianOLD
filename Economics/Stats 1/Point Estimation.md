@@ -6,7 +6,7 @@ $$\bar{x} \xrightarrow{estimates} \sigma^2 $$
 
 $$S^2 \xrightarrow{estimates} \sigma^2 $$
 
-### Case 1: Sample Mean as Estimator of Population Mean
+## Case 1: Sample Mean as Estimator of Population Mean
 ---
 
 For a sample such that $X_{i}\sim i.i.d.N(\mu, \sigma^2)$ where the sample is **random** from a **normal population** then we know that:
@@ -15,7 +15,7 @@ $$\large
 Z = \frac{\bar{x}-\mu }{\frac{\sigma}{\sqrt{ n }}} \sim N(0,1)
 $$ 
 
-### Case 2: Sample Proportion as an Estimator of Population Proportion
+## Case 2: Sample Proportion as an Estimator of Population Proportion
 ---
 
 Suppose we would like to know the proportion of families in York who own, rather than rent, their homes. We can use the *population proportion* as the parameter of interest, which we will denote hereforth as $\pi$
@@ -96,6 +96,7 @@ $$
 The [[Minimum Variance Unbiased Estimator]] is the unbiased estimator for the parameter $\theta$ that has the smallest variance.
 
 The [[Mean Squared Errors]] is used to compare biased estimators:
+
 $$
 \text{MSE}(\hat{\theta}) = E[(\hat{\theta}-\theta)^{2]}= \text{var}(\hat{\theta}) + [\text{Bias}_n(\hat{\theta})]^2
 $$

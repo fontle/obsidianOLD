@@ -8,5 +8,3 @@ aliases:
 ## Requirements of External Validity
 - Samples need to be representative of the population of interest.
 - Policies, behaviours and environment need to be similar.
-
-

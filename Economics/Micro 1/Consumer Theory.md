@@ -37,7 +37,6 @@ We usually make the following assumption on preferences:
 2. **Convexity** We assume the consumer prefers a mix of the goods rather than just one of the goods
 
 ## Indifference Curves
-
 ---
 
 Is a curve that represents all the different preference bundles that the consumer is indifferent to: i.e. each bundle along the indifference curve provides that same utility to the consumer.

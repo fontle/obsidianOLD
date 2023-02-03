@@ -61,7 +61,7 @@ $$
 
 The **slope of the Budget line** is $-(1+r)$ as represents the *opportunity cost* of consuming today comparative to tomorrow.
 
-## Intertemporal Indifference Curves
+### Intertemporal Indifference Curves
 ---
 
 Like before the optimal choice is given by the point where the slope of the budget constraint is equal to marginal rate of substitution between the two time periods.
@@ -74,12 +74,12 @@ $$
 
 Where $\rho$ is the [[Discount Rate]].
 
-### Changing the Interest Rate
+#### Changing the Interest Rate
 ---
 
 Changing the interest rate will change the slope of the [[Budget Line]] which will *pivot* around the point $(m_{1},m_{2})$ if the interest rates increase, the budget line will become more steep, therefore lenders will remain lenders and some borrowers will become lenders.
 
-### Impatience
+#### Impatience
 ---
 
 Impatience refers to how much a person favours consumption today over tomorrow. This can be shown as the different between the MRS along the [[Equal Consumption Line]] and -1. Therefore the [[Discount Rate|degree of impatience]], $\rho$ is given by:

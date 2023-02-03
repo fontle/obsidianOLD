@@ -1,6 +1,6 @@
 #macro1
 
-## [[IS relation]] 
+## [[IS relation]]
 ---
 - Equilibrium in the goods market can be described where output $Y$ is equal to the demand for goods $Z$. This is called the [[IS-relation]].
 
@@ -58,14 +58,3 @@ $$
 ---
 - In the short run, variables are not fixed and therefore price levels and output can deviate from their expected and natural values respectively. 
 - In the medium run, price expectation must equal price levels $(P=P^e)$; output and unemployment must also be at their natural levels $(Y=Y_{n},u=u_{n})$ 
-
-
-
-
-
-
-
-
-
-
-
