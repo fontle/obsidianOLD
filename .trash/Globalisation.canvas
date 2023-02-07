@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"729bd678d091d49a","x":-100,"y":-80,"width":171,"height":60,"type":"text","text":"# Globalisation"},
+		{"id":"0e83ce64db86c719","x":-720,"y":-259,"width":180,"height":139,"type":"text","text":"## Input factors\n- **Land** $T$\n- **Capital** $K$\n- **Labour** $L$"},
+		{"id":"a648b89eab5d7a20","x":-400,"y":-259,"width":160,"height":139,"type":"text","text":"## Outputs \n- Goods \n- Services "}
+	],
+	"edges":[
+		{"id":"0079978c6e19b1c5","fromNode":"0e83ce64db86c719","fromSide":"right","toNode":"a648b89eab5d7a20","toSide":"left","label":"Produces"}
+	]
+}

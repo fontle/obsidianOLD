@@ -78,6 +78,7 @@ $$
 
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 *Anna's utility function is $u(x_{1}, x_{2})=x_{1}^{0.75}x_{2}^{0.25}$. The prices of the goods were $p_{1}=1$ and $p_{2}=2$ she has an income of $80$.*
 
 #### What is the Budget Constraint
@@ -93,13 +94,17 @@ $$
 
 $$
 =======
+=======
+
+>>>>>>> origin/master
 *Anna's utility function is* $u(x_{1}, x_{2})=x_{1}^{0.75}x_{2}^{0.25}$. The prices of the goods were $p_{1}=1$ and $p_{2}=2$ she has an income of $80$.*
 
 1. What is the Budget Constraint
 
 $$ 
 \begin{align*}
-p_{1}x_{1}+p_{2}x_{2}= 80
+p_{1}x_{1}+p_{2}x_{2}= 80 \\ 
+x_{1} + 2x_{2}=80
 \end{align*}
 $$
 
@@ -108,8 +113,8 @@ $$
 $$
 >>>>>>> origin/master
 \begin{align*}
-\text{MU}*{1} &= \frac{\partial U}{\partial x*{1}}\\
-\text{MU}*{1} &= 0.75x*{1}^{-0.25}x_{2}^{0.25} \\
+\text{MU}_{1} &= \frac{\partial U}{\partial x*{1}}\\
+\text{MU}_{1} &= 0.75x*{1}^{-0.25}x_{2}^{0.25} \\
 \end{align*}
 <<<<<<< HEAD
 $$
@@ -125,8 +130,8 @@ $$
 $$
 >>>>>>> origin/master
 \begin{align*}
-\text{MU}*{2} &= \frac{\partial U}{\partial x*{2}}\\
-\text{MU}*{2} &= 0.25x*{2}^{-0.25}x_{1}^{0.75}\\
+\text{MU}_{2} &= \frac{\partial U}{\partial x*{2}}\\
+\text{MU}_{2} &= 0.25x*{2}^{-0.25}x_{1}^{0.75}\\
 \end{align*}
 $$
 <<<<<<< HEAD
@@ -293,23 +298,22 @@ $$
 
 $$
 \begin{align*}
-\text{MRS} &= -\left(\frac{\text{MU}*{2}}{\text{MU}*{1}}\right) \\ \\
-&= \frac{0.25x_{2}^{-0.25}x_{1}^{0.75}}{0.75x_{1}^{-0.25}x_{2}^{0.25}}\\ \\
-&= -\frac{0.25x_{1}}{0.75x_{2}}
+\text{MRS} &= -\left(\frac{\text{MU}_{1}}{\text{MU}_{2}}\right) \\ \\
+&= \frac{0.75x_{1}^{-0.25}x_{2}^{0.25}}{0.25x_{2}^{-0.25}x_{1}^{0.75}}\\ \\
+&= -\frac{0.75x_{2}}{0.25x_{1}} \\ 
+&= -\frac{3x_{2}}{x_{1}}
 \end{align*}
 $$
 
-5.  What Anna's optimal bundle? 
+5. What Anna's optimal bundle?  
 		Optimal Bundle occurs at when the price ratio $\frac{-p_{1}}{p_{2}}=MRS$  
 
 $$
 \begin{align}
-\frac{1}{2}&= \frac{0.25x_1}{0.75x_{2}} \\
-2.5x_{2} &= x_{1} \\
-x_{1}+2x_{2}&=80 \\
-3.5x_{2}&=80 \\
-x_{2}&\approx 22.86 \\
-x_{1}&\approx 34.29
+\frac{1}{2}&= \frac{3x_2}{x_{1}} \\
+6x_{2}+2x_{2}&= 80 \\
+x_{2}&= 10 \\
+x_{1}&= 80
 \end{align}
 $$
 

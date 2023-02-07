@@ -5,7 +5,7 @@
 
 $$\epsilon= {EP \over P^{*}}$$
 
-Ways the real exchange rate can adjsut
+Ways the real exchange rate can adjust
 - Through a change in domestic price level, $P$ changes relative to $P*$
 - Through a change in the nominal exchange rate, $E$
 
