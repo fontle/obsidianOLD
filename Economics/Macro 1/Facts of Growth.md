@@ -13,4 +13,3 @@ One Issue with this approach is that it does not account for **income and wealth
 
 ![[Pasted image 20230131125237.png]]
 *ON AVERAGE* countries with higher RGDP per capita (PPP) have higher life-satistaction.
-
