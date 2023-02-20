@@ -22,4 +22,34 @@ Ceteris Paribus. Countries with a higher saving rate will achieve higher output 
 
 As output per worker increase in the long run due to an increase the saving rate as presumed by point 2, the economy will go through a *period* of positive growth. This period of growth will end once the economy reaches a steady state. 
 
-mashed potatoes
+## Introducing Human Capital 
+---
+Thus far we have only accounted for physical capital without accounting for human capital, however this is not realistic as output per worker strongly correlates with human capital: 
+![[Pasted image 20230220171201.png]]
+
+Therefore we should adjust our capital acummulation relation to:
+$$\frac{Y}{N} = f\left( \frac{K}{N}, \frac{H}{N} \right)$$
+An increase in how much the society saves in the form of human capital - through education and training - increases the human capital per worker, thus increasing overall output per worker. 
+
+In long run, output per worker depends not only on how much it saces but also on how much it spends on education. 
+
+There is roughly equal weighting on important between physical and human capital per worker. 
+
+In the United States, spending on education is about 4% of GDP compared to 17% investment in physical capital. 
+
+## Technological progress
+--- 
+Technological progress reduces the number of workers needed to achieve a given amount of output.
+j
+Thus technologyical progress increases $AN$ which we can think of as the amount of *effective labour* with constant returns to scale: 
+$$
+\begin{align}
+2Y &= f(2K,2AN) \\
+&\text{or in general} \\
+xY &= f(xK,xAN)
+\end{align}
+$$
+Technological progress has a similar effect to increasing the number of workers. 
+
+As a result we can update our model to include not only population growth and depreciation but also technological progress: 
+$$\left(\frac{s}{\delta + g_{N} + g_{A}}\right)^{2}= \frac{K*}{AN}$$
