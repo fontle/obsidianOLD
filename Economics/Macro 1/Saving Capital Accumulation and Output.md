@@ -1,3 +1,4 @@
+#lecture-notes #macro1 
 The change in capital over a period of time $t$ can be given by: 
 $$\large
 \begin{matrix}
@@ -53,3 +54,31 @@ Technological progress has a similar effect to increasing the number of workers.
 
 As a result we can update our model to include not only population growth and depreciation but also technological progress: 
 $$\left(\frac{s}{\delta + g_{N} + g_{A}}\right)^{2}= \frac{K*}{AN}$$
+## Charactaristics of long term
+---
+- Capital per effective worker and output per effective worker are constant  
+-  Capital per effective worker and output per effective worker are constant.  
+- Equivalently, capital per worker and output per worker are growing at the rate  of technological progress, gA.  
+- Equivalently, capital and output are growing at a rate equal to the sum of  population growth and the rate of technological progress, (gA + gN).  
+- This situation is referred to as the balanzced growth path. All variables grow at  the same rate (if measured in the same units!!)  
+- Growth rates on the balanced growth path are independent of the savings rate
+## Determinants of Techonological Progress
+---
+Technological progresss in economics is the result of firms' research activities. The outcome of R&D is *idead*. These are non-rival.
+
+Spending on R&D depend on : 
+- The **fertility** of the research process or how spending on research translates into ideas and innovation itself. This ca be broken down to: 
+	- The interaction of basic and applied research. 
+	- Some countries are more successfull at basic reasearch whilst others at applied.
+	- It also takes **time**, sometimes decades for the full potential of discoveries to be realised.
+- The **appropriability of research** or how able firms are to reap the benefits of R&D.
+	- Is there a payoff in being first at developing a new product? how strong is patent protection in the economy. 
+
+### Patents
+
+| Positives                                                               | Negatives                                              |     |
+| ----------------------------------------------------------------------- | ------------------------------------------------------ | --- |
+| - Increase in expected profits from R&D.                                | - Could create a monopoly                              |     |
+| - Patents are temporary, afterwards the technology is readily available | - Granting a patent is expensive and costly            |     |
+|                                                                         | - Diverts resources to law suits instead of innovation |     |
+|                                                                         | May prevent progress                                   |     |

@@ -22,6 +22,9 @@ We can supplement a market's supply and demand functions to include the **social
 	- Or, impose the firms do not produce more than the optimal level of pollution
 	- The choice between the two depends on the information the government has.
 2. Taxes and Subsidies for negative and positive externalities respectively as they can change the market price to the socially
+3. Pollution Permits/Vouchers: We could allow firms to pollute providing they buy a permit for each unit of pollution, this puts a 'price' on pollution and creates a market which was missing.
+4. Mergers: If one firm is polluting and doing so harms another, the firms could merger
+5. Bargaining: Could allow each party to exchange to lead to an outcome in which everyone is better off.
 ## The Coase Theorem
 ---
 If property rights are well-defined and there are no transaction costs, then economic agents will contract to achive an efficient outcome, irrespective of the assignment of property rights.
