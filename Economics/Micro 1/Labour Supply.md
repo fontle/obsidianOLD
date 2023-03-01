@@ -14,7 +14,7 @@ We can derive a budget constraint for this model:
 
 $$\large
 pC+w(\bar{L}-L) =M + w\bar{L}
-$$Which re-arranged to a linear funciton is 
+$$Which re-arranged to a linear function is 
 $$C = \frac{M + w\bar{L}}{P}-\frac{w}{P}R$$
 Whereby: 
 - $pC$ is aggregate value of consumption
@@ -27,7 +27,7 @@ For an individual's labour supply, the endowment point is where $R= \bar{L}$.
 ### Income and Substitution Effect
 We can determine that the price of leisure $(\bar{L} - L)$ is the wage,$w$, this means that there is a **substitution effect** as when wages increase we will likely *reduce* our "consumption" of labour. However, if this was the only effect then we would determine that a high wage would result in people to not work? This assumption is wrong.
 
-When wages change, there is another effect ocurring on the other side the equation. $w\bar{L}$. As wages increase, the possible wage for the individual increases and therefore their 'budget' for work is higher, and thus the worker works more. This is known as the **income effect**.
+When wages change, there is another effect occurring on the other side the equation. $w\bar{L}$. As wages increase, the possible wage for the individual increases and therefore their 'budget' for work is higher, and thus the worker works more. This is known as the **income effect**.
 
 ## Optimal Choice
 ---
