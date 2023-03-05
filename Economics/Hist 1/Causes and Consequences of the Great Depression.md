@@ -1,4 +1,4 @@
-#lecture-notes #hist1 
+#https://youtu.be/noM0fV4pyQYlecture-notes #hist1 
 
 ## Great Recession vs Great Depression
 --- 
