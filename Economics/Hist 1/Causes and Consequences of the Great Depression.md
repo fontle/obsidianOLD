@@ -44,9 +44,9 @@ Comparatively, in 2008, the first few months looked very similar to the Great De
 
 ## Causes of the Great Depression 
 
-What is unique about the Great Depression was not necassarily its causes or the response to the negative shocks but that fact that it lasted a long time after the event. Moreso than negative shocks seen since such as the Great Recession and the prior. It also was a global crisis that impacted a large proportion of the global economy in a number of profound ways. 
+What is unique about the Great Depression was not necessarily its causes or the response to the negative shocks but that fact that it lasted a long time after the event. Moreso than negative shocks seen since such as the Great Recession and the prior. It also was a global crisis that impacted a large proportion of the global economy in a number of profound ways. 
 
-Some of the causes of the depression can be highlighted by a few different strands of thinking. To be frank, there is not one single dominant view of the cause of the Great Depression, it seems the magnitude and severity of the crisis was a composite of a few major causes with many minor causes specfic to different economies allowing for simultaneous market collapse. The Great Depression conversation is still *academically contreversial* with a few main schools of thought: 
+Some of the causes of the depression can be highlighted by a few different strands of thinking. To be frank, there is not one single dominant view of the cause of the Great Depression, it seems the magnitude and severity of the crisis was a composite of a few major causes with many minor causes specific to different economies allowing for simultaneous market collapse. The Great Depression conversation is still *academically controversial* with a few main schools of thought: 
 
 ### American Histography
 
@@ -60,7 +60,7 @@ Even with this premise, academics present an large array of thoughts which stres
 
 ### European Histography 
 
-Later research beginning in the 90s in Europe read the American literature and asked whether it fit with the narratative of their home countries and found that GDP figures declines sometimes five to seven quarters before the Great Depression in the United States indicating that other factors were at play. 
+Later research beginning in the 90s in Europe read the American literature and asked whether it fit with the narrative of their home countries and found that GDP figures declines sometimes five to seven quarters before the Great Depression in the United States indicating that other factors were at play. 
 
 Inconsistencies in the premise that the great depression was expected from United States. 
 
@@ -68,7 +68,7 @@ Inconsistencies in the premise that the great depression was expected from Unite
 
 In Britain, the Great Depression was often referred to as the Great Slump, a much softer narrative to that of America and Europe. However, this seems much more fitting the circumstances of the economy in the 1930s as it was far less pronounced there. 
 
-### An Inconsistant Consensus 
+### An Inconsistent Consensus 
 
 It seems that the constant revisiting of the Great Depression by scholars indicate that the full scope and causes of the Great Depression haven't been fully realised. The complexity of the issue has caused greater debate about its determinants. 
 
@@ -76,25 +76,25 @@ It seems that the constant revisiting of the Great Depression by scholars indica
 
 In the 1920s and 30s we see a dramatic fall in the price of agriculture. 
 
-In the book *The Grapes of Wrath* by John Steinback describes the history of a couple of American farming families who were forced to flee from Oklahoma westward, this narrative of a couple families fits the macroeconomic narrative: 
+In the book *The Grapes of Wrath* by John Steinbeck describes the history of a couple of American farming families who were forced to flee from Oklahoma westward, this narrative of a couple families fits the macroeconomic narrative: 
 
 After World War One, countries were concerned that food imports would pose a food security issue during conflict times and thus started scaling domestic production to become self-sufficient. 
 
 Globally, this created an overproduction of primary resources. 
 
-East Europe and Russain exporters were heavily impacted during World War One, hence we can observe an outsourcing of primary prodcution to neutral countries of the world such as Canada - wheat acreage expanded by 80% under WWI). 
+East Europe and Russian exporters were heavily impacted during World War One, hence we can observe an outsourcing of primary production to neutral countries of the world such as Canada - wheat acreage expanded by 80% under WWI). 
 
 After the World War we see original market players to re-enter the market - yet competitors such as Canada had time to scale production. 
 
 The increased competition drove down international commodity prices as new producers feared crowding out by original players, thus reducing profitability for farmers who owned land, some were driven out causing not only commodity prices but land prices to decline. 
 
-Conseqeuntly, primary producing countries really struggled during the 1920s. 
+Consequently, primary producing countries really struggled during the 1920s. 
 
 ### Unfavourable Labour Market Conditions of the 1920s
 
-In th 1920s the Labour Markets in the industrialised world experienced very high unemployment. 
+In the 1920s the Labour Markets in the industrialised world experienced very high unemployment. 
 
-As a result, this became a political issue and also a cause of economic debate about how persistent unemployment could exist as at the time, the economic narrative (neoclassical) stated only cyclical unemployment was relevent as market forces would adjust conditions back to equilibrium. The main question raised was: 
+As a result, this became a political issue and also a cause of economic debate about how persistent unemployment could exist as at the time, the economic narrative (neoclassical) stated only cyclical unemployment was relevant as market forces would adjust conditions back to equilibrium. The main question raised was: 
 
 *"Why do wages not fall in response to persistent unemployment?"*
 
@@ -116,15 +116,32 @@ By 1929, these industries began to decline as they could not scale indefinitely 
 
 The simultaneous decline of these industries, meant that other sectors could not take up the slack, and economic growth in the US became inherently fragile and unstable. 
 
-Consumer preferences lasted to consumer durables such as motor vehicles furniture, appliances, radios etc. Meant that a large proportion of the economy relied on expenditure on these items that were not necassarily necessities to the average American. Thus when economic decline occured, consumers stopped or delayed the purchasing of these goods and appeasing the poorer quality of their current ones. Therefore, the durables industries that the economy relied on became vulnerable to cyclical instability. 
+Consumer preferences lasted to consumer durables such as motor vehicles furniture, appliances, radios etc. Meant that a large proportion of the economy relied on expenditure on these items that were not necessarily necessities to the average American. Thus when economic decline occurred, consumers stopped or delayed the purchasing of these goods and appeasing the poorer quality of their current ones. Therefore, the durables industries that the economy relied on became vulnerable to cyclical instability. 
 
 *Food lasts a week, machines last years.*
 
-Conseqeuntly the business cycle downturn reinforced itself within the United States.
+Consequently the business cycle downturn reinforced itself within the United States.
 
 ### European Reconstruction Efforts
 
-After WW1 there was huge devasation across Europe. Paris Peace Conference in 1920 forced Germany, Austria, Hungary, and Bulgaria to pay reperations. The US forced the allies to pay for the money borrowed during the World War which put pressure on them to increase the severity of reperations of the Axis powers. 
+European reconstruction efforts after World War I contributed to the Great Depression in a number of ways:
 
-Countris were reluctant 
+1. **Debt**: The reconstruction efforts required vast amounts of money, and many European countries borrowed heavily from the United States to finance their rebuilding. By 1929, European countries owed around $10 billion to the US, which was a significant amount of money at the time. When the stock market crashed in 1929, US investors pulled their money out of Europe, leaving the continent with a severe shortage of funds. This made it difficult for European countries to pay back their debts, which further weakened their economies.
+2. **Trade**: European reconstruction efforts created a demand for raw materials and other goods, which the US supplied. However, as the European economies weakened, demand for US goods declined. This led to a decline in US exports, which hurt the US economy.
+3. **Currency**: To pay for their reconstruction efforts, many European countries devalued their currencies. This made their exports cheaper, which hurt US businesses that were trying to sell their goods overseas.
+4. **Protectionism**: To protect their own economies, many countries imposed high tariffs on imported goods. This led to a decrease in international trade, which further hurt the global economy.
+
+Overall, European reconstruction efforts were not the sole cause of the Great Depression, but they were a contributing factor. The heavy borrowing, decline in demand for US goods, devaluation of currencies, and protectionist policies all played a role in the economic downturn that followed.
+
+#### The Dawes Plan
+
+After WW1, a system known as the *Dawes plan* was created. It was a financial agreement between the US, Germany, and the Allied Powers which provided loans to Germany which in turn paid reparations to the Allied Powers for the damage caused during the war. 
+
+In turn, some of the reparation payments were sent back to the United States to pay off loans Allied powers took out to fund military efforts. 
+
+This created a *circular flow of money* between the three parties and helped stabilise the European economy in the 1920s, whilst also allowing Germany to rebuild its economy after the war. 
+
+However, this reliance on loans and reparations created a **cycle of debt** which was not sustainable. Furthermore, global economic downturn (in part due to lowered agriculture costs, wage rigidity, etc.) forced a devaluation which made it harder to pay these loans and catalysed the occurrence of The Great Depression.
+
+It could be argued that short-sightedness by politicians and a focus on political integration of Europe was prioritised over sound macroeconomic policy. 
 

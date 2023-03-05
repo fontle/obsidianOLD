@@ -173,7 +173,7 @@ $$\large
 $$
 This would mean that the unemployment rate would be equal to the natural unemployment rate since $u_{t} - u_{n}$ would have to be equal to $0$. By implication, output would be at the natural level. Therefore, the inflation target theoretically eliminates deviations of output from its natural level. 
 
-Thus our premise is wrong, if there was a negative demand shock, the price level would decrease below our target level of inflation, and thus a monetary expansion is neeed. .
+Thus our premise is wrong, if there was a negative demand shock, the price level would decrease below our target level of inflation, and thus a monetary expansion is neeed
 
 
 
