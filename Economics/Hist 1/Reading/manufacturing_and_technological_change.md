@@ -1,3 +1,4 @@
 ---
-annotation-target: manufacturing-and-technological-change.pdf
+annotation-target: Bibliography/manufacturing-and-technological-change.pdf
+tags: reading
 ---

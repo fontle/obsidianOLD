@@ -43,13 +43,16 @@ Whether an outcome is realised depends on the *state of nature* that will occur.
 ## Insurance as a Lottery 
 --- 
 A consumer can by $K$ units of insurance at unit price of $\gamma$. If the bad outcome occurs with a probability of $\pi$ he gets: 
+
 $$c_{1}= \omega_{1}+K-\gamma K$$
+
 If the **good** outcome occurs with probaility $1-\pi$ then 
+
 $$c_{2}= \omega_{2}-\gamma K$$ 
+
 ### Budget line
+
 $$c_{2} = \omega_{2} - \frac{\gamma}{1-\gamma}(c_{1}-\omega)$$
+
 ### Fair insurance
 Occurs where the insurance company charges the price where $\gamma=\pi$ as the price ber unit is equal to the probability of the bad event happening. 
-
-
-

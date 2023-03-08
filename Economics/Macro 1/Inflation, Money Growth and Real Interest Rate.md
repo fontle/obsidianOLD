@@ -1,5 +1,5 @@
 ![[Pasted image 20230130120010.png]]
-    *Impact of monetary policy on the economy*
+	*Impact of monetary policy on the economy*
 
 ## Describing the Economy
 --- 

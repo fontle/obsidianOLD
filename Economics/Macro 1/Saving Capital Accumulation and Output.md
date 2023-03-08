@@ -1,11 +1,13 @@
 #lecture-notes #macro1 
 The change in capital over a period of time $t$ can be given by: 
+
 $$\large
 \begin{matrix}
 \frac{K_{t+1}}{N}-\frac{K_{t}}{N}&=&s\frac{f(K_{t})}{N}&- &\delta\frac{ (K_{t})}{N}\\
 _{\text{change in capital}}& & _{\text{investment}}&& _{\text{depreciation of K}} \\
 \end{matrix}
 $$
+
 This shows that changes in capital per worker is the difference between investment per worker (which is a function of the savings rate) and the depreciation of capital (described by the coefficient $\delta$)
 ![[Pasted image 20230220001729.png]]
 As investment per workers increases, fundamentally as a result of an increase in the savings rates it shift the investment curve upwards thus moving the equilibrium point  between investment and depreciation, as a result the overall output per worker.
@@ -29,7 +31,9 @@ Thus far we have only accounted for physical capital without accounting for huma
 ![[Pasted image 20230220171201.png]]
 
 Therefore we should adjust our capital acummulation relation to:
+
 $$\frac{Y}{N} = f\left( \frac{K}{N}, \frac{H}{N} \right)$$
+
 An increase in how much the society saves in the form of human capital - through education and training - increases the human capital per worker, thus increasing overall output per worker. 
 
 In long run, output per worker depends not only on how much it saces but also on how much it spends on education. 
@@ -43,6 +47,7 @@ In the United States, spending on education is about 4% of GDP compared to 17% i
 Technological progress reduces the number of workers needed to achieve a given amount of output.
 j
 Thus technologyical progress increases $AN$ which we can think of as the amount of *effective labour* with constant returns to scale: 
+
 $$
 \begin{align}
 2Y &= f(2K,2AN) \\
@@ -50,10 +55,13 @@ $$
 xY &= f(xK,xAN)
 \end{align}
 $$
+
 Technological progress has a similar effect to increasing the number of workers. 
 
 As a result we can update our model to include not only population growth and depreciation but also technological progress: 
+
 $$\left(\frac{s}{\delta + g_{N} + g_{A}}\right)^{2}= \frac{K*}{AN}$$
+
 ## Charactaristics of long term
 ---
 - Capital per effective worker and output per effective worker are constant  

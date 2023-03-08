@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"file","file":"Economics/!Glossary/Wage Determination Equation.md","id":"9bdf9958f9047769","x":440,"y":-500,"width":400,"height":400},
+		{"type":"file","file":"Economics/!Glossary/Aggregate Supply Relation.md","id":"bc7a33d654c8a6cb","x":440,"y":-60,"width":400,"height":188},
+		{"type":"file","file":"Economics/!Glossary/Aggregate Demand Relation.md","id":"1fc42562c3209877","x":440,"y":160,"width":400,"height":348},
+		{"type":"file","file":"Economics/Macro 1/Spring 1 Essay.md","id":"12194dd4eff672a4","x":-320,"y":-390,"width":620,"height":1100}
+	],
+	"edges":[]
+}

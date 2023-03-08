@@ -19,6 +19,7 @@ $\text{Transfers} = 2m$
 $\text{Inventory} = 0.8$
 
 ### Income Method
+
 $$
 \begin{align*}
 \text{GDP} &= \text{National Income + Taxation}\\
@@ -28,6 +29,7 @@ $$
 $$
 
 ### Expenditure Method
+
 $$\begin{align*}
 \text{GDP} &= C + I + G + NX\\
 &= 3 + 0.8 + 0 + 0 \\

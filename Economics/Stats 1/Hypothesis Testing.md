@@ -11,8 +11,3 @@
 ### Rejection Region
 - Express the *Rejection Region* which specifies the values for which the test statistic will reject the null hypothesis.
 - This is also the same as the *Critical Region*
-
-
-
-
-

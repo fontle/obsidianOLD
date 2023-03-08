@@ -12,7 +12,7 @@ Correlations may be spurious for **two main reasons**:
 2. **Reverse Causality** occurs when we mix up the direction of cause and effect. For example, ice cream sales do not cause the temperature to increase, but higher temperatures are likely to increase ice cream sales. 
 
 A [[Causal Effect]] is when one variable (the *independent variable*) causes an other variable (the *dependent variable*) to change.   
-    We can determine the likelihood of a causal effect by measuring how strong the correlation is between the two variables. 
+	We can determine the likelihood of a causal effect by measuring how strong the correlation is between the two variables. 
 
 ## Making Predictions
 --- 

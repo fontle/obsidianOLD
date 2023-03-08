@@ -10,4 +10,3 @@ differentials in production costs, product differentiation.
 - Firms compete sequentially by choosing price. The firm that sets its price first is the price leader, the other is the price follower.  
 - Firms compete simultaneously by choosing quantity.  
 - Firms compete simultaneously by choosing price.
-

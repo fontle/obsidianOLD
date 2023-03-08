@@ -1,8 +1,8 @@
 ## Lack of Information
 --- 
-Macroeconomists are like doctors treating cancer, there is a lot they know, but also a lot they don't know. 
+Macroeconomics are like doctors treating cancer, there is a lot they know, but also a lot they don't know. 
 
-When trying to achieve an objective, macroeconomists use (perhaps rely) on macroeconometric modules which assume the output of a given policy decision based on parameters about the economy. However, the uncertainty in these models can be high, with different models predicting vastly different consequences of a policy decision. 
+When trying to achieve an objective, macro-economists use (perhaps rely) on macro-econometric modules which assume the output of a given policy decision based on parameters about the economy. However, the uncertainty in these models can be high, with different models predicting vastly different consequences of a policy decision. 
 
 | Year | Model 1 | 2     | 3     | 4     |
 | ---- | ------- | ----- | ----- | ----- |
@@ -12,22 +12,24 @@ When trying to achieve an objective, macroeconomists use (perhaps rely) on macro
 
 For example in the table above, shows the response of output to a monetary shock. 
 
-Each model has different dynamics: Model 4 has a very large initial shock with a fast return to equilibrium levels, whilst model 1 predicts a small shock initialy and an increase in the medium run to 0.3 in year then levels out beyond 3 years. 
+Each model has different dynamics: Model 4 has a very large initial shock with a fast return to equilibrium levels, whilst model 1 predicts a small shock initially and an increase in the medium run to 0.3 in year then levels out beyond 3 years. 
 
 As shown, the range of these models is vast, even if you can model the mistakes, there is a lot of uncertainty in the models, and thus policymakers should act cautiously. 
 
 ### Uncertainty and Policy
-If there is large uncertainty in the models considered in policymaking, then the less active policy regulators should make. The fundamental aim of policy should be to **avoid prolonged recessions**, slowing down booms, and avoiding inflationary pressures. 
+If there is large uncertainty in the models considered in policy-making, then the less active policy regulators should make. The fundamental aim of policy should be to **avoid prolonged recessions**, slowing down booms, and avoiding inflationary pressures. 
 
 The close the economy is to a recession, or if it they are in a recession, then the government should undertake more active policies to pursue these objectives. These conclusions would have been controversial 30 years ago: 
 ## Paradigm Shift: Optimal Control Theory to Game Theory 
 --- 
-30 years ago, the main school of macro policy was optimal control theory which assumed the economy to be a somewhat determinant *machine* whereby policy could be used to achieve desired equilibria and outcomes. However, this often led to an over reliance in econometric models that predicted outcomes and fine-tuning to said models. 
+30 years ago, the main school of macro policy was optimal control theory which assumed the economy to be a somewhat determinant *machine* whereby policy could be used to achieve desired equilibrium and outcomes. However, this often led to an over reliance in econometric models that predicted outcomes and fine-tuning to said models. 
 
 Recently, a more modern approach involving game theory must considered. The economy consists of agents that predict future states of the economy and thus, expectations play an important role in determining inflation, recall the inflation identity: 
+
 $$
 \pi = \pi^{e}- \alpha(u - u_{n})
 $$
+
 Price expectation are a fundamental part of inflation. As a consequence understanding the interactions between government policy changes and the expecations of firms and consumers is vital to choosing effective measures. 
 
 To understand the implication of this premise we can analyse a hostage taking situation: 
@@ -40,9 +42,13 @@ However, suppose that despite the policy, a hostage taking occurs, the best cour
 Thus, the states policy would be ineffective. Hostage takers, would go off the expected action of the policy maker rather than the stated one, thus making the stated policy redundant. 
 
 Applying this to real life, suppose a central bank has a target unemployment rate equal to the natural rate: 
+
 $$u = u_{n}$$
+
 The central bank faces following relation: 
+
 $$\pi=-\alpha(u-u_{n})$$
+
 If the central bank follows with its stated policy, inflation will be equal to zero, the central banks stated policy aligns with expectations. 
 
 However, if the government allows an inflation rate of 1%, and alpha is close to one,  the government can trade 1% inflation for a 1% reduction in unemployment. If the central bank finds this trade off to be attractive, they reduce unemployment by 1% and increase inflation by 1%, **deviating from their expected policy.**
@@ -168,35 +174,11 @@ Consequently, Central Banks around the world updated their design, instead impos
 #### Inflation Targeting and Output
 
 By focusing exclusively on inflation, it could be argued that this would remove the role of monetary policy reducing output fluctuations. This may not be the case though: the Philips relation between inflation and unemployment. Suppose the Central Bank had a target inflation rate of $\pi^*$ then inflation and unemployment changes over time can be described by:  
+
 $$\large
 \pi^{*}= \pi^{*}- \alpha(u_{t}-u_{n})
 $$
+
 This would mean that the unemployment rate would be equal to the natural unemployment rate since $u_{t} - u_{n}$ would have to be equal to $0$. By implication, output would be at the natural level. Therefore, the inflation target theoretically eliminates deviations of output from its natural level. 
 
 Thus our premise is wrong, if there was a negative demand shock, the price level would decrease below our target level of inflation, and thus a monetary expansion is neeed
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

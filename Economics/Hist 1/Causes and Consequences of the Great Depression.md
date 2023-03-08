@@ -1,4 +1,4 @@
-#https://youtu.be/noM0fV4pyQYlecture-notes #hist1 
+#lecture-notes #hist1 
 
 ## Great Recession vs Great Depression
 --- 
@@ -6,9 +6,9 @@ In 2008, the world experienced the Global Financial Crisis which was akin to the
 
 However, despite calling the GFC the Great Recession, there is unclear comparisons between a recession and depression. The latter experienced great political consequences including the rise of totalitarianism such as that seen in Nazi Germany. The only democracy left in Eastern Europe by 1939 was Czech Republic. 
 
-They way we classify a depression is any decline from peak to trough of a business cycle of more than 10% of GDP counts for a depression, meanwhile a recession means that your GDP declines for two consequative quarters. 
+They way we classify a depression is any decline from peak to trough of a business cycle of more than 10% of GDP counts for a depression, meanwhile a recession means that your GDP declines for two consecutive quarters. 
 
-*The definition of recession is relatively soft*, in the sense it is relatively cyclical and part of economic fluctuations. On the other hand, a depression is more structural and usually has greater conseqeuences on the economy. In this sense, the difference between a depression and a recession is a matter of magnitude. 
+*The definition of recession is relatively soft*, in the sense it is relatively cyclical and part of economic fluctuations. On the other hand, a depression is more structural and usually has greater consequences on the economy. In this sense, the difference between a depression and a recession is a matter of magnitude. 
 
 In the Great Depression there were output losses observed of `30%`. The largest output losses ever recorded in history. 
 
@@ -54,17 +54,17 @@ Early research on the Great Depression was centred around the United States as i
 
 *The Great depression was a fault of the US and they then exported the crisis to the rest of the world.
 
-Even with this premise, academics present an large array of thoughts which stress different factors within American Histography. For example, 
+Even with this premise, academics present an large array of thoughts which stress different factors within American Historiography. For example, 
 - Monetary policy used by the central bank
 - The stock market bubble of the 1920s caused by speculation
 
-### European Histography 
+### European Historiography 
 
 Later research beginning in the 90s in Europe read the American literature and asked whether it fit with the narrative of their home countries and found that GDP figures declines sometimes five to seven quarters before the Great Depression in the United States indicating that other factors were at play. 
 
 Inconsistencies in the premise that the great depression was expected from United States. 
 
-### British Histography 
+### British Historiography 
 
 In Britain, the Great Depression was often referred to as the Great Slump, a much softer narrative to that of America and Europe. However, this seems much more fitting the circumstances of the economy in the 1930s as it was far less pronounced there. 
 
@@ -135,7 +135,7 @@ Overall, European reconstruction efforts were not the sole cause of the Great De
 
 #### The Dawes Plan
 
-After WW1, a system known as the *Dawes plan* was created. It was a financial agreement between the US, Germany, and the Allied Powers which provided loans to Germany which in turn paid reparations to the Allied Powers for the damage caused during the war. 
+After WWI, a system known as the *Dawes plan* was created. It was a financial agreement between the US, Germany, and the Allied Powers which provided loans to Germany which in turn paid reparations to the Allied Powers for the damage caused during the war. 
 
 In turn, some of the reparation payments were sent back to the United States to pay off loans Allied powers took out to fund military efforts. 
 
@@ -143,5 +143,4 @@ This created a *circular flow of money* between the three parties and helped sta
 
 However, this reliance on loans and reparations created a **cycle of debt** which was not sustainable. Furthermore, global economic downturn (in part due to lowered agriculture costs, wage rigidity, etc.) forced a devaluation which made it harder to pay these loans and catalysed the occurrence of The Great Depression.
 
-It could be argued that short-sightedness by politicians and a focus on political integration of Europe was prioritised over sound macroeconomic policy. 
-
+It could be argued that shortsightedness by politicians and a focus on political integration of Europe was prioritised over sound macroeconomic policy. 

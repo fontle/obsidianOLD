@@ -9,7 +9,7 @@ Fixed exchange rates occur when a government pegs the value of their currency to
 - Price convergence: It's easier to compare prices with other economies.
 - Anchoring: Poorer economies can *import* a credible monetary regime 
 - Can stabilise foreign wealth and liabilities 
-    - 
+	- 
 ### Drawbacks of Fixed exchange Rate
 -   Limits monetary policy flexibility in response to economic shocks
 -   Can lead to imbalances in trade and capital flows
