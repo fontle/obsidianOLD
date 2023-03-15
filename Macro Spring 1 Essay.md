@@ -1,6 +1,7 @@
----
----
----
+# Using economic theory discuss the determinants of GDP per capita in the long-run, and the growth rate of GDP per capita in the long-run. Examine how these two phenomena respond to a permanent decrease in the growth rate of the population.
+
+|
+
 To analyse determinants of GDP per capita and growth in the long run we can use the Solow-Swan model. We can derive long run GDP using an **aggregate production function** which describes the relationship between production inputs and total output, $Y$. Since the main two inputs in production are capital, $K$, and number of workers, $N$, the aggregate production function can be described as: 
 $$Y = F(K,N)$$
 This relation can be amended to include technological progress by adding a coefficient to the number of workers $A$, which can be inferred as the *given state of technology* within the economy: 
@@ -22,18 +23,24 @@ Allowing for technological progress, the number of effective workers increases o
 $$\frac{K_{t+1}}{AN}=(1-\delta + g_{N} +g_A) \frac{K_{t}}{AN}+\frac{I_t}{AN}$$
 To derive changes in capital stock over time, $K_{t+1}-K_{t}$, we can subtract $K_{t}$ from both sides of the relation: 
 $$\frac{K_{t+1}}{AN}-\frac{K_{t}}{AN}= (g_{N} + g_{A} - \delta)\frac{K_{t}}{AN} + \frac{I_{t}}{AN}$$
-To bridge the gap between changes in capital stock and output in the long run, the investment-savings relation can be used, whereby current investment $I_{t}$ is equal to savings: the savings rate $S$ multiplied by output $Y$.
+To bridge the gap between changes in capital stock and output in the long run, the investment-savings relation can be used, whereby in an economy with no public sector, current investment $I_{t}$ is equal to savings: the savings rate $S$ multiplied by output $Y$.
 $$I_{t} = sY_{t}$$
 Inserting this into the capital stock relation,
 $$\frac{K_{t+1}}{AN}-\frac{K_{t}}{AN}= (g_{N} + g_{A} - \delta)\frac{K_{t}}{AN} + \frac{sY_{t}}{AN}$$
 Or in terms of the per capita aggregate production function, 
 $$\frac{K_{t+1}}{AN}-\frac{K_{t}}{AN}= (g_{N} + g_{A} - \delta)\frac{K_{t}}{AN} + sf\left(\frac{K_{t}}{AN}\right)$$
+In response to what would happen if there were a permanent decrease in the population growth rate, the coefficient $g_N$ would decrease. Consequently, this has the effect of flattening the motion curve from $gn \to gn'$. As a result, the capital per effective worker increases from $K\to K'$ and the output per worker increases from $Y \to Y'$ . 
+![[Pasted image 20230315151057.png]]
+$\small\textit{(Beight-Welland, 2023)}$
 
 
 
 
 
 
+
+## Bibliography
+1. Beight-Welland, I. (2023). *Changes in Population Growth using the Solow Model*. Desmos: https://www.desmos.com/calculator/fotkq5ms73
 
 
 
