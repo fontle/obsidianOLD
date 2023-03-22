@@ -81,3 +81,11 @@ The Nash Equilibrium in mixed strategy:
 $$
 ((r,1-r), (c,1-c))
 $$
+## Classes of Games 
+
+### Coordination Games
+Games in which the payoffs are highest when the players coordinate their actions: Battle of the Sexes, Assurance Games, Chicken. 
+### Zero-sum Games
+Games in which the payoff to one player is equal to the losses to the other player. For example, matching pennies, penalty kicks. 
+### Commitment Games 
+These are sequential games in which commitment is an important strategic issue. For example, the frog and the scorpion; and entry deterrence.
