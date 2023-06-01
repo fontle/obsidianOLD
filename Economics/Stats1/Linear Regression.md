@@ -1,4 +1,5 @@
 #lecture-notes #stats1 
+|
 Previously used the assumption that random variables are independent and identically distributed. 
 
 This assumption implies that $E(Y_i)$ is constant: $E(Y_i)=\mu$ does not depend on the value of any other variable. 

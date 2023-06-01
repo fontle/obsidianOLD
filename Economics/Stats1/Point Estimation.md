@@ -18,9 +18,9 @@ $$
 ## Case 2: Sample Proportion as an Estimator of Population Proportion
 ---
 
-Suppose we would like to know the proportion of families in York who own, rather than rent, their homes. We can use the *population proportion* as the parameter of interest, which we will denote hereforth as $\pi$
+Suppose we would like to know the proportion of families in York who own, rather than rent, their homes. We can use the *population proportion* as the parameter of interest, which we will denote here forth as $\pi$
 
-With a random sample of size $n$ each observation provides an independent Bernoulli R.V. -> $X_{i} \sim \text{Binomial}(n,\pi)$ the cummulation of all observations results in a Binomially distributed random variable: $\text{Binomial}(n, \pi)$
+With a random sample of size $n$ each observation provides an independent Bernoulli R.V. -> $X_{i} \sim \text{Binomial}(n,\pi)$ the cumulation of all observations results in a Binomially distributed random variable: $\text{Binomial}(n, \pi)$
 
 The sample proportion $P$ is given by $\sum^n_{i=1}\frac{X_{i}}{n}$ which is also the sample mean of the $n$ independent Bernoulli R.Vs.
 
@@ -33,7 +33,7 @@ $$
 ## Estimation of Population Mean
 ---
 
-If sample is $i.i.d.N(\mu, \sigma^2)$ (idependentally and identically normally distributed) then for any value of $n$:
+If sample is $i.i.d.N(\mu, \sigma^2)$ (independentally and identically normally distributed) then for any value of $n$:
 
 $$\large
 Z = \frac{\bar{x}-\mu}{\frac{\sigma}{\sqrt{ n }}}

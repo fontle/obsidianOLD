@@ -3,12 +3,13 @@
 Macroeconomics are like doctors treating cancer, there is a lot they know, but also a lot they don't know. 
 
 When trying to achieve an objective, macro-economists use (perhaps rely) on macro-econometric modules which assume the output of a given policy decision based on parameters about the economy. However, the uncertainty in these models can be high, with different models predicting vastly different consequences of a policy decision. 
-
+- - -
 | Year | Model 1 | 2     | 3     | 4     |
 | ---- | ------- | ----- | ----- | ----- |
 | 1    | -0.19   | -0.20 | -0.16 | -0.57 |
 | 2    | -0.3    | -0.14 | -0.22 | -0.1  |
 | 3    | -0.28   | -0.02 | -0.04 | -0.02 |
+- - -
 
 For example in the table above, shows the response of output to a monetary shock. 
 
@@ -20,8 +21,8 @@ As shown, the range of these models is vast, even if you can model the mistakes,
 If there is large uncertainty in the models considered in policy-making, then the less active policy regulators should make. The fundamental aim of policy should be to **avoid prolonged recessions**, slowing down booms, and avoiding inflationary pressures. 
 
 The close the economy is to a recession, or if it they are in a recession, then the government should undertake more active policies to pursue these objectives. These conclusions would have been controversial 30 years ago: 
-## Paradigm Shift: Optimal Control Theory to Game Theory 
---- 
+
+## Paradigm Shift: Optimal Control Theory to Game Theory
 30 years ago, the main school of macro policy was optimal control theory which assumed the economy to be a somewhat determinant *machine* whereby policy could be used to achieve desired equilibrium and outcomes. However, this often led to an over reliance in econometric models that predicted outcomes and fine-tuning to said models. 
 
 Recently, a more modern approach involving game theory must considered. The economy consists of agents that predict future states of the economy and thus, expectations play an important role in determining inflation, recall the inflation identity: 
@@ -30,7 +31,7 @@ $$
 \pi = \pi^{e}- \alpha(u - u_{n})
 $$
 
-Price expectation are a fundamental part of inflation. As a consequence understanding the interactions between government policy changes and the expecations of firms and consumers is vital to choosing effective measures. 
+Price expectation are a fundamental part of inflation. As a consequence understanding the interactions between government policy changes and the expectations of firms and consumers is vital to choosing effective measures. 
 
 To understand the implication of this premise we can analyse a hostage taking situation: 
 
@@ -84,7 +85,7 @@ Another reason to restraint policymakers is that they may play games amongst the
 
 ## Monetary and Fiscal Policy Constraints
 
-### Monetary and Fiscal Rules Recap 
+### Monetary and Fiscal Rules Recap
 
 |          | Short Run                                                           | Medium Run                                                                | Long Run                                                                          |
 | -------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -97,10 +98,9 @@ Some economists argue about the optimal rate of inflation:
 - Some economists aim for *low positive inflation* such as the 2% target imposed by the Bank of England. This is because inflation can be utilised as a tool to control inflation, as central banks can trade of inflation for unemployment according to the Philips relation 
 - Alternatively, some aim for price stability, that is 0% inflation. This reduces the impact of some costs of inflation such as Money Illusion. They argue, that the central bank can achieve greater credibility and simplicity when aiming for 0% inflation which may help with expectations of firms and consumers.
 
-### Costs of Inflation 
+### Costs of Inflation
 ---
-
-#### Shoe Leather Costs 
+#### Shoe Leather Costs
 
 In the medium run, a higher inflation rate leads to a higher nominal interest rate and so a greater opportunity cost of holding money. As a result, people decrease their money balances by making more trips to the bank, these trips would be avoided if inflation were lower and people could be doing other things instead, such as working or leisure time. 
 
@@ -108,7 +108,7 @@ In the medium run, a higher inflation rate leads to a higher nominal interest ra
 
 When inflation occurs, the prices of everything increases, including wages. As a result, if tax brackets are not synchronised with inflation, more individuals are put in higher tax brackets in a phenomenon called *bracket creep*. Consequently, not only does the real value of income go down due to inflation, but also due to an increase in taxes reducing spending power further.
 
-#### Money Illusion 
+#### Money Illusion
 
 Humans are irrational. Practically everyone uses nominal price changes as a basis for  changes in value over time, however this not actually indicative of the real price of the product. For example, you may often hear a grandparent say *"back in my day milk only cost 35 cents!"* blah blah blah. This is nonsense economically as inflation *back in their day* is not accounted for. This phenomenon is called Money Illusion whereby people find it difficult to respond to price signals when they are all changing simultaneously due to inflation. As a consequence, even if labour receives higher wages parallel to good price increases (thus the proportion of income a good is stays the same) the individual may say that it *feels* more expensive and thus they won't buy, reducing aggregate consumption despite no change in real income. 
 
@@ -127,7 +127,7 @@ Money creation can improve the governments ability to repay debts and finance sp
 
 This however is risky and usually involves large inflation, a cost seen in Germany after the First World War as they repaid their reparations via money creation, causing the economy to collapse under hyperinflation. 
 
-#### Negative Real Interest Rates 
+#### Negative Real Interest Rates
 
 An economy with higher average inflation has more scope to use monetary policy to fight a recession and return an economy to the natural level of output. 
 
@@ -175,7 +175,7 @@ Consequently, Central Banks around the world updated their design, instead impos
 
 By focusing exclusively on inflation, it could be argued that this would remove the role of monetary policy reducing output fluctuations. This may not be the case though: the Philips relation between inflation and unemployment. Suppose the Central Bank had a target inflation rate of $\pi^*$ then inflation and unemployment changes over time can be described by:  
 
-$$\large
+$$
 \pi^{*}= \pi^{*}- \alpha(u_{t}-u_{n})
 $$
 

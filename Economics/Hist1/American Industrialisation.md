@@ -1,25 +1,19 @@
-#lecture-notes #hist1
-
+---
+tag: lecture-notes, hist1
+---
 ## Why Did America Outgrow UK
 **Demographics** had a large role in why America outgrew UK rapdily.
-
 - In the 17th century, the population was 5 million, by 1900 it was **100 Million**
 
 ## What Was the Role of Slavery in USA Industrialisation?
----
-
 **The New History of Capitalism** argues that the US growth would not have been possible without slavery. However, this book does not supply *quantitative evidence* for this other than descriptive statistics.
 
 The general consensus is that despite slavery created some wealth for some people in the America South, its consequences were overall negative for economic development:
-
 - It created an institutional framework for *low public good provision, low trust, unequal wealth, and export oriented*.
 - Today, the US south is still the worst performer in terms of education, inequality, urbanisation, sector composition, and discrimination.
 
 ## The US Economy before the Civil War
----
-
 The US econonmy mid 19th century was split in two:
-
 - **The South** where land and labor intensive production was predominant such as cotton production.
 	- They start exporting cotton to europe: three quarters would go to England, one quarter would go to France.
 - **The North** where a rising number of European immigrants and their westward expansion created transport infrastructure, urban hubs, and expanding domestic market for manufactured goods.
@@ -49,7 +43,6 @@ immigrants from Western Europe
 city networks
 
 ## The Grain Invasion in Europe
----
 
 ![[Pasted image 20230123104525.png]]
 The Northern and Midwestern states had a productive agriculture but not to the point they could overcome the transport costs Europe. However technological advancements allowed agriculture exports to Europe. 
@@ -73,15 +66,14 @@ Chicago acted as a hub connecting the midwest and west coast (thus also europe).
 
 To take advantage of first nature geography, transport infrastructure needed, as this infrastructure instigates demand and a local market (second nature geography)
 
-Chicago created a mercantile market which is still one of the largest in the world. Which enabled the exchange of commodities between midwest and western America.
+Chicago created a mercantile market which is still one of the largest in the world. Which enabled the exchange of commodities between mid-west and western America.
 
-## The American Model of Prodution
----
+## The American Model of Production
 The domestic demand for manufactured goods and especially tools for agriculture lead to a new production system. 
 
 ### Habbakuk Hypothesis
 ---
-Habbakuk compared relative input conditions into production between America and Britian to explore how it impacted technological advancement. Compared to Britain America was, 
+Habbakuk compared relative input conditions into production between America and Britain to explore how it impacted technological advancement. Compared to Britain America was, 
  - Resource Rich    
  - Low Skill Labour 
  - High Wage Demands
@@ -91,7 +83,7 @@ Habbakuk compared relative input conditions into production between America and 
 
 ### Economies of Scale
 ---
-Mechinisation allowed for cheaper mass production, and allowed America to mass produce goods countries in Europe couldn't such as the automobile. 
+Mechanisation allowed for cheaper mass production, and allowed America to mass produce goods countries in Europe couldn't such as the automobile. 
 
 Furthermore, America had more homogeneous consumer preference which meant that mass produced products could have a greater reach than in European markets.
 
@@ -99,7 +91,7 @@ Furthermore, America had more homogeneous consumer preference which meant that m
 --- 
 In 1870-1914 two thirds of capital exports from London went to America due it being most profitable. 
 
-Consequently, America then had large resources, territory and good institutions which could take advantage of said endowment without funneling resourcs to the few.  
+Consequently, America then had large resources, territory and good institutions which could take advantage of said endowment without funnelling resources to the few.  
 
 ### Mineral Production in America
 ---

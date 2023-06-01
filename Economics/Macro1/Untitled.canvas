@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"group","id":"39728fce45a2465c","x":-20,"y":-240,"width":520,"height":720,"label":"Medium Run"},
+		{"type":"text","text":"**Real Interest Rate**\n$$\n(1+r_{t})=\\frac{1+i_{t}}{1+\\pi^{e}_{t+1}}\n$$\n","id":"a6b15f5fe593a75a","x":-383,"y":0,"width":303,"height":120},
+		{"type":"text","text":"**Aggregate Supply Relation**\n$$\nP=P^e(1+\\mu)F(u,z)\n$$","id":"8d7f8ff5f75aa75d","x":-881,"y":-245,"width":294,"height":93},
+		{"type":"text","text":"$r_{t}\\approx i_{t}-\\pi^{e}_{t+1}$","id":"53fcc8cecb9993b3","x":-820,"y":31,"width":173,"height":59},
+		{"type":"text","text":"**Aggregate Demand Relation**\n$$g_{yt}=g_{mt}-\\pi_{t}$$","id":"05d06330167d1c2a","x":-383,"y":-123,"width":303,"height":93},
+		{"type":"text","text":"**Okun's Law**\n$$u_{t}-u_{t+1}=-\\beta(g_{gt}-\\bar{g}_{y})$$","id":"78acaa1aeeef44c2","x":-383,"y":150,"width":303,"height":93},
+		{"type":"file","file":"Excalidraw/inflation_unemployment_output.excalidraw.md","id":"cfa24b58189471c6","x":-780,"y":-840,"width":640,"height":546},
+		{"type":"text","text":"In the medium run: \n- $\\text{Output}= Y_n$\n- $\\text{Unemployment} = u_n$\n- $\\text{Interest Rate} = i_{n}$\n\nThey all return to their natural state due to their interdependence: \n1. If $r_{t}<r_{n}$ then output is greater than the natural rate due to increased spending and investment. This reduces unemployment beyond its natural rate, therefore $u_{t} <u_{n}$.\n2. Due to Phillips relation, $u_{t} < u_{n}$ results in inflation. \n3. As inflation increases, it will eventually by higher than adjusted nominal growth. Causing negative real money growth. \n4. In response nominal interest rates start increasing, causing expected inflation thus increasing the real interest rate.\n5. This real interest rate then increases until it reaches its natural value where there is equilibrium in all markets, unemployment and growth are back to their natural values.","id":"07f505f1519d3e30","x":0,"y":-220,"width":460,"height":630},
+		{"type":"text","text":"**Phillips Curve**\n$$\\pi_{t}-\\pi_{t-1}=-\\alpha(u_{t}-u_{n})$$","id":"a6ad7f1758b4d74e","x":-383,"y":-240,"width":303,"height":88},
+		{"type":"file","file":"Excalidraw/real_interest_rate_after_monetary_expansion.excalidraw.md","id":"2ab31efddc68d597","x":-100,"y":-840,"width":750,"height":520}
+	],
+	"edges":[
+		{"id":"6ffcdd236417c169","fromNode":"53fcc8cecb9993b3","fromSide":"right","toNode":"a6b15f5fe593a75a","toSide":"left","label":"Approximates"},
+		{"id":"fe3fdd1ab9fc6e96","fromNode":"8d7f8ff5f75aa75d","fromSide":"right","toNode":"a6ad7f1758b4d74e","toSide":"left","label":"Derives to"}
+	]
+}

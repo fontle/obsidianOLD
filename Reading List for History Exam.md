@@ -1,0 +1,9 @@
+- [ ] Allen, Robert C (2009). The British Industrial Revolution in Global Perspective. Cambridge: Cambridge University Press.  
+- [ ] Broadberry, Stephen N (2005). The productivity race: British manufacturing in international perspective, 1850-1990. Cambridge University Press.  
+- [ ] Crafts, Nicholas (2004). “Long-run growth”. In: The Cambridge Economic History of Modern Britain. Ed. by Roderick Floud and PaulEditors Johnson. Vol. 2. Cambridge University Press, pp. 1–24.  
+- [ ] Crafts, Nicolas (2018). Forging Ahead, Falling Behind and Fighting Back: British Economic Growth from the Industrial Revolution to the Financial Crisis. Cambridge University Press.  
+- [ ] Magee, Gary (2004). “Manufacturing and technological change”. In: The  Cambridge Economic History of Modern Britain. Ed. by Roderick Floud and Paul Johnson. Vol. 2. Cambridge University Press, pp. 74–98.
+- [ ] McCloskey, Donald N (1970). “Did Victorian Britain Fail?” In: The Economic History Review 23.3, pp. 446–459.  
+- [ ] Rubinstein, WD (1994). Capitalism, Culture, and Decline in Britain, 1750-1990. New York, NY: Routledge.  
+- [ ] Smil, Vaclav (2005). Creating the twentieth century: Technical innovations of 1867-1914 and their lasting impact. Oxford University Press. 
+- [ ] Wiener, Martin J (1981). English culture and the decline of the industrial spirit, 1850-1980. Cambridge University Press.

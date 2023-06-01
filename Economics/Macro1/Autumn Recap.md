@@ -1,5 +1,6 @@
-#macro1
-
+---
+tag: lecture-notes
+---
 ## [[IS relation]]
 ---
 - Equilibrium in the goods market can be described where output $Y$ is equal to the demand for goods $Z$. This is called the [[IS-relation]].

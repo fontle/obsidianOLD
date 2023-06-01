@@ -1,8 +1,8 @@
 ## Characteristics of Marxism
----
 Marx proposed a *stage theory of history* which he referred to as **historical materialism**. 
 
 He believed that human history progressed through several distinct chronological stages: 
+
 1. *Primitive Communism*: Characterised by communal ownership of property and an absence of class distinctions
 2. *Slave Society*: A ruling class emerges that owned slaves and controlled the means of production, was able to extract surplus value from slave labour. 
 3. *Feudalism*: A ruling class of landowners who controlled the means of production and exploited the labour of pheasants.
@@ -10,15 +10,14 @@ He believed that human history progressed through several distinct chronological
 5. ***Socialism***: Marx believed that capitalism would eventually make way for socialism which was characterised by collective ownership of the means of production and the abolition of class distinctions. He believed this was necessary as it would reduce exploitation and improve equality.
 
 ### Crisis of Capitalism
-
 Of course we are yet to see the so called *crisis of capitalism* which results in societies' transition to socialism has yet to be seen on a global scale. The preconditions for such crisis are as such: 
+
 1. *Overproduction*: Capitalism favours the constant accumulation of capital and production for profit. However there is a theoretical limit to the demand for these goods, if there is overproduction, and the markets contain goods that cannot be sold, then there will be a crisis of capitalism
 2. *Falling Profits*: As competition increases, capitalists must invest more to maintain their profits, this leads to a diminishing return of investment resulting in an eventual convergence of overall profits.
 3. *Class Struggle*: Exploitation of the proletariat would result in collective action to resits, theoretically leading to both social and political upheaval (the immiseration of the proletariat)
 4. *Contradictory Forces*: Marx argued that capitalism is based on contradictions such as the tension between shareholders & profit and labour & wages. These can lead to crisis if not resolved. 
 
 ## War Communism
---- 
 Communism was born during civil war and amid terror. This created a volatile environment that tried to put communism in practice without an established administrative base. 
 
 What followed was detrimental to early soviet economies: 
