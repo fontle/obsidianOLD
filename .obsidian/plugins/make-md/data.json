@@ -1,0 +1,97 @@
+{
+  "defaultInitialization": false,
+  "filePreviewOnHover": true,
+  "flowMenuEnabled": false,
+  "markSans": false,
+  "blinkEnabled": true,
+  "makeMenuPlaceholder": true,
+  "mobileMakeBar": true,
+  "inlineStyler": false,
+  "makerMode": true,
+  "inlineStylerColors": false,
+  "editorFlow": true,
+  "internalLinkClickFlow": true,
+  "contextEnabled": false,
+  "saveAllContextToFrontmatter": true,
+  "editorFlowStyle": "minimal",
+  "autoOpenFileContext": false,
+  "activeView": "root",
+  "hideFrontmatter": true,
+  "activeSpace": "",
+  "spacesCompactMode": true,
+  "defaultDateFormat": "dd MM YYYYY",
+  "spacesEnabled": true,
+  "spacesPerformance": false,
+  "collapsedTags": [],
+  "enableFolderNote": true,
+  "folderIndentationLines": true,
+  "revealActiveFile": false,
+  "spacesStickers": true,
+  "spaceRowHeight": 28,
+  "spacesDisablePatch": true,
+  "folderNoteInsideFolder": true,
+  "folderNoteDefaultView": true,
+  "sidebarTabs": true,
+  "showRibbon": true,
+  "deleteFileOption": "trash",
+  "expandedFolders": {
+    "obsidian": [
+      "Economics",
+      "Economics/Macro 1",
+      "Economics/Macro 1",
+      "Excalidraw",
+      "Excalidraw",
+      "Economics/Hist1"
+    ],
+    "Economics": [
+      "Modules",
+      "Economics/Data1/Project3",
+      "Economics/Data1/Project3",
+      "Economics/Hist1/Reading",
+      "Economics/Hist1",
+      "Economics/Hist1"
+    ],
+    "Economics2": [
+      "Hist1"
+    ]
+  },
+  "expandedSpaces": [
+    "/",
+    null,
+    "obsidian",
+    "Economics2",
+    "Economics",
+    null
+  ],
+  "openFolders": [],
+  "fileIcons": [],
+  "cachedSpaces": [
+    "Economics"
+  ],
+  "menuTriggerChar": "/",
+  "inlineStickerMenu": true,
+  "emojiTriggerChar": ":",
+  "folderContextFile": "context",
+  "tagContextFolder": "Context",
+  "hiddenFiles": [
+    "Context"
+  ],
+  "lineNumbers": false,
+  "hiddenExtensions": [
+    "mdb"
+  ],
+  "inlineBacklinks": false,
+  "inlineContext": false,
+  "inlineBacklinksExpanded": false,
+  "inlineContextExpanded": true,
+  "inlineContextSectionsExpanded": false,
+  "dataviewInlineContext": false,
+  "inlineContextNameLayout": "vertical",
+  "spacesSyncLastUpdated": "Context/spacesLastSync.log",
+  "spacesSyncTimeoutSeconds": 10,
+  "spacesAutoBackup": true,
+  "spacesAutoBackupInterval": 10,
+  "spacesAutoBackupLast": 1684681634977,
+  "spacesUseAlias": false,
+  "precreateVaultSpace": true
+}

@@ -1,0 +1,17 @@
+{
+  "accentColor": "#cabdf4",
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "textFontFamily": "Iosevka Term",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "big-math",
+    "essay",
+    "center-image"
+  ],
+  "baseFontSizeAction": false,
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "interfaceFontFamily": "BlexMono Nerd Font",
+  "monospaceFontFamily": ""
+}
