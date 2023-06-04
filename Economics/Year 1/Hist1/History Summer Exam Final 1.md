@@ -9,7 +9,7 @@ Globalisation refers to the process of economies becoming more integrated and in
 
 The New Economic Policy (1921-1928) was a response by Lenin to the consequences of war communism, it involves a set of economic policies that hypothetically enabled the transition to socialism by acknowledging the relevance of markets and private property in recovery: in the words of Lenin 'one step backwards in order to take two steps forward'. It involved partial decentralisation: returning of agriculture and other sectors such as retail back to private ownership. This allowed peasants to cultivate their own land and sell surplus on the market whilst engaging in small-scale trade. Furthermore, elements of monetary policy were re-introduced: a convertible currency backed by the gold standard called *chervonets*, allowing for greater trade with other economies. Economically, it was successful with economic growth in the period at 16.3% in the Soviet Union, far greater than any other CESEE economy, however when accounting for GDP levels pre World War I, the Soviet Union was the last to recover in 1928. 
 
-![[HistorySummerExamFinal-1.png]]
+![[Economics/Year 1/Hist1/FinalExam/HistorySummerExamFinal-1.png]]
 *Figure 1: GDP levels and growth rates in six CESEE countries, 1913-1938* [^4]
 
 ### Are Communism and State Socialism Identical Concepts, Overlapping Concepts or Entirely Different Concepts?
@@ -22,10 +22,10 @@ State socialism is government system characterised by the central planning of th
 
 Britain was the first economy to industrialise during the 18th century and experienced unparalleled growth that was not seen by any economy previously. Despite being well ahead of Germany and the United States, it growth began to slow in during the second industrial revolution (1870-1914). As shown by figure 2, the real rate of growth in the UK was 1.0 (constant) during the second industrial revolution, meanwhile Germany and the United States experienced 60% and 80% expansions in real GDP respectively during the same period. Semantically, it is important to differentiate between absolute and relative decline. In *Absolute* terms, the British economy did not decline and thus did not face a recession, however, relative to other industrialising economies in Europe, Britain faced a stark decline in its proportion of global manufacturing output, going from   
 
-![[HistorySummerExamFinal-2.png]]
+![[Economics/Year 1/Hist1/FinalExam/HistorySummerExamFinal-2.png]]
 *Figure Two: Levels and rate of growth of real GDP per capita (Crafts, 2004)[^6]*
 
-![[HistorySummerExamFinal-3.png]]
+![[Economics/Year 1/Hist1/FinalExam/HistorySummerExamFinal-3.png]]
 *Figure Three: National shares of world manufacturing output 1860-1913 (Magee, 2004)[^7]*
 
 

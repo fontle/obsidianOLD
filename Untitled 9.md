@@ -1,4 +1,0 @@
-- "It is axiomatic that a country which is a pioneer in industrial and commercial development should should lose in relative position as other countries follow suit, even if it gains in absolute terms"
-	- League of Nations, Industrialisation and Foreign Trade (1945)
-- "changes in economic variables, stem largely from entrepreneurial decisions"
-- "this period of innovations, ... were confined to a small sector of the economy" 

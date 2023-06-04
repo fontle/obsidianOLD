@@ -4,65 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6ce8afaabb123832",
+        "id": "4bd1712e885650f3",
         "type": "tabs",
         "children": [
           {
-            "id": "818237448a565abf",
+            "id": "a9e1c6c19dd3838a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Hist1/FinalExam/History Summer Exam Final.md",
+                "file": "Templates/Print.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "3a7803c9d461b816",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
-          },
-          {
-            "id": "4635f454bc1cdaa3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Economics/Hist1/FinalExam/History Summer Exam Final.pdf"
-              }
-            }
-          },
-          {
-            "id": "583b74b04d840e7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "735e2a8c051517cc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-05-26 21.04.02.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Hist1/FinalExam/History Summer Exam Final.md",
+                "file": "Templates/Print.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Hist1/FinalExam/History Summer Exam Final.md",
+                "file": "Templates/Print.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,14 +174,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a7803c9d461b816",
+  "active": "85126ededaff52b5",
   "lastOpenFiles": [
-    "Economics/Hist1/FinalExam/History Summer Exam Final.pdf",
-    "Economics/Hist1/FinalExam/History Summer Exam Final.md",
+    "Templates/Templates.md",
+    "Templates/Supply and Demand Diagram.md",
+    "Templates/Print.md",
+    "Templates/Equation.md",
+    "Nan Farewell Speech.md",
+    "i.md",
+    "Macroeconomics 1 Vital Questions.md",
+    "Reading List for History Exam.md",
+    "Style Guide.md",
+    "Untitled 10.md",
+    "Economics/Economics.md",
+    "Economics/Year 1",
+    "Economics/Year 1/Hist1/FinalExam/History Summer Exam Final.pdf",
+    "Economics/Year 1/Hist1/FinalExam/History Summer Exam Final.md",
     "Untitled 9.md",
     "Excalidraw/Drawing 2023-05-26 21.04.02.excalidraw.md",
-    "Reading List for History Exam.md",
-    "Economics/Hist1/FinalExam/HistorySummerExamFinal-3.png",
+    "Economics/Year 1/Hist1/FinalExam/HistorySummerExamFinal-3.png",
     "Economics/Hist1/FinalExam/History Summer Exam Final-22.pdf",
     "Economics/Hist1/FinalExam/History Summer Exam Final-23.pdf",
     "Economics/Hist1/FinalExam/History Summer Exam Final-21.pdf",
@@ -234,19 +202,18 @@
     "Economics/Hist1/FinalExam/History Summer Exam Final-20.pdf",
     "Economics/Hist1/FinalExam/History Summer Exam Final-19.pdf",
     "Economics/Hist1/FinalExam/History Summer Exam Final-18.pdf",
-    "Economics/Hist1/FinalExam/History Summer Exam Final-17.pdf",
-    "Economics/Hist1/History Summer Exam Final 1.md",
-    "Economics/Hist1/History Summer Exam.md",
-    "Economics/Hist1/FinalExam/HistorySummerExamFinal-1.png",
+    "Economics/Year 1/Hist1/History Summer Exam Final 1.md",
+    "Economics/Year 1/Hist1/History Summer Exam.md",
+    "Economics/Year 1/Hist1/FinalExam/HistorySummerExamFinal-1.png",
     "Attachments/HistorySummerExamFinal-1.png",
-    "Economics/Hist1/FinalExam/HistorySummerExamFinal-2.png",
+    "Economics/Year 1/Hist1/FinalExam/HistorySummerExamFinal-2.png",
     "Economics/Hist1/HistorySummerExamFinal-3.png",
     "Economics/Hist1/HistorySummerExamFinal-2.png",
     "Economics/Hist1/HistorySummerExamFinal-1.png",
     "Attachments/HistorySummerExamFinal-3.png",
     "Economics/Hist1/History Summer Exam Final.md",
     "Untitled 8.md",
-    "Economics/Hist1/Reading/manufacturing_and_technological_change.md",
+    "Economics/Year 1/Hist1/Reading/manufacturing_and_technological_change.md",
     "Attachments/Pasted image 20230522100658.png",
     "Attachments/HistorySummerExamFinal-2.png",
     "Excalidraw/Drawing 2023-05-25 16.28.44.excalidraw.md",
@@ -255,17 +222,8 @@
     "Untitled 7.md",
     "Bibliography/Drawing 2023-05-25 14.54.33.excalidraw.md",
     "Excalidraw/Drawing 2023-05-25 14.46.49.excalidraw.md",
-    "io.md",
-    "Untitled 6.md",
-    "Untitled 5.md",
-    "i.md",
-    "Excalidraw/Drawing 2023-05-22 16.48.31.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-22 16.07.25.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
-    "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.md",
-    "Economics/Hist1/American Industrialisation.md",
-    "Economics/Hist1/British Decline in 19th Century.canvas",
-    "Economics/Macro1/Untitled.canvas",
+    "Economics/Year 1/Hist1/British Decline in 19th Century.canvas",
+    "Economics/Year 1/Macro1/Untitled.canvas",
     "Untitled 4.canvas",
     "Untitled 1.canvas",
     "Untitled 3.canvas",
