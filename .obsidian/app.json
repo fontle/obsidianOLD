@@ -7,10 +7,10 @@
   "promptDelete": false,
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "Letter",
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 70
+    "downscalePercent": 80
   },
   "showInlineTitle": true,
   "alwaysUpdateLinks": true,

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4bd1712e885650f3",
+        "id": "cefd5a72fd7c678f",
         "type": "tabs",
         "children": [
           {
-            "id": "a9e1c6c19dd3838a",
+            "id": "7fd88d230bd80096",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Print.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +45,15 @@
             }
           },
           {
-            "id": "5a016a046b21efd5",
+            "id": "e79ac98e98390309",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "974f7ef3dc1fa2c4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423.5
+    "width": 355.5026054382324
   },
   "right": {
     "id": "ca74095a8d46f702",
@@ -79,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Print.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Print.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,15 +147,23 @@
             }
           },
           {
-            "id": "c78239bfe2743c8c",
+            "id": "c0f7bf929f1f7225",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "b60fe872519cce6b",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -162,66 +172,67 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": true,
-      "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "85126ededaff52b5",
+  "active": "7fd88d230bd80096",
   "lastOpenFiles": [
-    "Templates/Templates.md",
-    "Templates/Supply and Demand Diagram.md",
-    "Templates/Print.md",
-    "Templates/Equation.md",
+    "Excalidraw/Drawing 2023-07-30 20.38.49.excalidraw.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2023-07-29 22.05.47.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
+    "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Exams 2023.md",
+    "2023-05-04.md",
+    "Untitled 1.md",
+    "Day Planners/Day Planner-20230729.md",
+    "Day Planners",
+    "Latex Playthrough.md",
+    "Websites/Drawing 2023-07-08 18.11.53.excalidraw.md",
+    "Websites",
+    "Economics/Year 2/Dynamic Modelling",
+    "Economics/Year 2/Untitled.md",
+    "Economics/Untitled.md",
+    "Economics/Year 2",
     "Nan Farewell Speech.md",
-    "i.md",
-    "Macroeconomics 1 Vital Questions.md",
-    "Reading List for History Exam.md",
-    "Style Guide.md",
-    "Untitled 10.md",
-    "Economics/Economics.md",
+    "Excalidraw/Drawing 2023-05-03 20.16.00.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-26 21.04.02.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-26 18.49.37.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
+    "Excalidraw/inflation_unemployment_output.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-25 16.28.44.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
+    "Economics/Year 1/Macro1/Inflation, Money Growth and Real Interest Rate.md",
+    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
+    "Excalidraw/Drawing 2023-05-22 16.07.25.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-03 20.16.03.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-03 20.16.18.excalidraw.md",
     "Economics/Year 1",
     "Economics/Year 1/Hist1/FinalExam/History Summer Exam Final.pdf",
-    "Economics/Year 1/Hist1/FinalExam/History Summer Exam Final.md",
-    "Untitled 9.md",
-    "Excalidraw/Drawing 2023-05-26 21.04.02.excalidraw.md",
     "Economics/Year 1/Hist1/FinalExam/HistorySummerExamFinal-3.png",
     "Economics/Hist1/FinalExam/History Summer Exam Final-22.pdf",
     "Economics/Hist1/FinalExam/History Summer Exam Final-23.pdf",
     "Economics/Hist1/FinalExam/History Summer Exam Final-21.pdf",
-    "Excalidraw/Drawing 2023-05-26 18.49.37.excalidraw.md",
     "Bibliography/The-Second-Industrial-Revolution-1870-1914-Aug-1998-1ubah7s.pdf",
-    "Bibliography/History Summer Exam Final-1.pdf",
-    "Economics/Hist1/FinalExam/History Summer Exam Final-20.pdf",
-    "Economics/Hist1/FinalExam/History Summer Exam Final-19.pdf",
-    "Economics/Hist1/FinalExam/History Summer Exam Final-18.pdf",
-    "Economics/Year 1/Hist1/History Summer Exam Final 1.md",
-    "Economics/Year 1/Hist1/History Summer Exam.md",
     "Economics/Year 1/Hist1/FinalExam/HistorySummerExamFinal-1.png",
     "Attachments/HistorySummerExamFinal-1.png",
     "Economics/Year 1/Hist1/FinalExam/HistorySummerExamFinal-2.png",
     "Economics/Hist1/HistorySummerExamFinal-3.png",
     "Economics/Hist1/HistorySummerExamFinal-2.png",
-    "Economics/Hist1/HistorySummerExamFinal-1.png",
-    "Attachments/HistorySummerExamFinal-3.png",
-    "Economics/Hist1/History Summer Exam Final.md",
-    "Untitled 8.md",
-    "Economics/Year 1/Hist1/Reading/manufacturing_and_technological_change.md",
-    "Attachments/Pasted image 20230522100658.png",
-    "Attachments/HistorySummerExamFinal-2.png",
-    "Excalidraw/Drawing 2023-05-25 16.28.44.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Organic Line.md",
-    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
-    "Untitled 7.md",
-    "Bibliography/Drawing 2023-05-25 14.54.33.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-25 14.46.49.excalidraw.md",
     "Economics/Year 1/Hist1/British Decline in 19th Century.canvas",
     "Economics/Year 1/Macro1/Untitled.canvas",
     "Untitled 4.canvas",

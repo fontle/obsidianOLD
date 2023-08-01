@@ -5,11 +5,12 @@
   "removeSnippetWhitespace": true,
   "loadSnippetsFromFile": false,
   "snippetsFileLocation": "",
-  "concealEnabled": false,
+  "concealEnabled": true,
   "colorPairedBracketsEnabled": true,
   "highlightCursorBracketsEnabled": true,
-  "inlineMathPreviewEnabled": true,
+  "mathPreviewEnabled": true,
   "autofractionEnabled": true,
+  "autofractionSymbol": "\\frac",
   "autofractionExcludedEnvs": "[\n        [\"^{\", \"}\"],\n        [\"\\\\pu{\", \"}\"]\n]",
   "autofractionBreakingChars": "+-=",
   "matrixShortcutsEnabled": false,
@@ -17,5 +18,6 @@
   "taboutEnabled": true,
   "autoEnlargeBrackets": true,
   "autoEnlargeBracketsTriggers": "sum, int, frac, prod",
-  "wordDelimiters": "., +-\\n\t:;!?\\/{}[]()=~$"
+  "wordDelimiters": "., +-\\n\t:;!?\\/{}[]()=~$",
+  "inlineMathPreviewEnabled": true
 }

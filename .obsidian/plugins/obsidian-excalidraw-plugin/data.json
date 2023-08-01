@@ -14,11 +14,13 @@
   "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
   "useExcalidrawExtension": true,
   "displaySVGInPreview": true,
+  "allowImageCache": true,
   "displayExportedImageIfAvailable": false,
   "previewMatchObsidianTheme": true,
   "width": "400",
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
+  "iframeMatchExcalidrawTheme": true,
   "matchTheme": false,
   "matchThemeAlways": true,
   "matchThemeTrigger": true,
@@ -69,7 +71,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.2",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.12",
     "libraryItems": [
       {
         "status": "unpublished",
@@ -94,6 +96,7 @@
             "height": 280,
             "seed": 813121501,
             "groupIds": [],
+            "frameId": null,
             "roundness": {
               "type": 2
             },
@@ -137,6 +140,7 @@
             "height": 0,
             "seed": 13193885,
             "groupIds": [],
+            "frameId": null,
             "roundness": {
               "type": 2
             },
@@ -187,6 +191,7 @@
             "height": 280,
             "seed": 813121501,
             "groupIds": [],
+            "frameId": null,
             "roundness": {
               "type": 2
             },
@@ -230,6 +235,7 @@
             "height": 0,
             "seed": 13193885,
             "groupIds": [],
+            "frameId": null,
             "roundness": {
               "type": 2
             },
@@ -273,6 +279,7 @@
             "height": 220,
             "seed": 345062419,
             "groupIds": [],
+            "frameId": null,
             "roundness": {
               "type": 2
             },
@@ -316,6 +323,7 @@
             "height": 21.55389404296875,
             "seed": 903233971,
             "groupIds": [],
+            "frameId": null,
             "roundness": null,
             "boundElements": [],
             "updated": 1684970139237,
@@ -457,6 +465,7 @@
             "height": 20.919952392578125,
             "seed": 1009963091,
             "groupIds": [],
+            "frameId": null,
             "roundness": null,
             "boundElements": [],
             "updated": 1684970139237,
@@ -603,6 +612,7 @@
             "height": 220,
             "seed": 890679741,
             "groupIds": [],
+            "frameId": null,
             "roundness": {
               "type": 2
             },
@@ -646,6 +656,7 @@
             "height": 24.089645385742188,
             "seed": 2040393587,
             "groupIds": [],
+            "frameId": null,
             "roundness": null,
             "boundElements": [],
             "updated": 1684970139237,
@@ -802,6 +813,7 @@
             "height": 25.357521057128906,
             "seed": 800144637,
             "groupIds": [],
+            "frameId": null,
             "roundness": null,
             "boundElements": [],
             "updated": 1684970139237,
@@ -1053,6 +1065,7 @@
             "height": 16.482383728027344,
             "seed": 1278557309,
             "groupIds": [],
+            "frameId": null,
             "roundness": null,
             "boundElements": [],
             "updated": 1684970139237,
@@ -1179,6 +1192,7 @@
             "height": 3.1696929931640625,
             "seed": 74838323,
             "groupIds": [],
+            "frameId": null,
             "roundness": null,
             "boundElements": [],
             "updated": 1684970139237,
@@ -1275,6 +1289,7 @@
             "height": 6.973320007324219,
             "seed": 410636627,
             "groupIds": [],
+            "frameId": null,
             "roundness": null,
             "boundElements": [],
             "updated": 1684970139237,
@@ -1416,6 +1431,7 @@
             "height": 28.5272216796875,
             "seed": 907239613,
             "groupIds": [],
+            "frameId": null,
             "roundness": null,
             "boundElements": [],
             "updated": 1684970139237,
@@ -1597,6 +1613,7 @@
             "height": 180,
             "seed": 890679741,
             "groupIds": [],
+            "frameId": null,
             "roundness": {
               "type": 2
             },
@@ -1640,6 +1657,7 @@
             "height": 200,
             "seed": 345062419,
             "groupIds": [],
+            "frameId": null,
             "roundness": {
               "type": 2
             },
@@ -1713,7 +1731,7 @@
     }
   },
   "defaultTrayMode": false,
-  "previousRelease": "1.9.2",
+  "previousRelease": "1.9.12",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js",
@@ -2033,7 +2051,7 @@
       }
     }
   ],
-  "numberOfCustomPens": 9,
+  "numberOfCustomPens": 4,
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfGapSize": 10,

@@ -16,8 +16,7 @@
       "name": "Typst"
     },
     {
-      "name": "PDF",
-      "customArguments": "--pdf-engine=pdflatex"
+      "name": "PDF"
     },
     {
       "name": "Word (.docx)"

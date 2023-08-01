@@ -14,7 +14,7 @@
   "contextEnabled": false,
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "minimal",
-  "autoOpenFileContext": false,
+  "autoOpenFileContext": true,
   "activeView": "root",
   "hideFrontmatter": true,
   "activeSpace": "",
@@ -49,7 +49,11 @@
       "Economics/Data1/Project3",
       "Economics/Hist1/Reading",
       "Economics/Hist1",
-      "Economics/Hist1"
+      "Economics/Hist1",
+      "Economics/Year 1/Hist1",
+      "Economics/Year 1/Hist1",
+      "Economics/Year 2",
+      "Economics/Year 2/Dynamic Modelling"
     ],
     "Economics2": [
       "Hist1"
@@ -76,10 +80,11 @@
   "hiddenFiles": [
     "Context"
   ],
-  "lineNumbers": false,
+  "lineNumbers": true,
   "hiddenExtensions": [
     "mdb"
   ],
+  "newFileLocation": "current",
   "inlineBacklinks": false,
   "inlineContext": false,
   "inlineBacklinksExpanded": false,
@@ -91,7 +96,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1684681634977,
+  "spacesAutoBackupLast": 1690663164203,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }

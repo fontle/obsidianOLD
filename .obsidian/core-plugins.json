@@ -14,6 +14,8 @@
   "slash-command",
   "editor-status",
   "bookmarks",
+  "markdown-importer",
+  "slides",
   "file-recovery",
   "sync"
 ]
