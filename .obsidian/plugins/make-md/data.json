@@ -3,7 +3,7 @@
   "filePreviewOnHover": true,
   "flowMenuEnabled": false,
   "markSans": false,
-  "blinkEnabled": true,
+  "blinkEnabled": false,
   "makeMenuPlaceholder": true,
   "mobileMakeBar": true,
   "inlineStyler": false,
@@ -11,17 +11,17 @@
   "inlineStylerColors": false,
   "editorFlow": true,
   "internalLinkClickFlow": true,
-  "contextEnabled": false,
+  "contextEnabled": true,
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "minimal",
   "autoOpenFileContext": true,
   "activeView": "root",
-  "hideFrontmatter": true,
+  "hideFrontmatter": false,
   "activeSpace": "",
   "spacesCompactMode": true,
   "defaultDateFormat": "dd MM YYYYY",
   "spacesEnabled": true,
-  "spacesPerformance": false,
+  "spacesPerformance": true,
   "collapsedTags": [],
   "enableFolderNote": true,
   "folderIndentationLines": true,
@@ -29,7 +29,7 @@
   "spacesStickers": true,
   "spaceRowHeight": 28,
   "spacesDisablePatch": true,
-  "folderNoteInsideFolder": true,
+  "folderNoteInsideFolder": false,
   "folderNoteDefaultView": true,
   "sidebarTabs": true,
   "showRibbon": true,
@@ -60,17 +60,14 @@
     ]
   },
   "expandedSpaces": [
-    "/",
     null,
-    "obsidian",
-    "Economics2",
-    "Economics",
-    null
+    null,
+    "Macroeconomics"
   ],
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
-    "Economics"
+    "Notes"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -96,7 +93,14 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1690663164203,
+  "spacesAutoBackupLast": 1692029884085,
   "spacesUseAlias": false,
-  "precreateVaultSpace": true
+  "precreateVaultSpace": true,
+  "fmKeyAlias": "aliases",
+  "fmKeyBanner": "banner",
+  "fmKeyColor": "color",
+  "fmKeySticker": "sticker",
+  "openSpacesOnLaunch": true,
+  "indexSVG": false,
+  "readableLineWidth": true
 }

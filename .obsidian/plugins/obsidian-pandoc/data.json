@@ -5,7 +5,7 @@
   "injectThemeCSS": false,
   "customCSSFile": null,
   "displayYAMLFrontmatter": false,
-  "linkStrippingBehaviour": "text",
+  "linkStrippingBehaviour": "strip",
   "highDPIDiagrams": true,
   "pandoc": null,
   "pdflatex": "",

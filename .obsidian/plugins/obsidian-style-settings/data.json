@@ -53,5 +53,7 @@
   "minimal-style@@h1-weight": 600,
   "sanctum@@color-accent-rgb-l": "246, 141, 69",
   "sanctum@@light-mode-contrast-mode": "sanctum-contrast-light",
-  "sanctum@@hide-vault-title": false
+  "sanctum@@hide-vault-title": false,
+  "sanctum@@file-line-width": 40,
+  "sanctum@@active-line-accent": "var(--background-hover)"
 }

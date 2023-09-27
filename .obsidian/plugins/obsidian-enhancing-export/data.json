@@ -54,10 +54,12 @@
   ],
   "defaultExportDirectoryMode": "Same",
   "openExportedFile": true,
+  "env": {},
+  "showExportProgressBar": true,
   "lastEditName": "PDF",
   "lastExportDirectory": {
     "linux": "/home/fontle/Documents"
   },
-  "lastExportType": "Markdown",
+  "lastExportType": "PDF",
   "openExportedFileLocation": true
 }

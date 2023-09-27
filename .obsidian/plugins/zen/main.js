@@ -38,7 +38,12 @@ var DEFAULT_SETTINGS = {
     statusBar: false,
     fileHeader: false,
     sideDockLeft: true,
-    sideDockRight: true
+    sideDockRight: true,
+    fullScreen: false,
+    autoHideZen: false
+  },
+  global: {
+    hideZenButton: false
   },
   integrations: []
 };
@@ -54,7 +59,21 @@ var SettingsTab = class extends import_obsidian.PluginSettingTab {
     const { containerEl } = this;
     containerEl.empty();
     containerEl.createEl("h1", { text: this.plugin.manifest.name });
-    new import_obsidian.Setting(containerEl).setHeading().setName("What elements should be hidden when zen mode is enabled?");
+    new import_obsidian.Setting(containerEl).setHeading().setName("General Settings");
+    new import_obsidian.Setting(containerEl).setName("Toggle fullscreen").setDesc("Should entering/exiting zen mode cause Obsidian to enter/exit fullscreen mode. (default: disabled)").addToggle((tc) => tc.setValue(this.plugin.settings.preferences.fullScreen).onChange(async (value) => {
+      this.plugin.settings.preferences.fullScreen = value;
+      await this.plugin.saveSettings();
+    }));
+    new import_obsidian.Setting(containerEl).setHeading().setName("Zen Button Settings");
+    new import_obsidian.Setting(containerEl).setName("Disable").setDesc("When enabled zen mode can only be toggled using the commands.").addToggle((tc) => tc.setValue(this.plugin.settings.global.hideZenButton).onChange(async (value) => {
+      this.plugin.settings.global.hideZenButton = value;
+      await this.plugin.saveSettings();
+    }));
+    new import_obsidian.Setting(containerEl).setName("Auto-hide").setDesc("Auto-hide the zen mode button (after 1s of no mouse movement) during zen mode.").addToggle((tc) => tc.setValue(this.plugin.settings.preferences.autoHideZen).onChange(async (value) => {
+      this.plugin.settings.preferences.autoHideZen = value;
+      await this.plugin.saveSettings();
+    }));
+    new import_obsidian.Setting(containerEl).setHeading().setName("Element Settings").setDesc("What elements should be hidden when zen mode is enabled?");
     new import_obsidian.Setting(containerEl).setName("Application Ribbon").addButton((bc) => this.highlightElement(bc, ".workspace-ribbon.mod-left")).addToggle((tc) => tc.setValue(this.plugin.settings.preferences.ribbon).onChange(async (value) => {
       this.plugin.settings.preferences.ribbon = value;
       await this.plugin.saveSettings();
@@ -175,11 +194,13 @@ var ZenView = class extends import_obsidian2.View {
     super(leaf);
     this.leaf = leaf;
     this.plugin = plugin;
+    this.addGlobalClasses();
   }
   onunload() {
     if (this.headerIcon) {
       this.headerIcon.remove();
     }
+    this.removeGlobalClasses();
     super.onunload();
   }
   onload() {
@@ -193,6 +214,9 @@ var ZenView = class extends import_obsidian2.View {
   }
   async toggleZen() {
     this.plugin.settings.enabled = !this.plugin.settings.enabled;
+    if (this.plugin.settings.preferences.fullScreen) {
+      this.plugin.settings.enabled ? this.containerEl.doc.body.requestFullscreen() : this.containerEl.doc.exitFullscreen();
+    }
     await this.plugin.saveSettings();
     await this.updateClass();
   }
@@ -215,6 +239,20 @@ var ZenView = class extends import_obsidian2.View {
     });
     headerIcon.appendChild(headerInner);
     this.headerIcon = headerIcon;
+    let timer;
+    this.containerEl.doc.onmousemove = () => {
+      this.containerEl.doc.body.removeClass("zen-module--autoHideShow__hide");
+      if (!this.plugin.settings.enabled)
+        return;
+      if (!this.plugin.settings.preferences.sideDockLeft)
+        return;
+      if (!this.plugin.settings.preferences.autoHideZen)
+        return;
+      clearTimeout(timer);
+      timer = setTimeout(() => {
+        this.containerEl.doc.body.addClass("zen-module--autoHideShow__hide");
+      }, 1e3);
+    };
     this.app.workspace.leftSplit.getContainer().containerEl.appendChild(headerIcon);
   }
   addBodyClasses(addBaseClass) {
@@ -226,6 +264,16 @@ var ZenView = class extends import_obsidian2.View {
         this.containerEl.doc.body.addClass("zen-module--" + key);
       }
     });
+  }
+  addGlobalClasses() {
+    Object.keys(this.plugin.settings.global).map((key) => {
+      if (this.plugin.settings.global[key]) {
+        this.containerEl.doc.body.addClass("zen-global--" + key);
+      }
+    });
+  }
+  removeGlobalClasses() {
+    this.containerEl.doc.body.className = this.containerEl.doc.body.className.split(" ").filter((c) => !c.startsWith("zen-global--")).join(" ").trim();
   }
   removeBodyClasses(removeBaseClass) {
     if (removeBaseClass) {
@@ -349,6 +397,27 @@ var pluginIntegrations = [
         }
       }
     ]
+  },
+  {
+    name: "obsidian-stille",
+    description: "Automatically enable Stille when entering Zen mode.",
+    enabled: false,
+    available: false,
+    options: {},
+    settings: [
+      {
+        type: "enable",
+        callback(plugin) {
+          return plugin.toggleStille();
+        }
+      },
+      {
+        type: "disable",
+        callback(plugin) {
+          return plugin.toggleStille();
+        }
+      }
+    ]
   }
 ];
 
@@ -392,6 +461,8 @@ var Zen = class extends import_obsidian4.Plugin {
   }
   async saveSettings() {
     await this.saveData(this.settings);
+    this.zenView.removeGlobalClasses();
+    this.zenView.addGlobalClasses();
     if (this.settings.enabled) {
       this.zenView.removeBodyClasses();
       this.zenView.addBodyClasses();

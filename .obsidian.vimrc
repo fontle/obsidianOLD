@@ -35,8 +35,8 @@ map s{ :surround_curly_brackets
 map s} :surround_curly_brackets
 
 " Heading support
-exmap nextHeading jsfile mdHelpers.js {jumpHeading(true)}
-exmap prevHeading jsfile mdHelpers.js {jumpHeading(false)}
+exmap nextHeading jsfile .mdHelpers.js {jumpHeading(true)}
+exmap prevHeading jsfile .mdHelpers.js {jumpHeading(false)}
 nmap ]] :nextHeading
 nmap [[ :prevHeading
 

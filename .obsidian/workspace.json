@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cefd5a72fd7c678f",
+        "id": "a2d8a52deeb18c0b",
         "type": "tabs",
         "children": [
           {
-            "id": "7fd88d230bd80096",
+            "id": "ee62bfc0de24e82e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/finance/Overview of Corporate Finance/Capital Structure.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -29,30 +33,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85126ededaff52b5",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "cf7bcebc1a01373f",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "e79ac98e98390309",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
-          },
-          {
             "id": "974f7ef3dc1fa2c4",
             "type": "leaf",
             "state": {
@@ -61,13 +41,29 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "c96dcdd01081d4f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "f7adaf4323eef6a0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 355.5026054382324
+    "width": 302.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca74095a8d46f702",
@@ -78,40 +74,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9b408e4af9f684e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b34e91ee2fc1fbd0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "3f3d0c70e78a7c18",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -120,14 +89,6 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "ca2cc9c3ce89a66b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
               "state": {}
             }
           },
@@ -147,23 +108,36 @@
             }
           },
           {
-            "id": "c0f7bf929f1f7225",
+            "id": "3ba89c91544ab77a",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/finance/Overview of Corporate Finance/Capital Structure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           },
           {
-            "id": "b60fe872519cce6b",
+            "id": "9181412acabbf038",
             "type": "leaf",
             "state": {
-              "type": "todo",
-              "state": {}
+              "type": "backlink",
+              "state": {
+                "file": "notes/finance/Overview of Corporate Finance/Capital Structure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,67 +146,67 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": true,
       "daily-notes:Open today's daily note": false,
-      "templater-obsidian:Templater": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7fd88d230bd80096",
+  "active": "ee62bfc0de24e82e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-07-30 20.38.49.excalidraw.md",
-    "Untitled.md",
-    "Excalidraw/Drawing 2023-07-29 22.05.47.excalidraw.md",
+    "notes/finance/Overview of Corporate Finance/Capital Structure-1.pdf",
+    "notes/finance/Overview of Corporate Finance/Capital Structure.md",
+    "notes/finance/Overview of Corporate Finance/Untitled.canvas",
+    "pdfs/finance-week1.pdf",
+    "pdfs/finance-week1_",
+    "pdfs/finance-week1",
+    "notes/finance/Overview of Corporate Finance/Balance Sheet Model.md",
+    "notes/finance/Overview of Corporate Finance/Overview of Corporate Finance.md",
+    "notes/finance/Overview of Corporate Finance/Untitled",
+    "notes/finance/Overview of Corporate Finance/What is Corporate Finance.md",
+    "notes/finance/finance.md",
+    "notes/finance/Overview of Corporate Finance",
+    "notes/finance/Overview of Corporate Finance.md",
+    "notes/notes.md",
+    "notes/Untitled",
+    "notes/macro 2/Monetary Policy/The Poole Model.md",
+    "notes/macro 2/Monetary Policy/Quantity Theory of Money.md",
+    "notes/macro 2/Monetary Policy/Money Supply Targeting.md",
+    "notes/macro 2/Monetary Policy/Interest Rate Targeting.md",
+    "notes/macro 2/macro 2.md",
+    "notes/macro 2/Monetary Policy/Monetary Policy.md",
+    "notes/macro 2/Monetary Policy.md",
+    "notes/macro 2/Monetary Policy",
+    "notes/alternative/alternative.md",
+    "notes/alternative/Untitled.md",
+    "notes/alternative",
+    "notes/industry",
+    "Notes List.md",
+    "templates/IS-LM template.md",
+    "Home.md",
+    "Notes/Summer Exam 2023-08-14 15.31.50.excalidraw.md",
+    "Notes.md",
+    "Notes/Macroeconomics Resit 1 - Spring Resit.md",
+    "Notes/Summer Exam 2021.md",
+    "Attachments/Macroeconomics Resit 1 - Spring Resit-2.png",
+    "Attachments/Macroeconomics Resit 1 - Spring Resit 2023-08-15 11.28.35.excalidraw.md",
+    "Attachments/Macroeconomics Resit 1 - Spring Resit-1.png",
+    "Attachments/Summer Exam 2021 2023-08-14 19.13.57.excalidraw.md",
+    "Attachments/Summer Exam 2021-1.png",
+    "Untitled.canvas",
     "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
-    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
-    "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
-    "Exams 2023.md",
-    "2023-05-04.md",
-    "Untitled 1.md",
-    "Day Planners/Day Planner-20230729.md",
-    "Day Planners",
-    "Latex Playthrough.md",
-    "Websites/Drawing 2023-07-08 18.11.53.excalidraw.md",
-    "Websites",
-    "Economics/Year 2/Dynamic Modelling",
-    "Economics/Year 2/Untitled.md",
-    "Economics/Untitled.md",
-    "Economics/Year 2",
-    "Nan Farewell Speech.md",
-    "Excalidraw/Drawing 2023-05-03 20.16.00.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-26 21.04.02.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-26 18.49.37.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
-    "Excalidraw/inflation_unemployment_output.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-25 16.28.44.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
-    "Economics/Year 1/Macro1/Inflation, Money Growth and Real Interest Rate.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
-    "Excalidraw/Drawing 2023-05-22 16.07.25.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-03 20.16.03.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-03 20.16.18.excalidraw.md",
-    "Economics/Year 1",
-    "Economics/Year 1/Hist1/FinalExam/History Summer Exam Final.pdf",
     "Economics/Year 1/Hist1/FinalExam/HistorySummerExamFinal-3.png",
-    "Economics/Hist1/FinalExam/History Summer Exam Final-22.pdf",
-    "Economics/Hist1/FinalExam/History Summer Exam Final-23.pdf",
-    "Economics/Hist1/FinalExam/History Summer Exam Final-21.pdf",
-    "Bibliography/The-Second-Industrial-Revolution-1870-1914-Aug-1998-1ubah7s.pdf",
     "Economics/Year 1/Hist1/FinalExam/HistorySummerExamFinal-1.png",
     "Attachments/HistorySummerExamFinal-1.png",
-    "Economics/Year 1/Hist1/FinalExam/HistorySummerExamFinal-2.png",
-    "Economics/Hist1/HistorySummerExamFinal-3.png",
-    "Economics/Hist1/HistorySummerExamFinal-2.png",
     "Economics/Year 1/Hist1/British Decline in 19th Century.canvas",
     "Economics/Year 1/Macro1/Untitled.canvas",
     "Untitled 4.canvas",
