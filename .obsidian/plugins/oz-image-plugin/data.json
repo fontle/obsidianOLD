@@ -1,9 +1,9 @@
 {
-  "cm6RenderAll": false,
-  "renderImages": false,
+  "cm6RenderAll": true,
+  "renderImages": true,
   "renderPDF": false,
   "renderIframe": false,
-  "renderExcalidraw": false,
+  "renderExcalidraw": true,
   "renderMsgFile": false,
   "renderRichLink": false,
   "renderTransclusion": false,

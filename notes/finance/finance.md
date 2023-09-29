@@ -1,8 +1,12 @@
-```ccard
-type: folder_brief_live
-```
 %% Begin Waypoint %%
-- [[finance]]
-- **[[Overview of Corporate Finance]]**
+
+- **[[agency problems]]**
+- **[[capital structure policy]]**
+- **[[dividend policy]]**
+- **[[financial analysis]]**
+- **[[m&a]]**
+- **[[overview of corporate finance]]**
+- **[[overview of corporate governance]]**
+- **[[risk analysis]]**
 
 %% End Waypoint %%

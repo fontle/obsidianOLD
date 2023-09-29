@@ -3,16 +3,17 @@
   "spellcheck": true,
   "strictLineBreaks": true,
   "showLineNumber": false,
-  "attachmentFolderPath": "Attachments",
+  "attachmentFolderPath": "attachments",
   "promptDelete": false,
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 82
   },
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "livePreview": true
 }
