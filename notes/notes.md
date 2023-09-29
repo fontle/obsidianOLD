@@ -4,12 +4,11 @@ type: folder_brief_live
 --- 
 %% Begin Waypoint %%
 - **[[alternative]]**
+- **[[econometrics]]**
 - **[[finance]]**
-- **industry**
+- **[[industry]]**
 - **[[macro 2]]**
-- **micro 2**
-- [[notes]]
-- **Untitled**
+- **[[micro 2]]**
 
 %% End Waypoint %%
  

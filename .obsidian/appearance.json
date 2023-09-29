@@ -1,7 +1,7 @@
 {
   "accentColor": "#cabdf4",
   "cssTheme": "Typewriter",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "textFontFamily": "",
   "nativeMenus": false,
   "enabledCssSnippets": [
@@ -13,5 +13,6 @@
   "baseFontSize": 16,
   "showViewHeader": false,
   "interfaceFontFamily": "",
-  "monospaceFontFamily": ""
+  "monospaceFontFamily": "",
+  "translucency": false
 }

@@ -1,9 +1,8 @@
 %% Begin Waypoint %%
-- [[macro 2]]
-- **[[Monetary Policy]]**
+- **[[consumption and investment]]**
+- **[[endogenous growth]]**
+- **[[exogenous growth]]**
+- **[[monetary policy]]**
 
 %% End Waypoint %%
-```ccard
-type: folder_brief_live
-```
  

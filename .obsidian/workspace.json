@@ -4,16 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "a2d8a52deeb18c0b",
+        "id": "3f1a7f219037cf03",
         "type": "tabs",
         "children": [
           {
-            "id": "ee62bfc0de24e82e",
+            "id": "5ef32c2011547528",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "notes/finance/finance.md",
+=======
+                "file": "notes/macro 2/monetary policy/the poole model/the poole model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c5c86fb16d6ed94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/macro 2/monetary policy/the poole model/money supply targeting.md",
+>>>>>>> master
                 "mode": "source",
                 "source": false
               }
@@ -49,21 +65,12 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "f7adaf4323eef6a0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "ca74095a8d46f702",
@@ -113,7 +120,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "notes/finance/finance.md",
+=======
+                "file": "notes/macro 2/monetary policy/the poole model/the poole model.md",
+>>>>>>> master
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "notes/finance/finance.md",
+=======
+                "file": "notes/macro 2/monetary policy/the poole model/the poole model.md",
+>>>>>>> master
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +172,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee62bfc0de24e82e",
+  "active": "5ef32c2011547528",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "poole-review-question2.pdf",
     "Poole Review Questions.md",
     "Clarification for review questions week 1.md",
@@ -196,6 +211,48 @@
     "Notes/Summer Exam 2023-08-14 15.31.50.excalidraw.md",
     "Notes.md",
     "Notes/Macroeconomics Resit 1 - Spring Resit.md",
+=======
+    "notes/macro 2/monetary policy/the poole model/money supply targeting.md",
+    "notes/macro 2/monetary policy/the poole model/the poole model.md",
+    "notes/macro 2/monetary policy/the poole model/interest rate targeting.md",
+    "notes/finance/m&a/m&a.md",
+    "notes/macro 2/monetary policy/monetary policy.md",
+    "attachments/interest rate targeting-2.png",
+    "attachments/interest rate targeting-1.png",
+    "attachments/money supply targeting-2.png",
+    "attachments/money supply targeting-1.png",
+    "attachments",
+    "notes/macro 2/consumption and investment/consumption and investment.md",
+    "notes/micro 2/micro 2.md",
+    "notes/macro 2/monetary policy/the poole model",
+    "notes/macro 2/monetary policy/quantity theory of money.md",
+    "notes/macro 2/monetary policy/money supply targeting.md",
+    "notes/macro 2/monetary policy/interest rate targeting.md",
+    "notes/macro 2/monetary policy/the money supply.md",
+    "notes/macro 2/exogenous growth/exogenous growth.md",
+    "notes/finance/overview of corporate finance/capital structure.md",
+    "notes/finance/overview of corporate finance/balance sheet model.md",
+    "notes/finance/overview of corporate finance/overview of corporate finance.md",
+    "notes/finance/overview of corporate governance/overview of corporate governance.md",
+    "notes/finance/financial analysis/financial analysis.md",
+    "notes/finance/dividend policy/dividend policy.md",
+    "notes/finance/capital structure policy/capital structure policy.md",
+    "notes/finance/agency problems/agency problems.md",
+    "notes/finance/finance.md",
+    "notes/industry/industry.md",
+    "notes/econometrics/econometrics.md",
+    "notes/macro 2/macro 2.md",
+    "notes/micro 2/asymmetric information/asymmetric information.md",
+    "notes/finance/m&a",
+    "notes/finance/dividend policy",
+    "notes/finance/risk analysis",
+    "notes/finance/capital structure policy",
+    "notes/finance/financial analysis",
+    "notes/finance/agency problems",
+    "notes/finance/overview of corporate governance",
+    "notes/micro 2/jh",
+    "notes/finance/Overview of Corporate Finance/Untitled.canvas",
+>>>>>>> master
     "Attachments/Macroeconomics Resit 1 - Spring Resit-2.png",
     "Attachments/Macroeconomics Resit 1 - Spring Resit-1.png",
     "Attachments/Summer Exam 2021-1.png",
@@ -203,10 +260,6 @@
     "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
-    "Economics/Year 1/Hist1/FinalExam/HistorySummerExamFinal-3.png",
-    "Economics/Year 1/Hist1/FinalExam/HistorySummerExamFinal-1.png",
-    "Attachments/HistorySummerExamFinal-1.png",
     "Economics/Year 1/Hist1/British Decline in 19th Century.canvas",
     "Economics/Year 1/Macro1/Untitled.canvas",
     "Untitled 4.canvas",
