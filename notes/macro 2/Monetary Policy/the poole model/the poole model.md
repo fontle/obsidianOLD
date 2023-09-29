@@ -26,5 +26,6 @@ Since it required less information to chose interest rate setting many central b
 %% Begin Waypoint %%
 - [[interest rate targeting]]
 - [[money supply targeting]]
+- [[Poole Review Questions]]
 
 %% End Waypoint %%
