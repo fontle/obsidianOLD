@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/finance/Overview of Corporate Finance/Capital Structure.md",
+                "file": "notes/finance/finance.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/finance/Overview of Corporate Finance/Capital Structure.md",
+                "file": "notes/finance/finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/finance/Overview of Corporate Finance/Capital Structure.md",
+                "file": "notes/finance/finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,8 +160,16 @@
   },
   "active": "ee62bfc0de24e82e",
   "lastOpenFiles": [
-    "notes/finance/Overview of Corporate Finance/Capital Structure-1.pdf",
+    "poole-review-question2.pdf",
+    "Poole Review Questions.md",
+    "Clarification for review questions week 1.md",
+    "Untitled.md",
+    "notes/finance/finance.md",
+    "notes/macro 2/Monetary Policy/The Poole Model.md",
+    "notes/macro 2/Monetary Policy/Money Supply Targeting.md",
+    "notes/macro 2/Monetary Policy/Interest Rate Targeting.md",
     "notes/finance/Overview of Corporate Finance/Capital Structure.md",
+    "notes/finance/Overview of Corporate Finance/Capital Structure-1.pdf",
     "notes/finance/Overview of Corporate Finance/Untitled.canvas",
     "pdfs/finance-week1.pdf",
     "pdfs/finance-week1_",
@@ -170,15 +178,11 @@
     "notes/finance/Overview of Corporate Finance/Overview of Corporate Finance.md",
     "notes/finance/Overview of Corporate Finance/Untitled",
     "notes/finance/Overview of Corporate Finance/What is Corporate Finance.md",
-    "notes/finance/finance.md",
     "notes/finance/Overview of Corporate Finance",
     "notes/finance/Overview of Corporate Finance.md",
     "notes/notes.md",
     "notes/Untitled",
-    "notes/macro 2/Monetary Policy/The Poole Model.md",
     "notes/macro 2/Monetary Policy/Quantity Theory of Money.md",
-    "notes/macro 2/Monetary Policy/Money Supply Targeting.md",
-    "notes/macro 2/Monetary Policy/Interest Rate Targeting.md",
     "notes/macro 2/macro 2.md",
     "notes/macro 2/Monetary Policy/Monetary Policy.md",
     "notes/macro 2/Monetary Policy.md",
@@ -186,18 +190,14 @@
     "notes/alternative/alternative.md",
     "notes/alternative/Untitled.md",
     "notes/alternative",
-    "notes/industry",
     "Notes List.md",
     "templates/IS-LM template.md",
     "Home.md",
     "Notes/Summer Exam 2023-08-14 15.31.50.excalidraw.md",
     "Notes.md",
     "Notes/Macroeconomics Resit 1 - Spring Resit.md",
-    "Notes/Summer Exam 2021.md",
     "Attachments/Macroeconomics Resit 1 - Spring Resit-2.png",
-    "Attachments/Macroeconomics Resit 1 - Spring Resit 2023-08-15 11.28.35.excalidraw.md",
     "Attachments/Macroeconomics Resit 1 - Spring Resit-1.png",
-    "Attachments/Summer Exam 2021 2023-08-14 19.13.57.excalidraw.md",
     "Attachments/Summer Exam 2021-1.png",
     "Untitled.canvas",
     "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",

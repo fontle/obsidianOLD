@@ -1,0 +1,3 @@
+1. Money demand volatility refers to how responsive the demand for money is in response to a change in macro circumstance such as a change in interest rates or change in price levels, output etc. Its importance is clear to policymakers as an economy with less money demand volatility would require a lesser adjustment to the interest rate or money supply to achieve the desired output, compared to an economy with greater money demand volatility.  
+2. [[poole-review-question2.pdf]]
+3. 
