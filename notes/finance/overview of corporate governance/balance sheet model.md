@@ -1,4 +1,4 @@
-
+# Balance Sheet Model
 
 >[!Definition]
 >A firm's balance sheet is an overview of what a company owns and owes. It is used to assess the health and value of a company

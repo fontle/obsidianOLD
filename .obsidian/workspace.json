@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "02b018bf1654328a",
+        "id": "a1e2a4f6d44ad00e",
         "type": "tabs",
         "children": [
           {
-            "id": "4f465afc49e75cbb",
+            "id": "1aa1fb9298ec8b83",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/finance/overview of corporate governance/capital structure.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/finance/overview of corporate governance/capital structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/finance/overview of corporate governance/capital structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,23 +140,28 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4f465afc49e75cbb",
+  "active": "1aa1fb9298ec8b83",
   "lastOpenFiles": [
+    "notes/finance/overview of corporate governance/balance sheet model.md",
+    "notes/finance/overview of corporate governance/overview of corporate governance.md",
+    "notes/finance/capital structure policy/capital structure policy.md",
+    "notes/finance/finance.md",
+    "notes/econometrics/econometrics.md",
+    "notes/macro 2/macro 2.md",
+    "notes/micro 2/micro 2.md",
+    "notes/notes.md",
+    "notes/industry/industry.md",
+    "notes/finance/Overview of Corporate Finance/Overview of Corporate Finance.md",
+    "notes/macro 2/Monetary Policy/the poole model/poole review questions.md",
+    "notes/macro 2/Monetary Policy/the poole model/poole-review-question2.pdf",
+    "notes/macro 2/Monetary Policy/the poole model/money supply targeting.md",
+    "notes/finance/overview of corporate governance/finance-week1.pdf",
+    "notes/alternative/alternative.md",
     "notes/macro 2/Monetary Policy/Monetary Policy.md",
-    "notes/macro 2/Monetary Policy/the poole model/Poole Review Questions.md",
     "Clarification for review questions week 1.md",
     "Untitled.md",
     "Notes List.md",
-    "notes/macro 2/Monetary Policy/the poole model/poole-review-question2.pdf",
-    "notes/notes.md",
-    "notes/micro 2/micro 2.md",
-    "notes/macro 2/macro 2.md",
-    "notes/finance/finance.md",
-    "notes/industry/industry.md",
     "notes/finance/risk analysis/risk analysis.md",
-    "notes/finance/Overview of Corporate Finance/Overview of Corporate Finance.md",
-    "notes/finance/Overview of Corporate Finance/Capital Structure.md",
-    "notes/finance/Overview of Corporate Finance/Balance Sheet Model.md",
-    "notes/finance/overview of corporate governance/overview of corporate governance.md"
+    "notes/finance/overview of corporate governance/capital structure.md"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "cm6RenderAll": true,
   "renderImages": true,
-  "renderPDF": false,
+  "renderPDF": true,
   "renderIframe": false,
   "renderExcalidraw": true,
   "renderMsgFile": false,
