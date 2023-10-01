@@ -1,4 +1,3 @@
-
 # Monetary Policy
 
 > [!Definition]

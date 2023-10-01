@@ -11,12 +11,8 @@
             "id": "759f2d15fb9d5aa1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/macro 2/monetary policy/barrow gordon model/barrow gordon model.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -68,7 +64,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/macro 2/monetary policy/barrow gordon model/barrow gordon model.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -151,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/macro 2/monetary policy/barrow gordon model/barrow gordon model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +157,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/macro 2/monetary policy/barrow gordon model/barrow gordon model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,31 +191,33 @@
   },
   "active": "759f2d15fb9d5aa1",
   "lastOpenFiles": [
+    "notes/macro 2/macro 2.md",
+    "notes/macro 2/consumption and investment/consumption and investment.md",
+    "notes/econometrics/econometrics.md",
+    "notes/finance/finance.md",
+    "notes/finance/overview of corporate governance/overview of corporate governance.md",
+    "notes/finance/overview of corporate governance/capital structure.md",
+    "notes/macro 2/monetary policy/quantity theory of money.md",
+    "notes/macro 2/monetary policy/Monetary Policy.md",
+    "notes/finance/overview of corporate governance/balance sheet model.md",
+    "notes/finance/overview of corporate governance/Clarification for review questions week 1-1.pdf",
     "notes/macro 2/monetary policy/barrow gordon model/barrow gordon model.md",
     "notes/macro 2/monetary policy/poole model/poole seminar questions.md",
     "notes/macro 2/monetary policy/poole model/poole model.md",
     "notes/macro 2/monetary policy/poole model/poole review questions.md",
     "notes/macro 2/monetary policy/monetary policy.md",
     "notes/macro 2/monetary policy/barrow gordon model",
-    "notes/econometrics/econometrics.md",
-    "notes/macro 2/consumption and investment/consumption and investment.md",
     "notes/macro 2/monetary policy/poole model/money supply targeting.md",
     "notes/macro 2/monetary policy/poole model/interest rate targeting.md",
-    "notes/macro 2/macro 2.md",
     "notes/industry/industry.md",
     "notes/micro 2/micro 2.md",
-    "notes/finance/finance.md",
     "notes/alternative/alternative.md",
     "notes/notes.md",
     "notes/macro 2/monetary policy/poole model/poole-review-question2.pdf",
     "notes/macro 2/endogenous growth/endogenous growth.md",
-    "notes/finance/overview of corporate governance/overview of corporate governance.md",
     "notes/macro 2/exogenous growth/exogenous growth.md",
     "Clarification for review questions week 1.md",
     "notes/macro 2/monetary policy/poole model/Clarification for review questions week 1-1.pdf",
-    "notes/finance/overview of corporate governance/Clarification for review questions week 1-1.pdf",
-    "notes/finance/overview of corporate governance/capital structure.md",
-    "notes/finance/overview of corporate governance/balance sheet model.md",
     "Poole Review Questions.md",
     "Untitled.md",
     "notes/finance/m&a/m&a.md",
@@ -232,8 +227,6 @@
     "attachments/money supply targeting-1.png",
     "attachments",
     "notes/macro 2/monetary policy/poole model",
-    "notes/macro 2/monetary policy/quantity theory of money.md",
-    "notes/macro 2/monetary policy/money supply targeting.md",
     "notes/finance/m&a",
     "notes/finance/dividend policy",
     "notes/finance/risk analysis",
