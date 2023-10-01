@@ -15,5 +15,6 @@
   "showInlineTitle": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "livePreview": true
+  "livePreview": true,
+  "autoPairMarkdown": false
 }

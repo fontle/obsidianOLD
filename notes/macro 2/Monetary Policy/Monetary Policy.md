@@ -9,7 +9,12 @@ In the past, under classical economic doctrine, monetary policy was thought to b
 The monetary authority (usually the nation's central bank) can either chose to set the [[money supply targeting|money supply]] or the [[interest rate targeting|interest rate]] but not both at the same time as the quantity and price of money is constrained by money demand in the financial market. The Poole Model can be used to analyse which monetary instrument to use under specific conditions in a closed IS-LM model. 
 
 %% Begin Waypoint %%
+- **barrow gordon model**
+- **poole model**
+	- [[interest rate targeting]]
+	- [[money supply targeting]]
+	- [[poole review questions]]
+	- [[the poole model]]
 - [[quantity theory of money]]
-- **[[the poole model]]**
 
 %% End Waypoint %%

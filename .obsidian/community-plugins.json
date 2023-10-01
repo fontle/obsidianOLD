@@ -9,7 +9,6 @@
   "text-extractor",
   "templater-obsidian",
   "obsidian-contextual-typography",
-  "obsidian-hyphenation",
   "obsidian-paste-image-rename",
   "obsidian-pandoc",
   "wikilinks-to-mdlinks-obsidian",
@@ -28,5 +27,7 @@
   "waypoint",
   "folder-note-plugin",
   "obsidian-excalidraw-plugin",
-  "obsidian-enhancing-export"
+  "obsidian-enhancing-export",
+  "obsidian-hyphenation",
+  "obsidian-latex-suite"
 ]

@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "081c6d9f20fe193d",
+    "id": "7672864d5321eb2d",
     "type": "split",
     "children": [
       {
-        "id": "a1e2a4f6d44ad00e",
+        "id": "0475eb0f4c632563",
         "type": "tabs",
         "children": [
           {
-            "id": "1aa1fb9298ec8b83",
+            "id": "759f2d15fb9d5aa1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/finance/overview of corporate governance/capital structure.md",
+                "file": "notes/macro 2/monetary policy/barrow gordon model/barrow gordon model.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "01bafba060f287d9",
+    "id": "4eb7a72de9b9e23e",
     "type": "split",
     "children": [
       {
-        "id": "e4d416a9c7779b51",
+        "id": "b164bee5af4e2e7d",
         "type": "tabs",
         "children": [
           {
-            "id": "2435c03decdcfe4c",
+            "id": "974f7ef3dc1fa2c4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,95 @@
             }
           },
           {
-            "id": "5dd75274fb738ac6",
+            "id": "c96dcdd01081d4f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "2c5c86fb16d6ed94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/macro 2/macro 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab810d062ded4432",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "notes/macro 2/monetary policy/barrow gordon model/barrow gordon model.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224422,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5
+  },
+  "right": {
+    "id": "ca74095a8d46f702",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f8f3fa0057a4e9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f3d0c70e78a7c18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "90102d655b3db595",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "64fa6348253f87da",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,34 +146,24 @@
             }
           },
           {
-            "id": "84bb33fa12dad51c",
+            "id": "3ba89c91544ab77a",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/macro 2/monetary policy/barrow gordon model/barrow gordon model.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "34bb0d0bb2d09095",
-    "type": "split",
-    "children": [
-      {
-        "id": "51911ef3bdbb0e02",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "8f4592c098dee9e0",
+            "id": "9181412acabbf038",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/finance/overview of corporate governance/capital structure.md",
+                "file": "notes/macro 2/monetary policy/barrow gordon model/barrow gordon model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,31 +173,9 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "16871fe87f064206",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "notes/finance/overview of corporate governance/capital structure.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "baa54389aa0986b8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,40 +184,74 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "command-palette:Open command palette": true,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1aa1fb9298ec8b83",
+  "active": "759f2d15fb9d5aa1",
   "lastOpenFiles": [
-    "notes/finance/overview of corporate governance/balance sheet model.md",
-    "notes/finance/overview of corporate governance/overview of corporate governance.md",
-    "notes/finance/capital structure policy/capital structure policy.md",
-    "notes/finance/finance.md",
+    "notes/macro 2/monetary policy/barrow gordon model/barrow gordon model.md",
+    "notes/macro 2/monetary policy/poole model/poole seminar questions.md",
+    "notes/macro 2/monetary policy/poole model/poole model.md",
+    "notes/macro 2/monetary policy/poole model/poole review questions.md",
+    "notes/macro 2/monetary policy/monetary policy.md",
+    "notes/macro 2/monetary policy/barrow gordon model",
     "notes/econometrics/econometrics.md",
+    "notes/macro 2/consumption and investment/consumption and investment.md",
+    "notes/macro 2/monetary policy/poole model/money supply targeting.md",
+    "notes/macro 2/monetary policy/poole model/interest rate targeting.md",
     "notes/macro 2/macro 2.md",
-    "notes/micro 2/micro 2.md",
-    "notes/notes.md",
     "notes/industry/industry.md",
-    "notes/finance/Overview of Corporate Finance/Overview of Corporate Finance.md",
-    "notes/macro 2/Monetary Policy/the poole model/poole review questions.md",
-    "notes/macro 2/Monetary Policy/the poole model/poole-review-question2.pdf",
-    "notes/macro 2/Monetary Policy/the poole model/money supply targeting.md",
-    "notes/finance/overview of corporate governance/finance-week1.pdf",
+    "notes/micro 2/micro 2.md",
+    "notes/finance/finance.md",
     "notes/alternative/alternative.md",
-    "notes/macro 2/Monetary Policy/Monetary Policy.md",
+    "notes/notes.md",
+    "notes/macro 2/monetary policy/poole model/poole-review-question2.pdf",
+    "notes/macro 2/endogenous growth/endogenous growth.md",
+    "notes/finance/overview of corporate governance/overview of corporate governance.md",
+    "notes/macro 2/exogenous growth/exogenous growth.md",
     "Clarification for review questions week 1.md",
+    "notes/macro 2/monetary policy/poole model/Clarification for review questions week 1-1.pdf",
+    "notes/finance/overview of corporate governance/Clarification for review questions week 1-1.pdf",
+    "notes/finance/overview of corporate governance/capital structure.md",
+    "notes/finance/overview of corporate governance/balance sheet model.md",
+    "Poole Review Questions.md",
     "Untitled.md",
-    "Notes List.md",
-    "notes/finance/risk analysis/risk analysis.md",
-    "notes/finance/overview of corporate governance/capital structure.md"
+    "notes/finance/m&a/m&a.md",
+    "attachments/interest rate targeting-2.png",
+    "attachments/interest rate targeting-1.png",
+    "attachments/money supply targeting-2.png",
+    "attachments/money supply targeting-1.png",
+    "attachments",
+    "notes/macro 2/monetary policy/poole model",
+    "notes/macro 2/monetary policy/quantity theory of money.md",
+    "notes/macro 2/monetary policy/money supply targeting.md",
+    "notes/finance/m&a",
+    "notes/finance/dividend policy",
+    "notes/finance/risk analysis",
+    "notes/finance/capital structure policy",
+    "notes/finance/Overview of Corporate Finance/Untitled.canvas",
+    "Attachments/Macroeconomics Resit 1 - Spring Resit-2.png",
+    "Attachments/Macroeconomics Resit 1 - Spring Resit-1.png",
+    "Attachments/Summer Exam 2021-1.png",
+    "Untitled.canvas",
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
+    "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Economics/Year 1/Hist1/British Decline in 19th Century.canvas",
+    "Economics/Year 1/Macro1/Untitled.canvas",
+    "Untitled 4.canvas",
+    "Untitled 1.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled.canvas"
   ]
 }
