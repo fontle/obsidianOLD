@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0475eb0f4c632563",
+        "id": "7711cbe8bfb00cce",
         "type": "tabs",
         "children": [
           {
-            "id": "759f2d15fb9d5aa1",
+            "id": "1283ca38fd8cbe57",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/micro 2/problem sets/problem set 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -64,6 +68,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "notes/micro 2/problem sets/problem set 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -96,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ca74095a8d46f702",
@@ -146,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/micro 2/problem sets/problem set 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,6 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/micro 2/problem sets/problem set 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,51 +194,51 @@
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "759f2d15fb9d5aa1",
+  "active": "1283ca38fd8cbe57",
   "lastOpenFiles": [
+    "notes/micro 2/micro 2.md",
+    "notes/micro 2/consumer theory/consumer theory.md",
+    "notes/notes.md",
+    "notes/micro 2/problem sets/problem set 1.md",
+    "templates/Untitled",
+    "templates",
     "notes/macro 2/macro 2.md",
+    "notes/micro 2/problem sets",
+    "notes/micro 2/textbook.pdf.pdf",
+    "notes/micro 2/lecture-notes.pdf.pdf",
+    "notes/micro 2/consumer theory/constrained consumer choice.md",
+    "notes/micro 2/consumer theory/demand.md",
+    "notes/micro 2/consumer theory/policy analysis.md",
+    "notes/macro 2/monetary policy/barrow gordon model/barrow gordon model.md",
+    "notes/macro 2/monetary policy/monetary policy.md",
+    "notes/macro 2/monetary policy/barrow gordon model/mathematics of barrow-gordon.md",
+    "notes/macro 2/monetary policy/Monetary Policy.md",
+    "notes/macro 2/monetary policy/barrow gordon model/Untitled.md",
+    "notes/macro 2/monetary policy/poole model/poole model.md",
+    "notes/macro 2/monetary policy/poole model/poole review questions.md",
+    "notes/macro 2/monetary policy/poole model/poole seminar questions.md",
+    "notes/macro 2/monetary policy/poole model/poole-review-question2.pdf",
+    "notes/macro 2/monetary policy/poole model/Clarification for review questions week 1-1.pdf",
     "notes/macro 2/consumption and investment/consumption and investment.md",
     "notes/econometrics/econometrics.md",
     "notes/finance/finance.md",
     "notes/finance/overview of corporate governance/overview of corporate governance.md",
     "notes/finance/overview of corporate governance/capital structure.md",
     "notes/macro 2/monetary policy/quantity theory of money.md",
-    "notes/macro 2/monetary policy/Monetary Policy.md",
     "notes/finance/overview of corporate governance/balance sheet model.md",
     "notes/finance/overview of corporate governance/Clarification for review questions week 1-1.pdf",
-    "notes/macro 2/monetary policy/barrow gordon model/barrow gordon model.md",
-    "notes/macro 2/monetary policy/poole model/poole seminar questions.md",
-    "notes/macro 2/monetary policy/poole model/poole model.md",
-    "notes/macro 2/monetary policy/poole model/poole review questions.md",
-    "notes/macro 2/monetary policy/monetary policy.md",
     "notes/macro 2/monetary policy/barrow gordon model",
     "notes/macro 2/monetary policy/poole model/money supply targeting.md",
     "notes/macro 2/monetary policy/poole model/interest rate targeting.md",
-    "notes/industry/industry.md",
-    "notes/micro 2/micro 2.md",
-    "notes/alternative/alternative.md",
-    "notes/notes.md",
-    "notes/macro 2/monetary policy/poole model/poole-review-question2.pdf",
-    "notes/macro 2/endogenous growth/endogenous growth.md",
-    "notes/macro 2/exogenous growth/exogenous growth.md",
-    "Clarification for review questions week 1.md",
-    "notes/macro 2/monetary policy/poole model/Clarification for review questions week 1-1.pdf",
-    "Poole Review Questions.md",
-    "Untitled.md",
-    "notes/finance/m&a/m&a.md",
     "attachments/interest rate targeting-2.png",
     "attachments/interest rate targeting-1.png",
     "attachments/money supply targeting-2.png",
     "attachments/money supply targeting-1.png",
     "attachments",
-    "notes/macro 2/monetary policy/poole model",
-    "notes/finance/m&a",
-    "notes/finance/dividend policy",
-    "notes/finance/risk analysis",
-    "notes/finance/capital structure policy",
     "notes/finance/Overview of Corporate Finance/Untitled.canvas",
     "Attachments/Macroeconomics Resit 1 - Spring Resit-2.png",
     "Attachments/Macroeconomics Resit 1 - Spring Resit-1.png",
