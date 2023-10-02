@@ -18,6 +18,6 @@ $$
 To obtain optimal quantities we can substitute into the budget constraint: 
 $$2\left[\frac{x_{2}}{4}\right]+x_{2}=12 \to x_{2}=6 \qquad  2x_{1}+6=12 \to x_{1}=2$$
 - - -
-Ceteris paribus, a change in the price of good 1 to half of its original price would double the optimal quantity: 
+Ceteris paribus, a change in the price of good 1 to half of its original price would double the optimal quantityz: 
 $$x_{1}= \frac{1}{2}\times \frac{ap_{2}x_{2}}{b} \to 2x_{1}= \frac{ap_{2}x_{2}}{b}$$
 Sub
