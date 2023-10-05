@@ -20,9 +20,9 @@
   "previewMatchObsidianTheme": true,
   "width": "400",
   "dynamicStyling": "colorful",
-  "isLeftHanded": false,
+  "isLeftHanded": true,
   "iframeMatchExcalidrawTheme": true,
-  "matchTheme": false,
+  "matchTheme": true,
   "matchThemeAlways": true,
   "matchThemeTrigger": true,
   "defaultMode": "view-mobile",
@@ -72,7 +72,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.12",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.20",
     "libraryItems": [
       {
         "status": "unpublished",
@@ -1732,7 +1732,7 @@
     }
   },
   "defaultTrayMode": true,
-  "previousRelease": "1.9.19",
+  "previousRelease": "1.9.20",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js",
@@ -2058,5 +2058,5 @@
   "pdfGapSize": 10,
   "pdfLockAfterImport": true,
   "pdfNumColumns": 1,
-  "pdfImportScale": 0.7
+  "pdfImportScale": 0.4
 }

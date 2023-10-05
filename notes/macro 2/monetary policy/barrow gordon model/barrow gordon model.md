@@ -7,6 +7,6 @@
 
 
 %% Begin Waypoint %%
-- [[mathematics of barrow-gordon]]
+- [[barro-gordon.excalidraw]]
 
 %% End Waypoint %%

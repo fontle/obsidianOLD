@@ -16,7 +16,6 @@
   "obsidian-checklist-plugin",
   "numerals",
   "quick-latex",
-  "obsidian-hide-sidebars-when-narrow",
   "tag-wrangler",
   "obsidian-zotero-desktop-connector",
   "obsidian-hider",
@@ -28,6 +27,7 @@
   "folder-note-plugin",
   "obsidian-excalidraw-plugin",
   "obsidian-enhancing-export",
-  "obsidian-latex-suite",
-  "text-snippets-obsidian"
+  "text-snippets-obsidian",
+  "mermaid-tools",
+  "obsidian-extract-pdf-highlights"
 ]
