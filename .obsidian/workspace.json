@@ -6,7 +6,6 @@
       {
         "id": "077cb55a8ff78e3e",
         "type": "tabs",
-        "dimension": 74.47368421052632,
         "children": [
           {
             "id": "97d15d0bca07fddc",
@@ -19,35 +18,17 @@
             }
           },
           {
-            "id": "0f19a1a8c0b961c9",
+            "id": "2ff745da9e3ef164",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "notes/micro 2/textbook.pdf"
+                "file": "notes/macro 2/monetary policy/barrow gordon model/barro-gordon.excalidraw.md"
               }
             }
           }
-        ]
-      },
-      {
-        "id": "fa5d8193116f01fb",
-        "type": "tabs",
-        "dimension": 25.526315789473685,
-        "children": [
-          {
-            "id": "3b3fe065c2433997",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/micro 2/consumer-theory.excalidraw.md",
+                "file": "notes/macro 2/monetary policy/barrow gordon model/barro-gordon.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/micro 2/consumer-theory.excalidraw.md",
+                "file": "notes/macro 2/monetary policy/barrow gordon model/barro-gordon.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/micro 2/consumer-theory.excalidraw.md",
+                "file": "notes/macro 2/monetary policy/barrow gordon model/barro-gordon.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,11 +217,24 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "97d15d0bca07fddc",
+  "active": "2ff745da9e3ef164",
   "lastOpenFiles": [
+    "notes/macro 2/monetary policy/poole model/poole model.md",
+    "notes/macro 2/monetary policy/monetary policy.md",
+    "notes/macro 2/pdfs",
+    "notes/macro 2/monetary policy/poole model/money supply targeting.md",
+    "notes/macro 2/monetary policy/poole model/interest rate targeting.md",
+    "notes/macro 2/monetary policy/quantity theory of money.md",
+    "notes/macro 2/pdfs/poole-review-question2.pdf",
+    "notes/macro 2/pdfs/pbcs-cbi-slides.pdf",
+    "notes/macro 2/monetary policy/poole model/poole review questions.md",
+    "notes/macro 2/pdfs/central-bank-independence.pdf",
+    "notes/macro 2/pdfs/barro-gordon-extension-slides.pdf",
+    "notes/macro 2/pdfs/barro-gordon-slides.pdf",
     "Untitled.md",
     "notes/micro 2/consumer-theory.excalidraw.md",
     "notes/micro 2/textbook.pdf",
+    "Excalidraw/Drawing 2023-10-05 13.09.43.excalidraw.md",
     "notes/macro 2/monetary policy/barrow gordon model/barrow gordon model.md",
     "notes/micro 2/micro 2.md",
     "notes/macro 2/monetary policy/barrow gordon model/barro-gordon.excalidraw.md",
@@ -248,17 +242,10 @@
     "Excalidraw/Scripts/Downloaded/Connect elements.md",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
-    "notes/macro 2/monetary policy/barrow gordon model/barro-gordon-slides.pdf",
-    "notes/macro 2/monetary policy/barrow gordon model/central-bank-independence.pdf",
-    "notes/macro 2/monetary policy/barrow gordon model/barro-gordon-extension-slides.pdf",
-    "notes/macro 2/monetary policy/barrow gordon model/pbcs-cbi-slides.pdf",
     "notes/macro 2/exogenous growth/solow-swan-evidence.pdf",
     "notes/macro 2/exogenous growth/solow-swan-maths.pdf",
     "notes/macro 2/exogenous growth/solow-swan-intro.pdf",
-    "notes/macro 2/exogenous growth/romer-weil-1992.pdf",
-    "notes/macro 2/central-bank-independence.pdf",
     "notes/macro 2/monetary policy/barrow gordon model/mathematics of barrow-gordon.md",
-    "notes/macro 2/monetary policy/monetary policy.md",
     "notes/micro 2/producer-theory.excalidraw.md",
     "notes/micro 2/problem sets/problem set 1.md",
     "notes/finance/corporate-governance.md",
@@ -267,14 +254,8 @@
     "notes/finance/financial analysis/financial analysis.md",
     "notes/finance/overview of corporate governance/overview of corporate governance.md",
     "notes/macro 2/exogenous growth/exogenous growth.md",
-    "notes/macro 2/monetary policy/poole model/poole model.md",
     "notes/macro 2/macro 2.md",
     "notes/micro 2/producer theory/producer theory.md",
-    "notes/micro 2/asymmetric information/asymmetric information.md",
-    "notes/micro 2/perfect competition/perfect competition.md",
-    "notes/micro 2/consumer theory/constrained consumer choice.md",
-    "notes/micro 2/consumer theory/consumer theory.md",
-    "notes/micro 2/other topics/other topics.md",
     "Excalidraw/Scripts/Downloaded/Set Grid.svg",
     "attachments/interest rate targeting-2.png",
     "attachments/interest rate targeting-1.png",

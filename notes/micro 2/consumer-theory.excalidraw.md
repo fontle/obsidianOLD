@@ -111,8 +111,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 173777640,
+			"version": 32,
+			"versionNonce": 70476865,
 			"isDeleted": false,
 			"id": "LYUGKmBq",
 			"fillStyle": "hachure",
@@ -134,14 +134,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262382,
+			"updated": 1696845999157,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 349331352,
+			"version": 32,
+			"versionNonce": 374651983,
 			"isDeleted": false,
 			"id": "w6xC4Dto",
 			"fillStyle": "hachure",
@@ -163,7 +163,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262382,
+			"updated": 1696845999157,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -178,8 +178,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 532088296,
+			"version": 32,
+			"versionNonce": 866071585,
 			"isDeleted": false,
 			"id": "eO91HzEO",
 			"fillStyle": "hachure",
@@ -201,14 +201,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262382,
+			"updated": 1696845999157,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 529706136,
+			"version": 32,
+			"versionNonce": 1077303919,
 			"isDeleted": false,
 			"id": "oQns2zvX",
 			"fillStyle": "hachure",
@@ -230,7 +230,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262382,
+			"updated": 1696845999157,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -245,8 +245,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 1504577768,
+			"version": 32,
+			"versionNonce": 1220937729,
 			"isDeleted": false,
 			"id": "KgVuVRzq",
 			"fillStyle": "hachure",
@@ -268,14 +268,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262382,
+			"updated": 1696845999157,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 1723947416,
+			"version": 32,
+			"versionNonce": 343880847,
 			"isDeleted": false,
 			"id": "vY8UquP9",
 			"fillStyle": "hachure",
@@ -297,7 +297,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262382,
+			"updated": 1696845999157,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -312,8 +312,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 1674357736,
+			"version": 32,
+			"versionNonce": 1571250145,
 			"isDeleted": false,
 			"id": "YrW7pZMn",
 			"fillStyle": "hachure",
@@ -335,14 +335,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262382,
+			"updated": 1696845999157,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 227698328,
+			"version": 32,
+			"versionNonce": 988269231,
 			"isDeleted": false,
 			"id": "JZagKNKr",
 			"fillStyle": "hachure",
@@ -364,7 +364,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262382,
+			"updated": 1696845999157,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -379,8 +379,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 404680424,
+			"version": 32,
+			"versionNonce": 542292929,
 			"isDeleted": false,
 			"id": "bUNnTZZy",
 			"fillStyle": "hachure",
@@ -402,14 +402,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262382,
+			"updated": 1696845999157,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 817484696,
+			"version": 32,
+			"versionNonce": 1343790287,
 			"isDeleted": false,
 			"id": "KPOJRr2y",
 			"fillStyle": "hachure",
@@ -431,7 +431,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262382,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -446,8 +446,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 791728616,
+			"version": 32,
+			"versionNonce": 1357355937,
 			"isDeleted": false,
 			"id": "LHX9lZKp",
 			"fillStyle": "hachure",
@@ -469,14 +469,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262382,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 913023128,
+			"version": 32,
+			"versionNonce": 1202334447,
 			"isDeleted": false,
 			"id": "GVu1jeBk",
 			"fillStyle": "hachure",
@@ -498,7 +498,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262382,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -513,8 +513,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 1879987432,
+			"version": 32,
+			"versionNonce": 2140503937,
 			"isDeleted": false,
 			"id": "mb46Kg0i",
 			"fillStyle": "hachure",
@@ -536,14 +536,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262382,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 509332888,
+			"version": 32,
+			"versionNonce": 237303055,
 			"isDeleted": false,
 			"id": "GmwQqAhA",
 			"fillStyle": "hachure",
@@ -565,7 +565,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262382,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -580,8 +580,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 1615034344,
+			"version": 32,
+			"versionNonce": 177989473,
 			"isDeleted": false,
 			"id": "zYI2SXJy",
 			"fillStyle": "hachure",
@@ -603,14 +603,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262382,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 1371429528,
+			"version": 32,
+			"versionNonce": 1795259183,
 			"isDeleted": false,
 			"id": "eA4pRjmT",
 			"fillStyle": "hachure",
@@ -632,7 +632,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -647,8 +647,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 1943812840,
+			"version": 32,
+			"versionNonce": 1548374849,
 			"isDeleted": false,
 			"id": "HxbS6jyE",
 			"fillStyle": "hachure",
@@ -670,14 +670,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 1934051224,
+			"version": 32,
+			"versionNonce": 581451087,
 			"isDeleted": false,
 			"id": "KDM3wZ1u",
 			"fillStyle": "hachure",
@@ -699,7 +699,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -714,8 +714,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 1030004200,
+			"version": 32,
+			"versionNonce": 1761624865,
 			"isDeleted": false,
 			"id": "3bXrFbcT",
 			"fillStyle": "hachure",
@@ -737,14 +737,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 791319704,
+			"version": 32,
+			"versionNonce": 1483848559,
 			"isDeleted": false,
 			"id": "B6hzYady",
 			"fillStyle": "hachure",
@@ -766,7 +766,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -781,8 +781,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 501784808,
+			"version": 32,
+			"versionNonce": 1831679745,
 			"isDeleted": false,
 			"id": "bAVTTO0b",
 			"fillStyle": "hachure",
@@ -804,14 +804,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 186401176,
+			"version": 32,
+			"versionNonce": 816215439,
 			"isDeleted": false,
 			"id": "93KDMs4p",
 			"fillStyle": "hachure",
@@ -833,7 +833,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -848,8 +848,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 1962165224,
+			"version": 32,
+			"versionNonce": 1800449761,
 			"isDeleted": false,
 			"id": "1ZIXhUZH",
 			"fillStyle": "hachure",
@@ -871,14 +871,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 911232664,
+			"version": 32,
+			"versionNonce": 847178671,
 			"isDeleted": false,
 			"id": "dEqWx8LW",
 			"fillStyle": "hachure",
@@ -900,7 +900,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -915,8 +915,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 1351845608,
+			"version": 32,
+			"versionNonce": 1778002625,
 			"isDeleted": false,
 			"id": "MfKzd1g5",
 			"fillStyle": "hachure",
@@ -938,14 +938,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 1501215640,
+			"version": 32,
+			"versionNonce": 1780719055,
 			"isDeleted": false,
 			"id": "6kw5vKKs",
 			"fillStyle": "hachure",
@@ -967,7 +967,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -982,8 +982,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 491940328,
+			"version": 32,
+			"versionNonce": 1909009057,
 			"isDeleted": false,
 			"id": "lNcqtF0O",
 			"fillStyle": "hachure",
@@ -1005,14 +1005,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 1724876952,
+			"version": 32,
+			"versionNonce": 1252854767,
 			"isDeleted": false,
 			"id": "EojQLBhu",
 			"fillStyle": "hachure",
@@ -1034,7 +1034,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -1049,8 +1049,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 1446833384,
+			"version": 32,
+			"versionNonce": 1265446529,
 			"isDeleted": false,
 			"id": "O0MKp4e2",
 			"fillStyle": "hachure",
@@ -1072,14 +1072,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 1778562456,
+			"version": 32,
+			"versionNonce": 1344517647,
 			"isDeleted": false,
 			"id": "tKN9bnA5",
 			"fillStyle": "hachure",
@@ -1101,7 +1101,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -1116,8 +1116,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 887033832,
+			"version": 32,
+			"versionNonce": 2108012129,
 			"isDeleted": false,
 			"id": "racgj1HU",
 			"fillStyle": "hachure",
@@ -1139,14 +1139,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 1481130648,
+			"version": 32,
+			"versionNonce": 1635785775,
 			"isDeleted": false,
 			"id": "GYmnjfm6",
 			"fillStyle": "hachure",
@@ -1168,7 +1168,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -1183,8 +1183,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 1631900392,
+			"version": 32,
+			"versionNonce": 188891713,
 			"isDeleted": false,
 			"id": "7fxa5KBq",
 			"fillStyle": "hachure",
@@ -1206,14 +1206,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 1616129944,
+			"version": 32,
+			"versionNonce": 1923792463,
 			"isDeleted": false,
 			"id": "S77oXuG5",
 			"fillStyle": "hachure",
@@ -1235,7 +1235,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -1250,8 +1250,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 570045928,
+			"version": 32,
+			"versionNonce": 1898074657,
 			"isDeleted": false,
 			"id": "GNO65cC6",
 			"fillStyle": "hachure",
@@ -1273,14 +1273,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 979008664,
+			"version": 32,
+			"versionNonce": 1719409775,
 			"isDeleted": false,
 			"id": "zuNiKb2Y",
 			"fillStyle": "hachure",
@@ -1302,7 +1302,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -1317,8 +1317,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 202062056,
+			"version": 32,
+			"versionNonce": 1681221121,
 			"isDeleted": false,
 			"id": "noWzruIn",
 			"fillStyle": "hachure",
@@ -1340,14 +1340,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 2014259608,
+			"version": 32,
+			"versionNonce": 817673871,
 			"isDeleted": false,
 			"id": "sghYvKu0",
 			"fillStyle": "hachure",
@@ -1369,7 +1369,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -1384,8 +1384,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 855890920,
+			"version": 32,
+			"versionNonce": 1333460449,
 			"isDeleted": false,
 			"id": "dwyJTDJ4",
 			"fillStyle": "hachure",
@@ -1407,14 +1407,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 1420179096,
+			"version": 32,
+			"versionNonce": 941952175,
 			"isDeleted": false,
 			"id": "z2XkDkCJ",
 			"fillStyle": "hachure",
@@ -1436,7 +1436,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -1451,8 +1451,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 1492131560,
+			"version": 32,
+			"versionNonce": 302160321,
 			"isDeleted": false,
 			"id": "1R8ImZju",
 			"fillStyle": "hachure",
@@ -1474,14 +1474,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 80978840,
+			"version": 32,
+			"versionNonce": 2019401423,
 			"isDeleted": false,
 			"id": "Psl0hYU7",
 			"fillStyle": "hachure",
@@ -1503,7 +1503,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -1518,8 +1518,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 509346280,
+			"version": 32,
+			"versionNonce": 2095823265,
 			"isDeleted": false,
 			"id": "fL3cM2DX",
 			"fillStyle": "hachure",
@@ -1541,14 +1541,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 113995928,
+			"version": 32,
+			"versionNonce": 1677651183,
 			"isDeleted": false,
 			"id": "kVcKhzmz",
 			"fillStyle": "hachure",
@@ -1570,7 +1570,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262383,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -1585,8 +1585,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 844334312,
+			"version": 32,
+			"versionNonce": 291888513,
 			"isDeleted": false,
 			"id": "usHcO99n",
 			"fillStyle": "hachure",
@@ -1608,14 +1608,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 1916902808,
+			"version": 32,
+			"versionNonce": 110196495,
 			"isDeleted": false,
 			"id": "MLU9iOPq",
 			"fillStyle": "hachure",
@@ -1637,7 +1637,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -1652,8 +1652,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 40019944,
+			"version": 32,
+			"versionNonce": 2125497697,
 			"isDeleted": false,
 			"id": "tZB0Ke5R",
 			"fillStyle": "hachure",
@@ -1675,14 +1675,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 1214917272,
+			"version": 32,
+			"versionNonce": 1720565039,
 			"isDeleted": false,
 			"id": "9tC1bsA7",
 			"fillStyle": "hachure",
@@ -1704,7 +1704,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -1719,8 +1719,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 1788177128,
+			"version": 32,
+			"versionNonce": 1612394817,
 			"isDeleted": false,
 			"id": "85ctWnad",
 			"fillStyle": "hachure",
@@ -1742,14 +1742,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 1140397976,
+			"version": 32,
+			"versionNonce": 660356943,
 			"isDeleted": false,
 			"id": "poS3KZOP",
 			"fillStyle": "hachure",
@@ -1771,7 +1771,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -1786,8 +1786,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 1702350312,
+			"version": 32,
+			"versionNonce": 990208289,
 			"isDeleted": false,
 			"id": "BVApeq9f",
 			"fillStyle": "hachure",
@@ -1809,14 +1809,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 690119832,
+			"version": 32,
+			"versionNonce": 1800764783,
 			"isDeleted": false,
 			"id": "ClxIoX1H",
 			"fillStyle": "hachure",
@@ -1838,7 +1838,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -1853,8 +1853,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 1008062696,
+			"version": 32,
+			"versionNonce": 1021220097,
 			"isDeleted": false,
 			"id": "DzdvCSp4",
 			"fillStyle": "hachure",
@@ -1876,14 +1876,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999158,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 362418584,
+			"version": 32,
+			"versionNonce": 1975646095,
 			"isDeleted": false,
 			"id": "NJ3yySgR",
 			"fillStyle": "hachure",
@@ -1905,7 +1905,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -1920,8 +1920,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 905671656,
+			"version": 32,
+			"versionNonce": 958811361,
 			"isDeleted": false,
 			"id": "4eQ68zyK",
 			"fillStyle": "hachure",
@@ -1943,14 +1943,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 1351884440,
+			"version": 32,
+			"versionNonce": 215625135,
 			"isDeleted": false,
 			"id": "mLLuOxdU",
 			"fillStyle": "hachure",
@@ -1972,7 +1972,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -1987,8 +1987,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 1228191464,
+			"version": 32,
+			"versionNonce": 1735133377,
 			"isDeleted": false,
 			"id": "MLKz9E3y",
 			"fillStyle": "hachure",
@@ -2010,14 +2010,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 449088408,
+			"version": 32,
+			"versionNonce": 466001871,
 			"isDeleted": false,
 			"id": "4LSMqbtv",
 			"fillStyle": "hachure",
@@ -2039,7 +2039,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -2054,8 +2054,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 1246599656,
+			"version": 32,
+			"versionNonce": 1632585889,
 			"isDeleted": false,
 			"id": "XK5TtOF1",
 			"fillStyle": "hachure",
@@ -2077,14 +2077,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 2120177816,
+			"version": 32,
+			"versionNonce": 346017263,
 			"isDeleted": false,
 			"id": "DASszAsm",
 			"fillStyle": "hachure",
@@ -2106,7 +2106,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -2121,8 +2121,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 475143400,
+			"version": 32,
+			"versionNonce": 1618971777,
 			"isDeleted": false,
 			"id": "GOmtTniC",
 			"fillStyle": "hachure",
@@ -2144,14 +2144,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 521700760,
+			"version": 32,
+			"versionNonce": 309213199,
 			"isDeleted": false,
 			"id": "iFpOjjg7",
 			"fillStyle": "hachure",
@@ -2173,7 +2173,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -2188,8 +2188,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 1624129512,
+			"version": 32,
+			"versionNonce": 1018975329,
 			"isDeleted": false,
 			"id": "P2u63KUI",
 			"fillStyle": "hachure",
@@ -2211,14 +2211,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 170136216,
+			"version": 32,
+			"versionNonce": 992632367,
 			"isDeleted": false,
 			"id": "jocgvoNf",
 			"fillStyle": "hachure",
@@ -2240,7 +2240,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -2255,8 +2255,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 667812584,
+			"version": 32,
+			"versionNonce": 701833281,
 			"isDeleted": false,
 			"id": "ERvrS0pA",
 			"fillStyle": "hachure",
@@ -2278,14 +2278,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 104202136,
+			"version": 32,
+			"versionNonce": 1639759951,
 			"isDeleted": false,
 			"id": "AHhCJosc",
 			"fillStyle": "hachure",
@@ -2307,7 +2307,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -2322,8 +2322,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 534603240,
+			"version": 32,
+			"versionNonce": 900296737,
 			"isDeleted": false,
 			"id": "7QRbfhbg",
 			"fillStyle": "hachure",
@@ -2345,14 +2345,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 1669483672,
+			"version": 32,
+			"versionNonce": 1744690799,
 			"isDeleted": false,
 			"id": "4VdpfhYE",
 			"fillStyle": "hachure",
@@ -2374,7 +2374,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -2389,8 +2389,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 1174956264,
+			"version": 32,
+			"versionNonce": 103334913,
 			"isDeleted": false,
 			"id": "3ZEdRFBa",
 			"fillStyle": "hachure",
@@ -2412,14 +2412,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 1270675864,
+			"version": 32,
+			"versionNonce": 1622554767,
 			"isDeleted": false,
 			"id": "GvSyWXax",
 			"fillStyle": "hachure",
@@ -2441,7 +2441,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -2456,8 +2456,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 366676968,
+			"version": 32,
+			"versionNonce": 1465031649,
 			"isDeleted": false,
 			"id": "IiiqPwWb",
 			"fillStyle": "hachure",
@@ -2479,14 +2479,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 303695512,
+			"version": 32,
+			"versionNonce": 1906200239,
 			"isDeleted": false,
 			"id": "nNwK5tWA",
 			"fillStyle": "hachure",
@@ -2508,7 +2508,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -2523,8 +2523,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 962678504,
+			"version": 32,
+			"versionNonce": 959870913,
 			"isDeleted": false,
 			"id": "cLITP90B",
 			"fillStyle": "hachure",
@@ -2546,14 +2546,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 55407512,
+			"version": 32,
+			"versionNonce": 1969135823,
 			"isDeleted": false,
 			"id": "52YUyowD",
 			"fillStyle": "hachure",
@@ -2575,7 +2575,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262384,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -2590,8 +2590,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 958869992,
+			"version": 32,
+			"versionNonce": 234084257,
 			"isDeleted": false,
 			"id": "laRnOILc",
 			"fillStyle": "hachure",
@@ -2613,14 +2613,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262385,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 898318488,
+			"version": 32,
+			"versionNonce": 1569697519,
 			"isDeleted": false,
 			"id": "BuueGzis",
 			"fillStyle": "hachure",
@@ -2642,7 +2642,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262385,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -2657,8 +2657,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 741913832,
+			"version": 32,
+			"versionNonce": 1203387265,
 			"isDeleted": false,
 			"id": "71HXeO1S",
 			"fillStyle": "hachure",
@@ -2680,14 +2680,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262385,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 1485270424,
+			"version": 32,
+			"versionNonce": 1421474063,
 			"isDeleted": false,
 			"id": "4ImyMr4l",
 			"fillStyle": "hachure",
@@ -2709,7 +2709,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262385,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -2724,8 +2724,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 4,
-			"versionNonce": 1747048424,
+			"version": 32,
+			"versionNonce": 1724457825,
 			"isDeleted": false,
 			"id": "pMAWUKU5",
 			"fillStyle": "hachure",
@@ -2747,14 +2747,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262385,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 91617944,
+			"version": 32,
+			"versionNonce": 542506799,
 			"isDeleted": false,
 			"id": "6IhFFIbq",
 			"fillStyle": "hachure",
@@ -2776,7 +2776,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262385,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": true,
 			"customData": {
@@ -2791,8 +2791,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "text",
-			"version": 45,
-			"versionNonce": 820943592,
+			"version": 73,
+			"versionNonce": 930090817,
 			"isDeleted": false,
 			"id": "nDpBDmq7",
 			"fillStyle": "hachure",
@@ -2805,7 +2805,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"y": -7253.839862453304,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 181.95980834960938,
+			"width": 181.9598388671875,
 			"height": 25,
 			"seed": 1437562856,
 			"groupIds": [],
@@ -2817,7 +2817,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1696495262385,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2833,8 +2833,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "text",
-			"version": 46,
-			"versionNonce": 252372888,
+			"version": 74,
+			"versionNonce": 1120682319,
 			"isDeleted": false,
 			"id": "rNll5KhT",
 			"fillStyle": "hachure",
@@ -2859,7 +2859,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1696495262385,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2875,8 +2875,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "text",
-			"version": 114,
-			"versionNonce": 1764425192,
+			"version": 142,
+			"versionNonce": 1343127329,
 			"isDeleted": false,
 			"id": "mZdDz3v9",
 			"fillStyle": "hachure",
@@ -2889,14 +2889,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"y": -7150.56536652759,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 775.619140625,
+			"width": 775.6192626953125,
 			"height": 25,
 			"seed": 421346200,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262385,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2912,8 +2912,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "arrow",
-			"version": 71,
-			"versionNonce": 1366963352,
+			"version": 99,
+			"versionNonce": 1567965039,
 			"isDeleted": false,
 			"id": "P0biSzxj-tYaSdgXwAV-x",
 			"fillStyle": "hachure",
@@ -2935,7 +2935,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696495262385,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2964,8 +2964,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "arrow",
-			"version": 84,
-			"versionNonce": 1105395944,
+			"version": 112,
+			"versionNonce": 1326707457,
 			"isDeleted": false,
 			"id": "9jcCuEQf1687BoAWq0LW0",
 			"fillStyle": "hachure",
@@ -2987,7 +2987,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696495262385,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3012,8 +3012,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "text",
-			"version": 306,
-			"versionNonce": 41410968,
+			"version": 334,
+			"versionNonce": 1385789839,
 			"isDeleted": false,
 			"id": "KQdjddMc",
 			"fillStyle": "hachure",
@@ -3026,7 +3026,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"y": -4333.205822372323,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 256.939697265625,
+			"width": 256.93975830078125,
 			"height": 50,
 			"seed": 260048024,
 			"groupIds": [],
@@ -3038,7 +3038,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1696495262385,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3054,8 +3054,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "arrow",
-			"version": 330,
-			"versionNonce": 1789043688,
+			"version": 358,
+			"versionNonce": 1493166817,
 			"isDeleted": false,
 			"id": "iVNKMrZBIr0JIs5OvOkrb",
 			"fillStyle": "hachure",
@@ -3077,7 +3077,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696495262385,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3102,8 +3102,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "text",
-			"version": 90,
-			"versionNonce": 20442776,
+			"version": 118,
+			"versionNonce": 661745583,
 			"isDeleted": false,
 			"id": "2tIrl0iJ",
 			"fillStyle": "hachure",
@@ -3116,7 +3116,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"y": -3629.061531969738,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 184.2397918701172,
+			"width": 184.23983764648438,
 			"height": 25,
 			"seed": 1998751976,
 			"groupIds": [],
@@ -3128,7 +3128,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1696495262385,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3144,8 +3144,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "arrow",
-			"version": 115,
-			"versionNonce": 1098245864,
+			"version": 143,
+			"versionNonce": 1449256641,
 			"isDeleted": false,
 			"id": "3TkQcvx4zzvfM2Gnh31bc",
 			"fillStyle": "hachure",
@@ -3167,7 +3167,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696495262385,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3196,8 +3196,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "text",
-			"version": 35,
-			"versionNonce": 644766616,
+			"version": 63,
+			"versionNonce": 640000463,
 			"isDeleted": false,
 			"id": "ED4xcOb2",
 			"fillStyle": "hachure",
@@ -3210,7 +3210,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"y": -3518.745593139998,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 200.37974548339844,
+			"width": 200.3798370361328,
 			"height": 50,
 			"seed": 1266353896,
 			"groupIds": [],
@@ -3222,7 +3222,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1696495262385,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3238,8 +3238,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "arrow",
-			"version": 83,
-			"versionNonce": 48810472,
+			"version": 111,
+			"versionNonce": 1910072993,
 			"isDeleted": false,
 			"id": "W40eLeQNtNjiFeLtyQ_Bz",
 			"fillStyle": "hachure",
@@ -3261,7 +3261,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696495262385,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3290,8 +3290,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "text",
-			"version": 231,
-			"versionNonce": 340732056,
+			"version": 259,
+			"versionNonce": 1070501871,
 			"isDeleted": false,
 			"id": "wmyo2yoY",
 			"fillStyle": "hachure",
@@ -3304,7 +3304,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"y": -3323.149956917054,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 298.5196533203125,
+			"width": 298.5197448730469,
 			"height": 25,
 			"seed": 1031287272,
 			"groupIds": [],
@@ -3316,7 +3316,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1696495262385,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3332,8 +3332,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "arrow",
-			"version": 198,
-			"versionNonce": 2047298792,
+			"version": 226,
+			"versionNonce": 1444276865,
 			"isDeleted": false,
 			"id": "76Mdlp3qgEcLoJg3rkbCR",
 			"fillStyle": "hachure",
@@ -3355,7 +3355,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696495262385,
+			"updated": 1696845999159,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3380,8 +3380,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "text",
-			"version": 73,
-			"versionNonce": 109991320,
+			"version": 101,
+			"versionNonce": 779401743,
 			"isDeleted": false,
 			"id": "du6iK1DJ",
 			"fillStyle": "hachure",
@@ -3394,7 +3394,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"y": -3334.885695090431,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 264.8396911621094,
+			"width": 264.8397521972656,
 			"height": 25,
 			"seed": 1954738328,
 			"groupIds": [],
@@ -3406,7 +3406,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1696495262385,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3422,8 +3422,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "arrow",
-			"version": 44,
-			"versionNonce": 811429864,
+			"version": 72,
+			"versionNonce": 735507041,
 			"isDeleted": false,
 			"id": "YGyg-EKflpQP9O7_nIwS7",
 			"fillStyle": "hachure",
@@ -3445,7 +3445,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696495262385,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3470,8 +3470,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "text",
-			"version": 9,
-			"versionNonce": 576709272,
+			"version": 37,
+			"versionNonce": 1460707375,
 			"isDeleted": false,
 			"id": "jznaLYR8",
 			"fillStyle": "solid",
@@ -3491,7 +3491,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262385,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3507,8 +3507,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "text",
-			"version": 239,
-			"versionNonce": 502739688,
+			"version": 267,
+			"versionNonce": 1475083841,
 			"isDeleted": false,
 			"id": "tFWt05mn",
 			"fillStyle": "solid",
@@ -3521,14 +3521,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"y": -1318.2960319909757,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "#ffec99",
-			"width": 282.95965576171875,
+			"width": 282.959716796875,
 			"height": 50,
 			"seed": 1770082712,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262385,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3544,8 +3544,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 176,
-			"versionNonce": 1182257048,
+			"version": 204,
+			"versionNonce": 1804255823,
 			"isDeleted": false,
 			"id": "2xVZ-Qg6auqEkwX7aOMFh",
 			"fillStyle": "solid",
@@ -3572,14 +3572,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 					"id": "vSuudZU3"
 				}
 			],
-			"updated": 1696495262385,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 100,
-			"versionNonce": 1499502056,
+			"version": 130,
+			"versionNonce": 2033487393,
 			"isDeleted": false,
 			"id": "vSuudZU3",
 			"fillStyle": "solid",
@@ -3588,18 +3588,18 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1924.224947916246,
+			"x": 1924.2248868810898,
 			"y": -1181.3493948740531,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "#ffec99",
-			"width": 480.8194580078125,
+			"width": 480.819580078125,
 			"height": 100,
 			"seed": 973621144,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262385,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3615,8 +3615,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "text",
-			"version": 110,
-			"versionNonce": 1527389336,
+			"version": 138,
+			"versionNonce": 1287364719,
 			"isDeleted": false,
 			"id": "9gR49evs",
 			"fillStyle": "solid",
@@ -3629,7 +3629,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"y": 133.8049938590475,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "#ffc9c9",
-			"width": 419.19952392578125,
+			"width": 419.1995849609375,
 			"height": 25,
 			"seed": 57355672,
 			"groupIds": [],
@@ -3641,7 +3641,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1696495262385,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3657,8 +3657,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "arrow",
-			"version": 51,
-			"versionNonce": 1202034920,
+			"version": 79,
+			"versionNonce": 648028673,
 			"isDeleted": false,
 			"id": "bchrSu3JX-g16-njKIwHX",
 			"fillStyle": "solid",
@@ -3680,7 +3680,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696495262386,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3705,8 +3705,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "text",
-			"version": 94,
-			"versionNonce": 566938008,
+			"version": 122,
+			"versionNonce": 745257615,
 			"isDeleted": false,
 			"id": "1xsRU2LF",
 			"fillStyle": "solid",
@@ -3719,7 +3719,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"y": 393.94761884782656,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "#ffc9c9",
-			"width": 96.83987426757812,
+			"width": 96.83992004394531,
 			"height": 50,
 			"seed": 1940140184,
 			"groupIds": [],
@@ -3731,7 +3731,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1696495262386,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3747,8 +3747,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "arrow",
-			"version": 48,
-			"versionNonce": 1280457704,
+			"version": 76,
+			"versionNonce": 1831746017,
 			"isDeleted": false,
 			"id": "_unyjE0b-Dt3IqzkypLnu",
 			"fillStyle": "solid",
@@ -3770,7 +3770,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696495262386,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3795,8 +3795,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "text",
-			"version": 122,
-			"versionNonce": 99473048,
+			"version": 150,
+			"versionNonce": 1867747503,
 			"isDeleted": false,
 			"id": "v4aM90Cd",
 			"fillStyle": "solid",
@@ -3809,14 +3809,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"y": 592.989129070558,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "#ffc9c9",
-			"width": 724.0992431640625,
+			"width": 724.099365234375,
 			"height": 25,
 			"seed": 1166515864,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262386,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3832,8 +3832,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "text",
-			"version": 63,
-			"versionNonce": 2037546728,
+			"version": 91,
+			"versionNonce": 233723329,
 			"isDeleted": false,
 			"id": "kVaXgdq8",
 			"fillStyle": "solid",
@@ -3846,14 +3846,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"y": 3447.151808217935,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "#ffc9c9",
-			"width": 160.17982482910156,
+			"width": 160.17987060546875,
 			"height": 25,
 			"seed": 972824728,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696495262386,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3869,8 +3869,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "image",
-			"version": 129,
-			"versionNonce": 1814512536,
+			"version": 157,
+			"versionNonce": 1327211215,
 			"isDeleted": false,
 			"id": "k0Cfxgyl",
 			"fillStyle": "hachure",
@@ -3879,12 +3879,12 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1518.76380149959,
-			"y": 2004.164272915043,
+			"x": 1515.759037648067,
+			"y": 2004.466465112404,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 328.7184767566418,
-			"height": 33.66394039074042,
+			"width": 334.72800445968755,
+			"height": 33.059555996018524,
 			"seed": 20212,
 			"groupIds": [],
 			"frameId": null,
@@ -3899,7 +3899,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1696495262386,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -3911,8 +3911,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "text",
-			"version": 99,
-			"versionNonce": 1066557928,
+			"version": 127,
+			"versionNonce": 2080372129,
 			"isDeleted": false,
 			"id": "EbJBnk9W",
 			"fillStyle": "solid",
@@ -3937,7 +3937,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1696495262386,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3953,8 +3953,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "text",
-			"version": 72,
-			"versionNonce": 44765336,
+			"version": 100,
+			"versionNonce": 1012691183,
 			"isDeleted": false,
 			"id": "Xj7GlGi8",
 			"fillStyle": "solid",
@@ -3967,7 +3967,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"y": 2080,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "#ffc9c9",
-			"width": 202.17977905273438,
+			"width": 202.17987060546875,
 			"height": 25,
 			"seed": 161968024,
 			"groupIds": [],
@@ -3979,7 +3979,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1696495262386,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3995,8 +3995,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "arrow",
-			"version": 144,
-			"versionNonce": 498984168,
+			"version": 172,
+			"versionNonce": 445815169,
 			"isDeleted": false,
 			"id": "yCIh6jzTGIK_j3qSickpT",
 			"fillStyle": "solid",
@@ -4018,7 +4018,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696495262386,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4047,8 +4047,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "arrow",
-			"version": 35,
-			"versionNonce": 288177560,
+			"version": 63,
+			"versionNonce": 10386191,
 			"isDeleted": false,
 			"id": "BiHB_RrW3QolHZELUT8qK",
 			"fillStyle": "solid",
@@ -4070,7 +4070,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696495262386,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4099,8 +4099,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "rectangle",
-			"version": 36,
-			"versionNonce": 746978536,
+			"version": 64,
+			"versionNonce": 988135777,
 			"isDeleted": false,
 			"id": "InObiATk9oTcykLB_zvn7",
 			"fillStyle": "solid",
@@ -4127,14 +4127,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1696495359151,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 19,
-			"versionNonce": 1072165528,
+			"version": 47,
+			"versionNonce": 542785839,
 			"isDeleted": false,
 			"id": "AMVuprAdtzB4OtyLbACEq",
 			"fillStyle": "solid",
@@ -4156,7 +4156,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696495384607,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4185,8 +4185,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "text",
-			"version": 77,
-			"versionNonce": 410902424,
+			"version": 105,
+			"versionNonce": 1514728769,
 			"isDeleted": false,
 			"id": "fVhbPvGz",
 			"fillStyle": "solid",
@@ -4199,7 +4199,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"y": 5524.589710263557,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "#ffec99",
-			"width": 281.2596740722656,
+			"width": 281.25982666015625,
 			"height": 25,
 			"seed": 1379073432,
 			"groupIds": [],
@@ -4211,7 +4211,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1696495384607,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4227,8 +4227,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 13,
-			"versionNonce": 1718259176,
+			"version": 41,
+			"versionNonce": 2096644943,
 			"isDeleted": false,
 			"id": "gdST-jCc01Al3C8D4vQV-",
 			"fillStyle": "solid",
@@ -4248,7 +4248,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496772390,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4320,8 +4320,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 13,
-			"versionNonce": 1285406184,
+			"version": 41,
+			"versionNonce": 538680609,
 			"isDeleted": false,
 			"id": "G2AoiSZtB1hDuJjJzWJ4L",
 			"fillStyle": "solid",
@@ -4341,7 +4341,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496772766,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4413,8 +4413,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 14,
-			"versionNonce": 1760227560,
+			"version": 42,
+			"versionNonce": 919667055,
 			"isDeleted": false,
 			"id": "1hZCfhqY4KAQQkVpOX7jp",
 			"fillStyle": "solid",
@@ -4434,7 +4434,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496773083,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4511,8 +4511,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 9,
-			"versionNonce": 1180554472,
+			"version": 37,
+			"versionNonce": 466440449,
 			"isDeleted": false,
 			"id": "pMorkOjEBuSG4RFnDFcdu",
 			"fillStyle": "solid",
@@ -4532,7 +4532,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496773381,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4584,8 +4584,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 13,
-			"versionNonce": 1422037400,
+			"version": 41,
+			"versionNonce": 1328348047,
 			"isDeleted": false,
 			"id": "fkANkGdvinfcwa7pCxBK_",
 			"fillStyle": "solid",
@@ -4605,7 +4605,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496774004,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4677,8 +4677,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 13,
-			"versionNonce": 1296541848,
+			"version": 41,
+			"versionNonce": 1121814753,
 			"isDeleted": false,
 			"id": "TWOqY3hqIchSXuv7p0-7B",
 			"fillStyle": "solid",
@@ -4698,7 +4698,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496774445,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4770,8 +4770,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 12,
-			"versionNonce": 2055820264,
+			"version": 40,
+			"versionNonce": 172274095,
 			"isDeleted": false,
 			"id": "NSueUmlFK6GAyp-3lKP5s",
 			"fillStyle": "solid",
@@ -4791,7 +4791,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496774731,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4858,8 +4858,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 14,
-			"versionNonce": 1917274264,
+			"version": 42,
+			"versionNonce": 786154689,
 			"isDeleted": false,
 			"id": "1I8sXMOfYupv6ZNchs_Te",
 			"fillStyle": "solid",
@@ -4879,7 +4879,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496775135,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4956,8 +4956,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 12,
-			"versionNonce": 1470735848,
+			"version": 40,
+			"versionNonce": 289448911,
 			"isDeleted": false,
 			"id": "GLMiHshzMqazNcQsOiL0C",
 			"fillStyle": "solid",
@@ -4977,7 +4977,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496775791,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5044,8 +5044,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 14,
-			"versionNonce": 1600233704,
+			"version": 42,
+			"versionNonce": 459768993,
 			"isDeleted": false,
 			"id": "OLkJoTx8N6fUESiROGbAW",
 			"fillStyle": "solid",
@@ -5065,7 +5065,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496777154,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5142,8 +5142,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 238138600,
+			"version": 50,
+			"versionNonce": 1413042671,
 			"isDeleted": false,
 			"id": "qbfihOvUaWUYVrZiMQRAU",
 			"fillStyle": "solid",
@@ -5163,7 +5163,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496777955,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5280,8 +5280,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 8,
-			"versionNonce": 318786792,
+			"version": 36,
+			"versionNonce": 607144065,
 			"isDeleted": false,
 			"id": "Nb7f_iO9yzYKRP_kQy6q9",
 			"fillStyle": "solid",
@@ -5301,7 +5301,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496778248,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5348,8 +5348,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 11,
-			"versionNonce": 1326919144,
+			"version": 39,
+			"versionNonce": 741817359,
 			"isDeleted": false,
 			"id": "uunduT9pkVxBCL0pRqVUd",
 			"fillStyle": "solid",
@@ -5369,7 +5369,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496778582,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5431,8 +5431,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 674549736,
+			"version": 50,
+			"versionNonce": 1123389537,
 			"isDeleted": false,
 			"id": "Bau6BIb0U9clUYh8UiCMh",
 			"fillStyle": "solid",
@@ -5452,7 +5452,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496779155,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5569,8 +5569,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 16,
-			"versionNonce": 279183336,
+			"version": 44,
+			"versionNonce": 1026744879,
 			"isDeleted": false,
 			"id": "urDKyJHXtxWvL8tVSQTUa",
 			"fillStyle": "solid",
@@ -5590,7 +5590,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496779599,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5677,8 +5677,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 11,
-			"versionNonce": 986759400,
+			"version": 39,
+			"versionNonce": 226942017,
 			"isDeleted": false,
 			"id": "-aNgu5fTYx9-5NQLYNRYF",
 			"fillStyle": "solid",
@@ -5698,7 +5698,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496779936,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5760,8 +5760,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 374022376,
+			"version": 60,
+			"versionNonce": 404014159,
 			"isDeleted": false,
 			"id": "hlNxapHwf2GRYCRKUQ5BM",
 			"fillStyle": "solid",
@@ -5781,7 +5781,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496781382,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5948,8 +5948,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 13,
-			"versionNonce": 313862120,
+			"version": 41,
+			"versionNonce": 868461601,
 			"isDeleted": false,
 			"id": "qGs_HRjJr-YnyDkeBo98f",
 			"fillStyle": "solid",
@@ -5969,7 +5969,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496782337,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6041,8 +6041,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 15,
-			"versionNonce": 534459624,
+			"version": 43,
+			"versionNonce": 481649263,
 			"isDeleted": false,
 			"id": "oasn5ymEIYDHazihc29C3",
 			"fillStyle": "solid",
@@ -6062,7 +6062,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496783305,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6144,8 +6144,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 8,
-			"versionNonce": 1126812904,
+			"version": 36,
+			"versionNonce": 1033601025,
 			"isDeleted": false,
 			"id": "epp9wmh09zm08I_GKUJzG",
 			"fillStyle": "solid",
@@ -6165,7 +6165,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496783506,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6212,8 +6212,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 13,
-			"versionNonce": 2080134120,
+			"version": 41,
+			"versionNonce": 467483791,
 			"isDeleted": false,
 			"id": "H4FcAheN9h4yNlqQpMJDa",
 			"fillStyle": "solid",
@@ -6233,7 +6233,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496784338,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6305,8 +6305,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 11,
-			"versionNonce": 277189864,
+			"version": 39,
+			"versionNonce": 151902177,
 			"isDeleted": false,
 			"id": "rFAHnvC6kH_JoNKRW-Zvy",
 			"fillStyle": "solid",
@@ -6326,7 +6326,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496784616,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6388,8 +6388,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 8,
-			"versionNonce": 460598504,
+			"version": 36,
+			"versionNonce": 960811695,
 			"isDeleted": false,
 			"id": "IM90feyKveK0if4XN33ki",
 			"fillStyle": "solid",
@@ -6409,7 +6409,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496784945,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6456,8 +6456,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 9,
-			"versionNonce": 1802627048,
+			"version": 37,
+			"versionNonce": 136983489,
 			"isDeleted": false,
 			"id": "1fj8_soekJaif_1QPpQ6f",
 			"fillStyle": "solid",
@@ -6477,7 +6477,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496785546,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6529,8 +6529,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 12,
-			"versionNonce": 168446952,
+			"version": 40,
+			"versionNonce": 227845327,
 			"isDeleted": false,
 			"id": "vaFPnDniACECBKON2Kd73",
 			"fillStyle": "solid",
@@ -6550,7 +6550,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496786205,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6617,8 +6617,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 8,
-			"versionNonce": 1267852264,
+			"version": 36,
+			"versionNonce": 1058018209,
 			"isDeleted": false,
 			"id": "x0Wltj3JJaVHcCGb7zVoU",
 			"fillStyle": "solid",
@@ -6638,7 +6638,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496786400,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6685,8 +6685,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 13,
-			"versionNonce": 627668888,
+			"version": 41,
+			"versionNonce": 140849903,
 			"isDeleted": false,
 			"id": "8Nlvd-2V7a4i9V6oflDpj",
 			"fillStyle": "solid",
@@ -6706,7 +6706,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496787037,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6778,8 +6778,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 11,
-			"versionNonce": 100454888,
+			"version": 39,
+			"versionNonce": 32438145,
 			"isDeleted": false,
 			"id": "wqnIh_jEmusNH-P2l8mfm",
 			"fillStyle": "solid",
@@ -6799,7 +6799,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496787325,
+			"updated": 1696845999160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6861,8 +6861,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 15,
-			"versionNonce": 1930847384,
+			"version": 43,
+			"versionNonce": 306117903,
 			"isDeleted": false,
 			"id": "-SsNCt7C1IlFU4x4ZuG4G",
 			"fillStyle": "solid",
@@ -6882,7 +6882,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496787841,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6964,8 +6964,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 14,
-			"versionNonce": 1558338456,
+			"version": 42,
+			"versionNonce": 1929797473,
 			"isDeleted": false,
 			"id": "eE16Tod0UKLJ57KdMxAj2",
 			"fillStyle": "solid",
@@ -6985,7 +6985,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496788304,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7062,8 +7062,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 33,
-			"versionNonce": 81154536,
+			"version": 61,
+			"versionNonce": 1855619887,
 			"isDeleted": false,
 			"id": "H8rupZ-EJolaZogTtPv_s",
 			"fillStyle": "solid",
@@ -7083,7 +7083,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496794215,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7255,8 +7255,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 14,
-			"versionNonce": 1896438760,
+			"version": 42,
+			"versionNonce": 1084607297,
 			"isDeleted": false,
 			"id": "XaX-SAoohbWDM14u0EaHl",
 			"fillStyle": "solid",
@@ -7276,7 +7276,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496795266,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7353,8 +7353,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 14,
-			"versionNonce": 507700712,
+			"version": 42,
+			"versionNonce": 1574978895,
 			"isDeleted": false,
 			"id": "UWCc-KW91USM9tA8cr55m",
 			"fillStyle": "solid",
@@ -7374,7 +7374,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496795939,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7451,8 +7451,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 9,
-			"versionNonce": 706248936,
+			"version": 37,
+			"versionNonce": 590134049,
 			"isDeleted": false,
 			"id": "s5Fd5TCzZUpthtSRAJZfA",
 			"fillStyle": "solid",
@@ -7472,7 +7472,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496796114,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7524,8 +7524,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 181789416,
+			"version": 50,
+			"versionNonce": 2137572207,
 			"isDeleted": false,
 			"id": "ciyydAW7SU4r6RT8kxozp",
 			"fillStyle": "solid",
@@ -7545,7 +7545,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496796818,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7662,8 +7662,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 8,
-			"versionNonce": 639007464,
+			"version": 36,
+			"versionNonce": 453684993,
 			"isDeleted": false,
 			"id": "1obAyiRh1nbeYiM1idrix",
 			"fillStyle": "solid",
@@ -7683,7 +7683,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496797154,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7730,8 +7730,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 10,
-			"versionNonce": 645232872,
+			"version": 38,
+			"versionNonce": 1937538447,
 			"isDeleted": false,
 			"id": "h1YIDcPaVGxpYWgtgdPDs",
 			"fillStyle": "solid",
@@ -7751,7 +7751,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496797584,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7808,8 +7808,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 16,
-			"versionNonce": 603105512,
+			"version": 44,
+			"versionNonce": 1858021089,
 			"isDeleted": false,
 			"id": "9mg54tN9_sgdsWXz6bTqh",
 			"fillStyle": "solid",
@@ -7829,7 +7829,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496800680,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7916,8 +7916,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 8,
-			"versionNonce": 1636647144,
+			"version": 36,
+			"versionNonce": 1028912047,
 			"isDeleted": false,
 			"id": "Uy4aFTcCjYO2sZe05cAj6",
 			"fillStyle": "solid",
@@ -7937,7 +7937,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496800868,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7984,8 +7984,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 1404437992,
+			"version": 51,
+			"versionNonce": 1759093441,
 			"isDeleted": false,
 			"id": "hxaBnf6eDbzv0vjH86uAI",
 			"fillStyle": "solid",
@@ -8005,7 +8005,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496801647,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8127,8 +8127,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 17,
-			"versionNonce": 1244281064,
+			"version": 45,
+			"versionNonce": 1696048591,
 			"isDeleted": false,
 			"id": "AluiA5OOe8zdz5Kl-kAmB",
 			"fillStyle": "solid",
@@ -8148,7 +8148,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496802234,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8240,8 +8240,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 11,
-			"versionNonce": 2043451880,
+			"version": 39,
+			"versionNonce": 1442423457,
 			"isDeleted": false,
 			"id": "G5DwWX3Uf7PAGet_Fqftc",
 			"fillStyle": "solid",
@@ -8261,7 +8261,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496802631,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8323,8 +8323,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 250660072,
+			"version": 84,
+			"versionNonce": 1507857391,
 			"isDeleted": false,
 			"id": "rpYeoG2JXo4vHL1q5GI5y",
 			"fillStyle": "solid",
@@ -8344,7 +8344,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496846786,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8631,8 +8631,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 11,
-			"versionNonce": 1094886888,
+			"version": 39,
+			"versionNonce": 1120839297,
 			"isDeleted": false,
 			"id": "O7uLGkQSRNN5vC7lhN4_V",
 			"fillStyle": "solid",
@@ -8652,7 +8652,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496847980,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8714,8 +8714,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 1565424872,
+			"version": 107,
+			"versionNonce": 330677775,
 			"isDeleted": false,
 			"id": "soWQfwX0hpnGn3YPuvz9O",
 			"fillStyle": "solid",
@@ -8735,7 +8735,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496850456,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9132,8 +9132,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 13,
-			"versionNonce": 1320682136,
+			"version": 41,
+			"versionNonce": 2048405089,
 			"isDeleted": false,
 			"id": "w0EFeQCvS8nhZkXjR2iD1",
 			"fillStyle": "solid",
@@ -9153,7 +9153,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496898671,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9225,8 +9225,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 10,
-			"versionNonce": 172029672,
+			"version": 38,
+			"versionNonce": 1972446255,
 			"isDeleted": false,
 			"id": "CxFyBxQQtfSEm2AF6dSKR",
 			"fillStyle": "solid",
@@ -9246,7 +9246,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496898971,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9303,8 +9303,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 8,
-			"versionNonce": 879047576,
+			"version": 36,
+			"versionNonce": 1118157377,
 			"isDeleted": false,
 			"id": "AtHBx5QPyW_MSDXAQlwgz",
 			"fillStyle": "solid",
@@ -9324,7 +9324,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496899160,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9371,8 +9371,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 16,
-			"versionNonce": 287469032,
+			"version": 44,
+			"versionNonce": 1868219983,
 			"isDeleted": false,
 			"id": "4Lf9Z14sVPW7v6X_kn3zd",
 			"fillStyle": "solid",
@@ -9392,7 +9392,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496899512,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9474,8 +9474,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 27,
-			"versionNonce": 1780928744,
+			"version": 55,
+			"versionNonce": 1565968929,
 			"isDeleted": false,
 			"id": "nVuU_Dtfzj6gvwICg8Ptq",
 			"fillStyle": "solid",
@@ -9495,7 +9495,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496900178,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9637,8 +9637,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 13,
-			"versionNonce": 1016711656,
+			"version": 41,
+			"versionNonce": 1609245807,
 			"isDeleted": false,
 			"id": "Ensm7MMRTgp9Cz03XeyDw",
 			"fillStyle": "solid",
@@ -9658,7 +9658,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496900685,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9725,8 +9725,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 11,
-			"versionNonce": 1223523560,
+			"version": 39,
+			"versionNonce": 1125834241,
 			"isDeleted": false,
 			"id": "k_7tAAigUjcakouZGyDEG",
 			"fillStyle": "solid",
@@ -9746,7 +9746,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496901245,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9808,8 +9808,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 8,
-			"versionNonce": 1875679896,
+			"version": 36,
+			"versionNonce": 923451023,
 			"isDeleted": false,
 			"id": "UhpdvZp85eMHIuguqOREz",
 			"fillStyle": "solid",
@@ -9829,7 +9829,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496901455,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9876,8 +9876,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 1346913944,
+			"version": 50,
+			"versionNonce": 586249697,
 			"isDeleted": false,
 			"id": "zIKEXayI2VUrYZc5v5Scq",
 			"fillStyle": "solid",
@@ -9897,7 +9897,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496901914,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10014,8 +10014,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 16,
-			"versionNonce": 2140935832,
+			"version": 44,
+			"versionNonce": 1467094191,
 			"isDeleted": false,
 			"id": "q3iPxH62x7WdZAf2NpEGA",
 			"fillStyle": "solid",
@@ -10035,7 +10035,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496902306,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10122,8 +10122,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 11,
-			"versionNonce": 192570776,
+			"version": 39,
+			"versionNonce": 535433665,
 			"isDeleted": false,
 			"id": "gNqDAsSghMX-fzOstG2C0",
 			"fillStyle": "solid",
@@ -10143,7 +10143,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496902622,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10205,8 +10205,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 6,
-			"versionNonce": 1959220120,
+			"version": 34,
+			"versionNonce": 952739535,
 			"isDeleted": false,
 			"id": "ktXGXFHXB2GH-Y3ukZhEQ",
 			"fillStyle": "solid",
@@ -10226,7 +10226,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496902779,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10263,8 +10263,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 6,
-			"versionNonce": 1191821720,
+			"version": 34,
+			"versionNonce": 1327772065,
 			"isDeleted": false,
 			"id": "TeF-q9SxzwD9k7vhP-aV2",
 			"fillStyle": "solid",
@@ -10284,7 +10284,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496902973,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10321,8 +10321,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 7,
-			"versionNonce": 813169816,
+			"version": 35,
+			"versionNonce": 1235875055,
 			"isDeleted": false,
 			"id": "cs0f556IYkO_QAdgEntzI",
 			"fillStyle": "solid",
@@ -10342,7 +10342,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496903157,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10379,8 +10379,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 12,
-			"versionNonce": 1681709208,
+			"version": 40,
+			"versionNonce": 1976522113,
 			"isDeleted": false,
 			"id": "GpJmD9ghj2rU4GxRzOCO-",
 			"fillStyle": "solid",
@@ -10400,7 +10400,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496903457,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10467,8 +10467,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 9,
-			"versionNonce": 20245912,
+			"version": 37,
+			"versionNonce": 295403279,
 			"isDeleted": false,
 			"id": "mGYIccspXJPQhYfYK9RBx",
 			"fillStyle": "solid",
@@ -10488,7 +10488,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496904376,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10540,8 +10540,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 7,
-			"versionNonce": 1328326808,
+			"version": 35,
+			"versionNonce": 120257889,
 			"isDeleted": false,
 			"id": "W4RRFkEZMCsRkMzKS-hqs",
 			"fillStyle": "solid",
@@ -10561,7 +10561,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496904591,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10598,8 +10598,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 14,
-			"versionNonce": 695811736,
+			"version": 42,
+			"versionNonce": 320259375,
 			"isDeleted": false,
 			"id": "xhuGQduBTXG9j_Nzx_oCv",
 			"fillStyle": "solid",
@@ -10619,7 +10619,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496904947,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10696,8 +10696,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 9,
-			"versionNonce": 393122712,
+			"version": 37,
+			"versionNonce": 1652992321,
 			"isDeleted": false,
 			"id": "fMLJrkfx3Vq6v8OH8RPkT",
 			"fillStyle": "solid",
@@ -10717,7 +10717,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496905159,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10769,8 +10769,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 1095130520,
+			"version": 46,
+			"versionNonce": 1837385551,
 			"isDeleted": false,
 			"id": "wKBF0atK4BiTE81GHXuiC",
 			"fillStyle": "solid",
@@ -10790,7 +10790,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496907664,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10887,8 +10887,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 1278669976,
+			"version": 47,
+			"versionNonce": 1363269921,
 			"isDeleted": false,
 			"id": "IQR2n0kZPzXbPlDNm_8bF",
 			"fillStyle": "solid",
@@ -10908,7 +10908,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496908133,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11010,8 +11010,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 440901784,
+			"version": 56,
+			"versionNonce": 1060930927,
 			"isDeleted": false,
 			"id": "1a-a4gXztZk7av9eYqhFK",
 			"fillStyle": "solid",
@@ -11031,7 +11031,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496908741,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11178,8 +11178,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 16,
-			"versionNonce": 849834136,
+			"version": 44,
+			"versionNonce": 1154223361,
 			"isDeleted": false,
 			"id": "fgh6kXHT5qiFhvhWE8qr2",
 			"fillStyle": "solid",
@@ -11199,7 +11199,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496909108,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11286,8 +11286,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 215212440,
+			"version": 49,
+			"versionNonce": 1200095119,
 			"isDeleted": false,
 			"id": "mQuuqURkVmwCWfRWMBB3d",
 			"fillStyle": "solid",
@@ -11307,7 +11307,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496909978,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11419,8 +11419,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 16,
-			"versionNonce": 1678881176,
+			"version": 44,
+			"versionNonce": 1420084449,
 			"isDeleted": false,
 			"id": "g-F_R1zpKPHLsMG8OhVOe",
 			"fillStyle": "solid",
@@ -11440,7 +11440,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496910359,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11527,8 +11527,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 13,
-			"versionNonce": 260676248,
+			"version": 41,
+			"versionNonce": 1218393519,
 			"isDeleted": false,
 			"id": "kYkfJGzTrjVa92He59EcR",
 			"fillStyle": "solid",
@@ -11548,7 +11548,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496910729,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11620,8 +11620,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 6,
-			"versionNonce": 590006424,
+			"version": 34,
+			"versionNonce": 2086371521,
 			"isDeleted": false,
 			"id": "1FDmldEPt5i6FkulXBRfd",
 			"fillStyle": "solid",
@@ -11641,7 +11641,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496910927,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11678,8 +11678,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 13,
-			"versionNonce": 2041401752,
+			"version": 41,
+			"versionNonce": 699049935,
 			"isDeleted": false,
 			"id": "rwvjAe7Grif96OfzazkjP",
 			"fillStyle": "solid",
@@ -11699,7 +11699,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496911241,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11766,8 +11766,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 14,
-			"versionNonce": 1416505240,
+			"version": 42,
+			"versionNonce": 428851361,
 			"isDeleted": false,
 			"id": "pbB35sSuVo9AyiBmhSO9B",
 			"fillStyle": "solid",
@@ -11787,7 +11787,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496911576,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11864,8 +11864,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 15,
-			"versionNonce": 837847784,
+			"version": 43,
+			"versionNonce": 1489163759,
 			"isDeleted": false,
 			"id": "uPmTlzoga4LSRM3DsIFAC",
 			"fillStyle": "solid",
@@ -11885,7 +11885,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496911944,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11967,8 +11967,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 521051800,
+			"version": 50,
+			"versionNonce": 703661185,
 			"isDeleted": false,
 			"id": "kzsvZBqUIrFuNHcpacRS8",
 			"fillStyle": "solid",
@@ -11988,7 +11988,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496913545,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12105,8 +12105,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 938458088,
+			"version": 47,
+			"versionNonce": 1827684367,
 			"isDeleted": false,
 			"id": "gN33kSi_OWI_37Ms01gt9",
 			"fillStyle": "solid",
@@ -12126,7 +12126,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496913933,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12228,8 +12228,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 951888360,
+			"version": 51,
+			"versionNonce": 1228852321,
 			"isDeleted": false,
 			"id": "cLiCn-XdoMIY2oqH59pko",
 			"fillStyle": "solid",
@@ -12249,7 +12249,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496914388,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12371,8 +12371,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 2126568168,
+			"version": 46,
+			"versionNonce": 137061935,
 			"isDeleted": false,
 			"id": "o-V01xFffeuSSIJ9fjXwc",
 			"fillStyle": "solid",
@@ -12392,7 +12392,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496915194,
+			"updated": 1696845999161,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12489,8 +12489,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 13,
-			"versionNonce": 1211763432,
+			"version": 41,
+			"versionNonce": 1867028545,
 			"isDeleted": false,
 			"id": "Ww7Y2OPyn-fRM69T_KxIX",
 			"fillStyle": "solid",
@@ -12510,7 +12510,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496915595,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12582,8 +12582,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 8,
-			"versionNonce": 396602344,
+			"version": 36,
+			"versionNonce": 2036123727,
 			"isDeleted": false,
 			"id": "kMP-4W9vNPSv5sfzvzvmY",
 			"fillStyle": "solid",
@@ -12603,7 +12603,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496915821,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12650,8 +12650,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 9,
-			"versionNonce": 1043730408,
+			"version": 37,
+			"versionNonce": 1844308001,
 			"isDeleted": false,
 			"id": "JGYGWPMd5r3x25LcBd69N",
 			"fillStyle": "solid",
@@ -12671,7 +12671,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496916106,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12723,8 +12723,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 7,
-			"versionNonce": 1938457832,
+			"version": 35,
+			"versionNonce": 509404783,
 			"isDeleted": false,
 			"id": "7aCCdutP5Wi14e4wZ6dfk",
 			"fillStyle": "solid",
@@ -12744,7 +12744,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496916278,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12786,8 +12786,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 16,
-			"versionNonce": 498131352,
+			"version": 44,
+			"versionNonce": 790510593,
 			"isDeleted": false,
 			"id": "RhDswdnNoh0qRmgjn8D7O",
 			"fillStyle": "solid",
@@ -12807,7 +12807,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496916647,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12894,8 +12894,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 14,
-			"versionNonce": 1090990312,
+			"version": 42,
+			"versionNonce": 99893391,
 			"isDeleted": false,
 			"id": "yrKpAEkZckZaO_klZUY5H",
 			"fillStyle": "solid",
@@ -12915,7 +12915,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496916972,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12992,8 +12992,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 30,
-			"versionNonce": 242039192,
+			"version": 58,
+			"versionNonce": 853087201,
 			"isDeleted": false,
 			"id": "ERUCbDnyRUxVo_xiRl3fX",
 			"fillStyle": "solid",
@@ -13013,7 +13013,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496917892,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13170,8 +13170,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 1558842008,
+			"version": 46,
+			"versionNonce": 1373329071,
 			"isDeleted": false,
 			"id": "hgIdHgdQP02aNOWwzEcAZ",
 			"fillStyle": "solid",
@@ -13191,7 +13191,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496918321,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13288,8 +13288,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 1332870296,
+			"version": 51,
+			"versionNonce": 1294856129,
 			"isDeleted": false,
 			"id": "gB75Sa7-BUrSpb-lfdbpm",
 			"fillStyle": "solid",
@@ -13309,7 +13309,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496918798,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13431,8 +13431,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 24,
-			"versionNonce": 1477555352,
+			"version": 52,
+			"versionNonce": 1488627919,
 			"isDeleted": false,
 			"id": "YQXyEJ6x51thnIrZUV4xX",
 			"fillStyle": "solid",
@@ -13452,7 +13452,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496919347,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13579,8 +13579,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 8,
-			"versionNonce": 841063576,
+			"version": 36,
+			"versionNonce": 607932321,
 			"isDeleted": false,
 			"id": "XYPRMKhMtyL-hLZMdWocV",
 			"fillStyle": "solid",
@@ -13600,7 +13600,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496919596,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13647,8 +13647,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 8,
-			"versionNonce": 264864920,
+			"version": 36,
+			"versionNonce": 137017071,
 			"isDeleted": false,
 			"id": "hRXyaOXkEtulItwnNIGME",
 			"fillStyle": "solid",
@@ -13668,7 +13668,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496919774,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13710,8 +13710,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 16,
-			"versionNonce": 1977701528,
+			"version": 44,
+			"versionNonce": 1848882049,
 			"isDeleted": false,
 			"id": "64naSEFJmhyttePMCSaFh",
 			"fillStyle": "solid",
@@ -13731,7 +13731,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496920209,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13818,8 +13818,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 55235224,
+			"version": 50,
+			"versionNonce": 112460047,
 			"isDeleted": false,
 			"id": "A1Uu7l-woz9_aYZa62byn",
 			"fillStyle": "solid",
@@ -13839,7 +13839,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496920697,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13956,8 +13956,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "arrow",
-			"version": 49,
-			"versionNonce": 360636136,
+			"version": 77,
+			"versionNonce": 1867750241,
 			"isDeleted": false,
 			"id": "9Gyv1x7XR_zv-xlush9vc",
 			"fillStyle": "solid",
@@ -13979,7 +13979,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696496952736,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -14004,8 +14004,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "text",
-			"version": 61,
-			"versionNonce": 1653104360,
+			"version": 89,
+			"versionNonce": 365889327,
 			"isDeleted": false,
 			"id": "kA1pLmt0",
 			"fillStyle": "solid",
@@ -14018,14 +14018,14 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"y": 6778.088337433705,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 467.219482421875,
+			"width": 467.21954345703125,
 			"height": 25,
 			"seed": 275343336,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696496974498,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -14041,8 +14041,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "line",
-			"version": 48,
-			"versionNonce": 1293198740,
+			"version": 110,
+			"versionNonce": 938182465,
 			"isDeleted": false,
 			"id": "E55VsCEIYTapuIs8fTioJ",
 			"fillStyle": "solid",
@@ -14064,7 +14064,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696499722051,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -14085,8 +14085,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "line",
-			"version": 66,
-			"versionNonce": 364597164,
+			"version": 1372,
+			"versionNonce": 870598991,
 			"isDeleted": false,
 			"id": "5-zyzvvryqSJqAN-Q0xHb",
 			"fillStyle": "solid",
@@ -14099,7 +14099,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"y": 7550,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 550,
+			"width": 500,
 			"height": 0,
 			"seed": 605815700,
 			"groupIds": [],
@@ -14108,7 +14108,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696497317591,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -14122,607 +14122,29 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 					0
 				],
 				[
-					550,
+					500,
 					0
 				]
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 13,
-			"versionNonce": 1818803988,
-			"isDeleted": false,
-			"id": "XFnGWErQYtIA0bep4d23O",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2941.387519156128,
-			"y": 7561.542951634874,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 12.666275115562257,
-			"height": 15.380476926039591,
-			"seed": 1687146028,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1696497338050,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					0.9047339368253233
-				],
-				[
-					2.714201810477334,
-					2.714201810477789
-				],
-				[
-					4.523669684129345,
-					4.523669684129345
-				],
-				[
-					7.237871494606679,
-					7.237871494607134
-				],
-				[
-					8.142605431432912,
-					9.952073305084923
-				],
-				[
-					9.04733936825869,
-					12.666275115561803
-				],
-				[
-					7.237871494606679,
-					15.380476926039591
-				],
-				[
-					3.618935747303567,
-					15.380476926039591
-				],
-				[
-					0,
-					13.571009052388035
-				],
-				[
-					-3.618935747303567,
-					8.142605431432457
-				],
-				[
-					-3.618935747303567,
-					8.142605431432457
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0,
-				0.42278170585632324,
-				0.43906310200691223,
-				0.4163729250431061,
-				0.3990997076034546,
-				0.3916991055011749,
-				0.38924238085746765,
-				0.38725870847702026,
-				0.38677042722702026,
-				0.37393757700920105,
-				0.12234684079885483,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 11,
-			"versionNonce": 752407444,
-			"isDeleted": false,
-			"id": "WKzb0-tog0Bb8uCjzp3Bv",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2958.5774639558194,
-			"y": 7565.161887382177,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 8.142605431433367,
-			"height": 10.856807241910246,
-			"seed": 875497132,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1696497338417,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.8094678736515561,
-					-0.9047339368253233
-				],
-				[
-					-0.9047339368257781,
-					0
-				],
-				[
-					-3.618935747303567,
-					0.9047339368262328
-				],
-				[
-					-5.428403620955578,
-					3.618935747304022
-				],
-				[
-					-5.428403620955578,
-					6.333137557781811
-				],
-				[
-					-4.523669684129345,
-					8.142605431433367
-				],
-				[
-					-1.8094678736515561,
-					9.952073305084923
-				],
-				[
-					2.714201810477789,
-					9.952073305084923
-				],
-				[
-					2.714201810477789,
-					9.952073305084923
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0,
-				0.3157244324684143,
-				0.3542076647281647,
-				0.3620965778827667,
-				0.3694972097873688,
-				0.37541770935058594,
-				0.37344929575920105,
-				0.34435033798217773,
-				0.15489433705806732,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 8,
-			"versionNonce": 1121779604,
-			"isDeleted": false,
-			"id": "-dxHdMwm2YxaR_37fs6WE",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2965.8153354504266,
-			"y": 7570.590291003133,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 1.8094678736515561,
-			"height": 11.76154117873648,
-			"seed": 56494636,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1696497338745,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.9047339368257781,
-					2.714201810477789
-				],
-				[
-					1.8094678736515561,
-					4.523669684129345
-				],
-				[
-					1.8094678736515561,
-					8.142605431432457
-				],
-				[
-					1.8094678736515561,
-					9.952073305084923
-				],
-				[
-					0.9047339368257781,
-					11.76154117873648
-				],
-				[
-					0.9047339368257781,
-					11.76154117873648
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0,
-				0.3522392511367798,
-				0.3616082966327667,
-				0.3670405149459839,
-				0.3670405149459839,
-				0.24715037643909454,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 1855066132,
-			"isDeleted": false,
-			"id": "yUavTpi0neo0WBa-ojqIV",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2348.7867905351764,
-			"y": 7035.892534339037,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 15.380476926040046,
-			"height": 13.571009052388035,
-			"seed": 105913900,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1696497340635,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-0.9047339368262328
-				],
-				[
-					0,
-					-1.8094678736515561
-				],
-				[
-					0.9047339368257781,
-					-1.8094678736515561
-				],
-				[
-					0.9047339368257781,
-					-2.714201810477789
-				],
-				[
-					1.8094678736515561,
-					-2.714201810477789
-				],
-				[
-					2.714201810477334,
-					-2.714201810477789
-				],
-				[
-					3.618935747303567,
-					-2.714201810477789
-				],
-				[
-					7.237871494606679,
-					-1.8094678736515561
-				],
-				[
-					9.952073305084468,
-					-0.9047339368262328
-				],
-				[
-					12.666275115562257,
-					0
-				],
-				[
-					14.475742989213813,
-					2.714201810477789
-				],
-				[
-					15.380476926040046,
-					5.428403620955578
-				],
-				[
-					13.571009052388035,
-					9.04733936825869
-				],
-				[
-					10.856807241910701,
-					10.856807241910246
-				],
-				[
-					7.237871494606679,
-					9.952073305084923
-				],
-				[
-					5.428403620955123,
-					9.04733936825869
-				],
-				[
-					5.428403620955123,
-					9.04733936825869
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0,
-				0.3211566209793091,
-				0.3527275621891022,
-				0.35963988304138184,
-				0.40749219059944153,
-				0.4094606041908264,
-				0.4109407067298889,
-				0.4109407067298889,
-				0.4104524254798889,
-				0.4109407067298889,
-				0.4099641442298889,
-				0.4094606041908264,
-				0.40848401188850403,
-				0.40700387954711914,
-				0.3694972097873688,
-				0.2520942986011505,
-				0.05969329550862312,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 12,
-			"versionNonce": 1190728212,
-			"isDeleted": false,
-			"id": "CBNJzcj4vQwMl2IG4q3xN",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2367.7862032085195,
-			"y": 7033.17833252856,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 7.237871494607134,
-			"height": 16.285210862865824,
-			"seed": 1650419116,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1696497340984,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.809467873652011,
-					-0.9047339368253233
-				],
-				[
-					1.809467873652011,
-					-1.8094678736515561
-				],
-				[
-					1.809467873652011,
-					-0.9047339368253233
-				],
-				[
-					-0.9047339368257781,
-					2.714201810477789
-				],
-				[
-					-2.714201810477334,
-					6.333137557781811
-				],
-				[
-					-4.523669684129345,
-					9.952073305084923
-				],
-				[
-					-4.523669684129345,
-					12.666275115562712
-				],
-				[
-					-0.9047339368257781,
-					14.475742989214268
-				],
-				[
-					2.714201810477789,
-					13.571009052388035
-				],
-				[
-					2.714201810477789,
-					13.571009052388035
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0,
-				0.24122987687587738,
-				0.3142443001270294,
-				0.32460516691207886,
-				0.33743801712989807,
-				0.33792629837989807,
-				0.33990997076034546,
-				0.34236666560173035,
-				0.3211566209793091,
-				0.16969558596611023,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 151270036,
-			"isDeleted": false,
-			"id": "TjzmK6f16swOUhrb27off",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2376.8335425767787,
-			"y": 7045.844607644122,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 11.76154117873648,
-			"height": 14.475742989213359,
-			"seed": 1064158124,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1696497341833,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1.8094678736515561
-				],
-				[
-					0,
-					-2.714201810477789
-				],
-				[
-					0.9047339368257781,
-					-3.618935747304022
-				],
-				[
-					1.8094678736515561,
-					-4.523669684129345
-				],
-				[
-					3.618935747303567,
-					-5.428403620955578
-				],
-				[
-					6.333137557780901,
-					-6.333137557780901
-				],
-				[
-					7.237871494606679,
-					-4.523669684129345
-				],
-				[
-					8.142605431432912,
-					-2.714201810477789
-				],
-				[
-					7.237871494606679,
-					0.9047339368253233
-				],
-				[
-					4.523669684129345,
-					3.6189357473031123
-				],
-				[
-					3.618935747303567,
-					5.428403620954668
-				],
-				[
-					4.523669684129345,
-					6.333137557780901
-				],
-				[
-					6.333137557780901,
-					6.333137557780901
-				],
-				[
-					9.04733936825869,
-					7.237871494607134
-				],
-				[
-					10.856807241910701,
-					7.237871494607134
-				],
-				[
-					11.76154117873648,
-					8.142605431432457
-				],
-				[
-					11.76154117873648,
-					8.142605431432457
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0,
-				0.37393757700920105,
-				0.38677042722702026,
-				0.40700387954711914,
-				0.42229342460632324,
-				0.425741970539093,
-				0.425253689289093,
-				0.42328527569770813,
-				0.42081329226493835,
-				0.41834133863449097,
-				0.4139009714126587,
-				0.4114442765712738,
-				0.4124208390712738,
-				0.4129243791103363,
-				0.4005798399448395,
-				0.3339894711971283,
-				0.07054245471954346,
-				0
 			]
 		},
 		{
 			"type": "line",
-			"version": 130,
-			"versionNonce": 1490322604,
+			"version": 484,
+			"versionNonce": 576386849,
 			"isDeleted": false,
 			"id": "Ut-mTMmQ0_DbFpFPiYi0s",
 			"fillStyle": "solid",
-			"strokeWidth": 0.5,
+			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
 			"x": 2400,
-			"y": 7250,
-			"strokeColor": "#1e1e1e",
+			"y": 7050,
+			"strokeColor": "#69db7c",
 			"backgroundColor": "transparent",
-			"width": 500,
-			"height": 300,
+			"width": 275,
+			"height": 500,
 			"seed": 1139751572,
 			"groupIds": [],
 			"frameId": null,
@@ -14730,7 +14152,7 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696499706002,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -14744,199 +14166,15 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 					0
 				],
 				[
-					500,
-					300
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 198,
-			"versionNonce": 755770516,
-			"isDeleted": false,
-			"id": "Q0Z6uNWbGjpkzLgxG8pzC",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2460.096717357821,
-			"y": 7104.058030414692,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 450,
-			"height": 350,
-			"seed": 1080253332,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1696499719551,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					120,
-					250
-				],
-				[
-					450,
-					350
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 154,
-			"versionNonce": 1704414764,
-			"isDeleted": false,
-			"id": "CqUzzszfqf7widQj4bBhN",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2410,
-			"y": 7160,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 450,
-			"height": 350,
-			"seed": 907434028,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1696497469602,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					120,
-					250
-				],
-				[
-					450,
-					350
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 52,
-			"versionNonce": 190160684,
-			"isDeleted": false,
-			"id": "HCza7MlB5tDegaCCWLFp3",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2400,
-			"y": 7300,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 300,
-			"height": 250,
-			"seed": 1820002580,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1696497462303,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					300,
-					250
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 86,
-			"versionNonce": 2003797804,
-			"isDeleted": false,
-			"id": "1aS9XSAE0NiOJuUzZ9Heh",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2400,
-			"y": 7500,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
-			"width": 500,
-			"height": 350,
-			"seed": 1405398444,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1696497556466,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					500,
-					-350
+					275,
+					500
 				]
 			]
 		},
 		{
 			"type": "image",
-			"version": 162,
-			"versionNonce": 214291604,
+			"version": 190,
+			"versionNonce": 2118928239,
 			"isDeleted": false,
 			"id": "DDH6kGVV",
 			"fillStyle": "hachure",
@@ -14945,18 +14183,18 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1312.2222222222222,
-			"y": 8181.111111111111,
+			"x": 1312.2495387344761,
+			"y": 8181.105588894487,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 379.99999999999994,
-			"height": 76.80851063829786,
+			"width": 379.9453669754922,
+			"height": 76.8195550715476,
 			"seed": 50656,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696498523829,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -14968,8 +14206,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "image",
-			"version": 258,
-			"versionNonce": 1741038100,
+			"version": 286,
+			"versionNonce": 286354177,
 			"isDeleted": false,
 			"id": "GLbfF2gW",
 			"fillStyle": "hachure",
@@ -14978,18 +14216,18 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1752.2222222222222,
-			"y": 8182.121749408985,
+			"x": 1752.2488198788906,
+			"y": 8182.11637251385,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 370.00000000000006,
-			"height": 74.7872340425532,
+			"width": 369.9468046866635,
+			"height": 74.79798783282267,
 			"seed": 52203,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696498523829,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -15001,8 +14239,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "image",
-			"version": 40,
-			"versionNonce": 882874004,
+			"version": 68,
+			"versionNonce": 1397719439,
 			"isDeleted": false,
 			"id": "gLByiDLL",
 			"fillStyle": "hachure",
@@ -15011,18 +14249,18 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2231.1759409327274,
-			"y": 7810.80991285733,
+			"x": 2231.139314616894,
+			"y": 7810.81444580927,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 554.7543859649146,
-			"height": 68.66666666666696,
+			"width": 554.8276385965812,
+			"height": 68.65760076278764,
 			"seed": 53680,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696498790769,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -15034,8 +14272,8 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 		},
 		{
 			"type": "image",
-			"version": 115,
-			"versionNonce": 1108525844,
+			"version": 1284,
+			"versionNonce": 1821270753,
 			"isDeleted": false,
 			"id": "NhBSRpe1",
 			"fillStyle": "hachure",
@@ -15043,54 +14281,1623 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"angle": 0,
-			"x": 2226.1202017293413,
-			"y": 7959.927967953932,
+			"angle": 3.141592653589793,
+			"x": 2232.445643915997,
+			"y": 7921.802414878368,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 445.6274470347154,
-			"height": 97.63747435030281,
+			"width": 334.7448971713183,
+			"height": 73.10520742821895,
 			"seed": 30057,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696499662519,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"status": "pending",
 			"fileId": "48f1cd96c90ae840af633acea3cbbd92ac096f97",
 			"scale": [
-				1,
-				1
+				-1,
+				-1
 			]
 		},
 		{
-			"type": "line",
-			"version": 297,
-			"versionNonce": 1028991532,
+			"type": "freedraw",
+			"version": 34,
+			"versionNonce": 874936239,
 			"isDeleted": false,
-			"id": "7fmi-nTBVCk56YhdxX6w9",
-			"fillStyle": "solid",
+			"id": "L5I5HsL1f2GSa7c7w_KFT",
+			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2400,
-			"y": 7330,
+			"x": 2848.4906870321843,
+			"y": 7591.999283463868,
+			"strokeColor": "#3E6F8D",
+			"backgroundColor": "transparent",
+			"width": 4.811869779117387,
+			"height": 1.5037093059736435,
+			"seed": 2126276173,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1696845999162,
+			"link": null,
+			"locked": false,
+			"customData": {
+				"strokeOptions": {
+					"highlighter": false,
+					"hasOutline": false,
+					"outlineWidth": 1,
+					"constantPressure": true,
+					"options": {
+						"smoothing": 0.4,
+						"thinning": -0.5,
+						"streamline": 0.4,
+						"easing": "linear",
+						"start": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						},
+						"end": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						}
+					}
+				}
+			},
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.804451167168736,
+					0
+				],
+				[
+					-3.6089023343379267,
+					0.300741861194183
+				],
+				[
+					-4.811869779117387,
+					1.5037093059736435
+				],
+				[
+					-4.811869779117387,
+					1.5037093059736435
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
+			"pressures": [
+				1,
+				1,
+				1,
+				1,
+				0
+			]
+		},
+		{
+			"type": "freedraw",
+			"version": 46,
+			"versionNonce": 1633771201,
+			"isDeleted": false,
+			"id": "Ld-BmuZYNxONNyaao5GGa",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2547.605311578636,
+			"y": 5550.601131634278,
+			"strokeColor": "#3E6F8D",
+			"backgroundColor": "transparent",
+			"width": 61.27593197554961,
+			"height": 42.75065021549926,
+			"seed": 125573453,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1696845999162,
+			"link": null,
+			"locked": true,
+			"customData": {
+				"strokeOptions": {
+					"highlighter": false,
+					"hasOutline": false,
+					"outlineWidth": 1,
+					"constantPressure": true,
+					"options": {
+						"smoothing": 0.4,
+						"thinning": -0.5,
+						"streamline": 0.4,
+						"easing": "linear",
+						"start": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						},
+						"end": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						}
+					}
+				}
+			},
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.425021673849642,
+					-4.987575858475793
+				],
+				[
+					1.425021673849642,
+					-9.975151716950677
+				],
+				[
+					0,
+					-15.675238412350154
+				],
+				[
+					-2.8500433477001934,
+					-20.662814270825038
+				],
+				[
+					-6.41259753232498,
+					-25.65039012929992
+				],
+				[
+					-11.400173390800319,
+					-29.212944313925618
+				],
+				[
+					-16.387749249275203,
+					-32.775498498550405
+				],
+				[
+					-22.087835944675135,
+					-35.6255418462506
+				],
+				[
+					-29.212944313925163,
+					-37.76307435702529
+				],
+				[
+					-35.625541846250144,
+					-39.188096030875386
+				],
+				[
+					-41.325628541650076,
+					-39.90060686779998
+				],
+				[
+					-46.31320440012496,
+					-39.90060686779998
+				],
+				[
+					-50.588269421674795,
+					-39.188096030875386
+				],
+				[
+					-53.43831276937499,
+					-38.47558519394988
+				],
+				[
+					-55.57584528014968,
+					-36.33805268317519
+				],
+				[
+					-55.57584528014968,
+					-34.913031009325096
+				],
+				[
+					-54.863334443225085,
+					-32.775498498550405
+				],
+				[
+					-44.88818272627486,
+					-25.65039012929992
+				],
+				[
+					-37.05056352010024,
+					-21.37532510775054
+				],
+				[
+					-28.500433477000115,
+					-16.387749249275657
+				],
+				[
+					-19.23779259697494,
+					-11.400173390799864
+				],
+				[
+					-10.687662553874816,
+					-6.41259753232498
+				],
+				[
+					-3.5625541846252418,
+					-2.1375325107756
+				],
+				[
+					1.425021673849642,
+					0.7125108369245936
+				],
+				[
+					4.987575858474884,
+					2.1375325107746903
+				],
+				[
+					5.700086695399932,
+					2.850043347699284
+				],
+				[
+					4.987575858474884,
+					2.850043347699284
+				],
+				[
+					2.137532510775145,
+					2.1375325107746903
+				],
+				[
+					-2.137532510775145,
+					0.7125108369245936
+				],
+				[
+					-7.837619206175077,
+					-1.4250216738500967
+				],
+				[
+					-14.250216738500058,
+					-3.5625541846256965
+				],
+				[
+					-21.375325107750086,
+					-5.700086695400387
+				],
+				[
+					-27.787922640075067,
+					-7.837619206175077
+				],
+				[
+					-34.20052017240005,
+					-8.55013004310058
+				],
+				[
+					-39.18809603087493,
+					-9.262640880025174
+				],
+				[
+					-42.038139378575124,
+					-9.262640880025174
+				],
+				[
+					-42.038139378575124,
+					-9.262640880025174
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
+			"pressures": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				0
+			]
+		},
+		{
+			"type": "freedraw",
+			"version": 36,
+			"versionNonce": 1727637967,
+			"isDeleted": false,
+			"id": "bTeBnjzhP1mRgH7zkqjnG",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2374.305444798837,
+			"y": 7031.353310198207,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 360,
-			"height": 220,
-			"seed": 1381710740,
+			"width": 12.432538040472991,
+			"height": 11.18928423642592,
+			"seed": 854419408,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1696845999162,
+			"link": null,
+			"locked": false,
+			"customData": {
+				"strokeOptions": {
+					"highlighter": false,
+					"hasOutline": false,
+					"outlineWidth": 1,
+					"constantPressure": true,
+					"options": {
+						"smoothing": 0.4,
+						"thinning": -0.5,
+						"streamline": 0.4,
+						"easing": "linear",
+						"start": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						},
+						"end": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						}
+					}
+				}
+			},
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.6216269020237633,
+					0
+				],
+				[
+					1.2432538040475265,
+					0
+				],
+				[
+					1.8648807060712898,
+					0
+				],
+				[
+					3.1081345101183615,
+					0
+				],
+				[
+					4.351388314165888,
+					0.621626902024218
+				],
+				[
+					4.9730152161891965,
+					0.621626902024218
+				],
+				[
+					6.216269020236723,
+					1.2432538040475265
+				],
+				[
+					6.837895922260486,
+					2.486507608095053
+				],
+				[
+					7.4595228242842495,
+					3.1081345101183615
+				],
+				[
+					8.081149726307558,
+					4.9730152161891965
+				],
+				[
+					8.081149726307558,
+					6.216269020236723
+				],
+				[
+					8.081149726307558,
+					7.4595228242842495
+				],
+				[
+					8.081149726307558,
+					8.702776628330867
+				],
+				[
+					8.081149726307558,
+					9.946030432378393
+				],
+				[
+					7.4595228242842495,
+					10.567657334402611
+				],
+				[
+					5.59464211821296,
+					11.18928423642592
+				],
+				[
+					4.351388314165888,
+					11.18928423642592
+				],
+				[
+					1.8648807060712898,
+					11.18928423642592
+				],
+				[
+					0,
+					11.18928423642592
+				],
+				[
+					-1.864880706070835,
+					11.18928423642592
+				],
+				[
+					-3.1081345101179068,
+					10.567657334402611
+				],
+				[
+					-3.72976141214167,
+					9.946030432378393
+				],
+				[
+					-4.351388314165433,
+					9.324403530355085
+				],
+				[
+					-4.351388314165433,
+					8.702776628330867
+				],
+				[
+					-4.351388314165433,
+					8.081149726307558
+				],
+				[
+					-3.1081345101179068,
+					8.081149726307558
+				],
+				[
+					-1.864880706070835,
+					8.081149726307558
+				],
+				[
+					-1.864880706070835,
+					8.081149726307558
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
+			"pressures": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				0
+			]
+		},
+		{
+			"type": "freedraw",
+			"version": 28,
+			"versionNonce": 1579802273,
+			"isDeleted": false,
+			"id": "-UjlUNwFVQKHqJDhSWx9I",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2389.8461173494284,
+			"y": 7033.839817806302,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 9.946030432378393,
+			"height": 13.675791844520973,
+			"seed": 831708112,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1696845999162,
+			"link": null,
+			"locked": false,
+			"customData": {
+				"strokeOptions": {
+					"highlighter": false,
+					"hasOutline": false,
+					"outlineWidth": 1,
+					"constantPressure": true,
+					"options": {
+						"smoothing": 0.4,
+						"thinning": -0.5,
+						"streamline": 0.4,
+						"easing": "linear",
+						"start": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						},
+						"end": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						}
+					}
+				}
+			},
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.864880706070835,
+					-0.621626902024218
+				],
+				[
+					-2.4865076080945983,
+					-0.621626902024218
+				],
+				[
+					-3.72976141214167,
+					0
+				],
+				[
+					-5.59464211821296,
+					0.6216269020233085
+				],
+				[
+					-6.8378959222600315,
+					2.4865076080941435
+				],
+				[
+					-8.702776628330867,
+					4.9730152161891965
+				],
+				[
+					-9.32440353035463,
+					6.8378959222600315
+				],
+				[
+					-9.32440353035463,
+					8.081149726307558
+				],
+				[
+					-9.32440353035463,
+					9.324403530354175
+				],
+				[
+					-9.32440353035463,
+					10.567657334401702
+				],
+				[
+					-8.081149726307103,
+					11.810911138449228
+				],
+				[
+					-7.459522824283795,
+					12.432538040472537
+				],
+				[
+					-5.59464211821296,
+					13.054164942496755
+				],
+				[
+					-4.351388314165433,
+					13.054164942496755
+				],
+				[
+					-3.1081345101179068,
+					13.054164942496755
+				],
+				[
+					-1.864880706070835,
+					13.054164942496755
+				],
+				[
+					-0.6216269020237633,
+					11.810911138449228
+				],
+				[
+					0,
+					10.567657334401702
+				],
+				[
+					0.6216269020237633,
+					9.324403530354175
+				],
+				[
+					0.6216269020237633,
+					9.324403530354175
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
+			"pressures": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				0
+			]
+		},
+		{
+			"type": "freedraw",
+			"version": 35,
+			"versionNonce": 1491179503,
+			"isDeleted": false,
+			"id": "_ZVqBA5pRnmqz9jMd0v6z",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2393.5758787615705,
+			"y": 7041.920967532609,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 6.216269020236268,
+			"height": 9.324403530354175,
+			"seed": 1433280464,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1696845999162,
+			"link": null,
+			"locked": false,
+			"customData": {
+				"strokeOptions": {
+					"highlighter": false,
+					"hasOutline": false,
+					"outlineWidth": 1,
+					"constantPressure": true,
+					"options": {
+						"smoothing": 0.4,
+						"thinning": -0.5,
+						"streamline": 0.4,
+						"easing": "linear",
+						"start": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						},
+						"end": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						}
+					}
+				}
+			},
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.2432538040470718,
+					-1.2432538040475265
+				],
+				[
+					1.864880706070835,
+					-1.2432538040475265
+				],
+				[
+					2.4865076080945983,
+					-1.2432538040475265
+				],
+				[
+					3.1081345101183615,
+					-1.2432538040475265
+				],
+				[
+					3.72976141214167,
+					-1.2432538040475265
+				],
+				[
+					3.72976141214167,
+					-0.621626902024218
+				],
+				[
+					4.351388314165433,
+					-0.621626902024218
+				],
+				[
+					4.351388314165433,
+					0
+				],
+				[
+					4.351388314165433,
+					0.6216269020233085
+				],
+				[
+					4.351388314165433,
+					1.243253804046617
+				],
+				[
+					4.351388314165433,
+					2.4865076080941435
+				],
+				[
+					3.1081345101183615,
+					3.108134510117452
+				],
+				[
+					2.4865076080945983,
+					3.72976141214167
+				],
+				[
+					1.864880706070835,
+					4.9730152161891965
+				],
+				[
+					0.6216269020233085,
+					5.594642118212505
+				],
+				[
+					0,
+					5.594642118212505
+				],
+				[
+					-0.6216269020237633,
+					6.2162690202358135
+				],
+				[
+					-0.6216269020237633,
+					6.8378959222600315
+				],
+				[
+					-0.6216269020237633,
+					7.45952282428334
+				],
+				[
+					0.6216269020233085,
+					7.45952282428334
+				],
+				[
+					1.2432538040470718,
+					7.45952282428334
+				],
+				[
+					2.4865076080945983,
+					7.45952282428334
+				],
+				[
+					3.1081345101183615,
+					7.45952282428334
+				],
+				[
+					4.351388314165433,
+					7.45952282428334
+				],
+				[
+					4.9730152161891965,
+					7.45952282428334
+				],
+				[
+					5.594642118212505,
+					8.081149726306649
+				],
+				[
+					5.594642118212505,
+					8.081149726306649
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
+			"pressures": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				0
+			]
+		},
+		{
+			"type": "freedraw",
+			"version": 27,
+			"versionNonce": 1368875649,
+			"isDeleted": false,
+			"id": "rX4-ZjIdCSI-H-HE_Lcky",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2949.310329170713,
+			"y": 7555.384788604144,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 11.810911138449228,
+			"height": 11.18928423642501,
+			"seed": 1584180016,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1696845999162,
+			"link": null,
+			"locked": false,
+			"customData": {
+				"strokeOptions": {
+					"highlighter": false,
+					"hasOutline": false,
+					"outlineWidth": 1,
+					"constantPressure": true,
+					"options": {
+						"smoothing": 0.4,
+						"thinning": -0.5,
+						"streamline": 0.4,
+						"easing": "linear",
+						"start": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						},
+						"end": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						}
+					}
+				}
+			},
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.6216269020233085,
+					0
+				],
+				[
+					0,
+					0.6216269020233085
+				],
+				[
+					1.2432538040475265,
+					0.6216269020233085
+				],
+				[
+					4.351388314165888,
+					3.108134510117452
+				],
+				[
+					4.9730152161891965,
+					4.3513883141649785
+				],
+				[
+					5.59464211821296,
+					4.973015216188287
+				],
+				[
+					6.216269020236723,
+					6.2162690202358135
+				],
+				[
+					6.216269020236723,
+					8.702776628330867
+				],
+				[
+					5.59464211821296,
+					9.946030432378393
+				],
+				[
+					1.8648807060712898,
+					11.18928423642501
+				],
+				[
+					0,
+					11.18928423642501
+				],
+				[
+					-1.864880706070835,
+					11.18928423642501
+				],
+				[
+					-3.1081345101179068,
+					11.18928423642501
+				],
+				[
+					-4.351388314165433,
+					10.567657334401702
+				],
+				[
+					-4.9730152161891965,
+					9.324403530354175
+				],
+				[
+					-5.594642118212505,
+					8.702776628330867
+				],
+				[
+					-5.594642118212505,
+					7.45952282428334
+				],
+				[
+					-5.594642118212505,
+					6.8378959222600315
+				],
+				[
+					-5.594642118212505,
+					6.8378959222600315
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
+			"pressures": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				0
+			]
+		},
+		{
+			"type": "freedraw",
+			"version": 24,
+			"versionNonce": 1072087567,
+			"isDeleted": false,
+			"id": "FzjmXnZzIzn2OJG42pM9z",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2963.6077479172573,
+			"y": 7563.465938330451,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 10.567657334402156,
+			"height": 8.081149726307558,
+			"seed": 1073152816,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1696845999162,
+			"link": null,
+			"locked": false,
+			"customData": {
+				"strokeOptions": {
+					"highlighter": false,
+					"hasOutline": false,
+					"outlineWidth": 1,
+					"constantPressure": true,
+					"options": {
+						"smoothing": 0.4,
+						"thinning": -0.5,
+						"streamline": 0.4,
+						"easing": "linear",
+						"start": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						},
+						"end": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						}
+					}
+				}
+			},
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-2.4865076080945983,
+					-0.6216269020233085
+				],
+				[
+					-4.351388314165888,
+					-0.6216269020233085
+				],
+				[
+					-6.216269020236723,
+					-0.6216269020233085
+				],
+				[
+					-7.459522824283795,
+					-0.6216269020233085
+				],
+				[
+					-8.702776628331321,
+					-0.6216269020233085
+				],
+				[
+					-9.324403530355085,
+					-0.6216269020233085
+				],
+				[
+					-10.567657334402156,
+					0.621626902024218
+				],
+				[
+					-10.567657334402156,
+					1.8648807060717445
+				],
+				[
+					-10.567657334402156,
+					3.1081345101183615
+				],
+				[
+					-9.946030432378393,
+					4.351388314165888
+				],
+				[
+					-9.324403530355085,
+					5.5946421182134145
+				],
+				[
+					-4.9730152161891965,
+					7.4595228242842495
+				],
+				[
+					-3.1081345101183615,
+					7.4595228242842495
+				],
+				[
+					-2.4865076080945983,
+					7.4595228242842495
+				],
+				[
+					-1.2432538040475265,
+					6.8378959222600315
+				],
+				[
+					-1.2432538040475265,
+					6.8378959222600315
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
+			"pressures": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				0
+			]
+		},
+		{
+			"type": "freedraw",
+			"version": 17,
+			"versionNonce": 677997153,
+			"isDeleted": false,
+			"id": "hHLD0Czfyyjvw0HvNSKyz",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2967.337509329399,
+			"y": 7569.682207350687,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 2.4865076080941435,
+			"height": 6.216269020236723,
+			"seed": 326389552,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1696845999162,
+			"link": null,
+			"locked": false,
+			"customData": {
+				"strokeOptions": {
+					"highlighter": false,
+					"hasOutline": false,
+					"outlineWidth": 1,
+					"constantPressure": true,
+					"options": {
+						"smoothing": 0.4,
+						"thinning": -0.5,
+						"streamline": 0.4,
+						"easing": "linear",
+						"start": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						},
+						"end": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						}
+					}
+				}
+			},
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.6216269020233085,
+					0
+				],
+				[
+					-0.6216269020233085,
+					1.2432538040475265
+				],
+				[
+					-1.2432538040470718,
+					1.864880706070835
+				],
+				[
+					-1.2432538040470718,
+					3.1081345101183615
+				],
+				[
+					-1.864880706070835,
+					3.72976141214167
+				],
+				[
+					-2.4865076080941435,
+					4.9730152161891965
+				],
+				[
+					-2.4865076080941435,
+					5.5946421182134145
+				],
+				[
+					-2.4865076080941435,
+					6.216269020236723
+				],
+				[
+					-2.4865076080941435,
+					6.216269020236723
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
+			"pressures": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				0
+			]
+		},
+		{
+			"type": "freedraw",
+			"version": 9,
+			"versionNonce": 2097260591,
+			"isDeleted": false,
+			"id": "ifAbxXww6UNNuqDmYnG-K",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2463.3225032503547,
+			"y": 7373.952982184715,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0.0001,
+			"height": 0.0001,
+			"seed": 1473130960,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1696845999162,
+			"link": null,
+			"locked": false,
+			"customData": {
+				"strokeOptions": {
+					"highlighter": false,
+					"hasOutline": false,
+					"outlineWidth": 1,
+					"constantPressure": true,
+					"options": {
+						"smoothing": 0.4,
+						"thinning": -0.5,
+						"streamline": 0.4,
+						"easing": "linear",
+						"start": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						},
+						"end": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						}
+					}
+				}
+			},
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
+			"pressures": [
+				1,
+				0
+			]
+		},
+		{
+			"type": "freedraw",
+			"version": 9,
+			"versionNonce": 191854145,
+			"isDeleted": false,
+			"id": "8plmVIv78HAwArXvlx8t_",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2463.3225032503547,
+			"y": 7373.31639493434,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0.0001,
+			"height": 0.0001,
+			"seed": 1384629200,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1696845999162,
+			"link": null,
+			"locked": false,
+			"customData": {
+				"strokeOptions": {
+					"highlighter": false,
+					"hasOutline": false,
+					"outlineWidth": 1,
+					"constantPressure": true,
+					"options": {
+						"smoothing": 0.4,
+						"thinning": -0.5,
+						"streamline": 0.4,
+						"easing": "linear",
+						"start": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						},
+						"end": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						}
+					}
+				}
+			},
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
+			"pressures": [
+				1,
+				0
+			]
+		},
+		{
+			"type": "freedraw",
+			"version": 9,
+			"versionNonce": 1041943119,
+			"isDeleted": false,
+			"id": "UcDPQL0E-5J2QWudNo9pE",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2462.6859159999785,
+			"y": 7371.406633183212,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0.0001,
+			"height": 0.0001,
+			"seed": 1477613008,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1696845999162,
+			"link": null,
+			"locked": false,
+			"customData": {
+				"strokeOptions": {
+					"highlighter": false,
+					"hasOutline": false,
+					"outlineWidth": 1,
+					"constantPressure": true,
+					"options": {
+						"smoothing": 0.4,
+						"thinning": -0.5,
+						"streamline": 0.4,
+						"easing": "linear",
+						"start": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						},
+						"end": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						}
+					}
+				}
+			},
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
+			"pressures": [
+				1,
+				0
+			]
+		},
+		{
+			"type": "freedraw",
+			"version": 11,
+			"versionNonce": 1569261089,
+			"isDeleted": false,
+			"id": "tLDKpOjAucj9ScqPQ4njE",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2459.502979748098,
+			"y": 7365.677347929827,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0.6365872503761238,
+			"height": 0,
+			"seed": 1391896528,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1696845999162,
+			"link": null,
+			"locked": false,
+			"customData": {
+				"strokeOptions": {
+					"highlighter": false,
+					"hasOutline": false,
+					"outlineWidth": 1,
+					"constantPressure": true,
+					"options": {
+						"smoothing": 0.4,
+						"thinning": -0.5,
+						"streamline": 0.4,
+						"easing": "linear",
+						"start": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						},
+						"end": {
+							"taper": 5,
+							"cap": false,
+							"easing": "linear"
+						}
+					}
+				}
+			},
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.6365872503761238,
+					0
+				],
+				[
+					0,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
+			"pressures": [
+				1,
+				1,
+				0
+			]
+		},
+		{
+			"type": "line",
+			"version": 1587,
+			"versionNonce": 1611311215,
+			"isDeleted": false,
+			"id": "MK1-_AWtbyhdP-oNZJ5fH",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2400,
+			"y": 7275,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 275,
+			"height": 275,
+			"seed": 1813226288,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696499749850,
+			"updated": 1696845999162,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -15104,8 +15911,324 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 					0
 				],
 				[
-					360,
-					220
+					275,
+					275
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 342,
+			"versionNonce": 278512271,
+			"isDeleted": false,
+			"id": "DqMi2wREIeNDtZlO4e2Z3",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2450,
+			"y": 7050,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 450,
+			"height": 450,
+			"seed": 1144168240,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1696845999162,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					87.67034156128238,
+					362.69568357510434
+				],
+				[
+					450,
+					450
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 751,
+			"versionNonce": 818196961,
+			"isDeleted": false,
+			"id": "zZ-9HT5FXt98tQCE_OtLo",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2525,
+			"y": 7050,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 375,
+			"height": 400,
+			"seed": 1760075056,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1696845999162,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					65.98745869535969,
+					340.2045238066494
+				],
+				[
+					375,
+					400
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 602,
+			"versionNonce": 813734063,
+			"isDeleted": false,
+			"id": "nV05aPVG9vGsmGKI8c2Y_",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2332.453379368803,
+			"y": 7050,
+			"strokeColor": "#69db7c",
+			"backgroundColor": "transparent",
+			"width": 275,
+			"height": 500,
+			"seed": 579781584,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1696845999162,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					275,
+					500
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 320,
+			"versionNonce": 595605857,
+			"isDeleted": true,
+			"id": "MLUrNw81e0BPNTDeL2Ptn",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2400,
+			"y": 7550,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 500,
+			"height": 500,
+			"seed": 383946704,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1696846002497,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					500,
+					-500
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 131,
+			"versionNonce": 956320591,
+			"isDeleted": true,
+			"id": "ilCdm37M-zpoqEwQs2Sbu",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2585,
+			"y": 7385,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 3.0196806273047514,
+			"height": 165,
+			"seed": 1403910096,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1696846003383,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					3.0196806273047514,
+					165
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 288,
+			"versionNonce": 2010827009,
+			"isDeleted": true,
+			"id": "x-y7rAFf6P4WToNS5Jhxh",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2537.6427027031937,
+			"y": 7412.459788483624,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 137.54021151637608,
+			"seed": 1437394896,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1696846004094,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					137.54021151637608
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 349,
+			"versionNonce": 132757935,
+			"isDeleted": true,
+			"id": "cjB0IBxd-NXKcz__rRgxN",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2515.0142185705545,
+			"y": 7381.40643947434,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0.014218570554476173,
+			"height": 168.59356052566,
+			"seed": 241748272,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1696846004698,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.014218570554476173,
+					168.59356052566
 				]
 			]
 		}
@@ -15113,32 +16236,53 @@ a04f561de3f99ba4583898f74fa9fd48df273b53: [[micro2-pt1-slides.pdf#page=42]]
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1971c2",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
-		"currentItemFillStyle": "solid",
+		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 0.5,
 		"currentItemStrokeStyle": "solid",
-		"currentItemRoughness": 1,
+		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
 		"currentItemFontSize": 20,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": null,
-		"scrollX": -2096.2676535335036,
-		"scrollY": -6903.97039787728,
+		"currentItemEndArrowhead": "bar",
+		"scrollX": -2335.8255270180953,
+		"scrollY": -6846.694632197146,
 		"zoom": {
-			"value": 1.0097661918088832
+			"value": 1.900000000000001
 		},
 		"currentItemRoundness": "round",
-		"gridSize": 10,
+		"gridSize": 5,
 		"gridColor": {
 			"Bold": "#C9C9C9FF",
 			"Regular": "#EDEDEDFF",
 			"MajorGridFrequency": 5
 		},
-		"currentStrokeOptions": null,
-		"previousGridSize": 10,
+		"currentStrokeOptions": {
+			"highlighter": false,
+			"hasOutline": false,
+			"outlineWidth": 1,
+			"constantPressure": true,
+			"options": {
+				"smoothing": 0.4,
+				"thinning": -0.5,
+				"streamline": 0.4,
+				"easing": "linear",
+				"start": {
+					"taper": 5,
+					"cap": false,
+					"easing": "linear"
+				},
+				"end": {
+					"taper": 5,
+					"cap": false,
+					"easing": "linear"
+				}
+			}
+		},
+		"previousGridSize": 5,
 		"frameRendering": {
 			"enabled": true,
 			"clip": true,
