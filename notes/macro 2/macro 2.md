@@ -1,10 +1,14 @@
 %% Begin Waypoint %%
-- **[[consumption and investment]]**
-- **[[endogenous growth]]**
-- **[[exogenous growth]]**
-- **[[monetary policy]]**
+- [[barro-gordon.excalidraw]]
+- [[exogenous-growth.excalidraw]]
 - **pdfs**
 
+- **[[poole model]]**
+- **reading**
+	- [[augmented-solow-swan.excalidraw]]
+- **review questions**
+	- [[poole review questions]]
+- **seminar questions**
 
 %% End Waypoint %%
  

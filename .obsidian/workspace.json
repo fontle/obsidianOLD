@@ -4,26 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "077cb55a8ff78e3e",
+        "id": "d3079605b2f233b0",
         "type": "tabs",
         "children": [
           {
-            "id": "97d15d0bca07fddc",
+            "id": "2a126847bad8cf96",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "notes/micro 2/consumer-theory.excalidraw.md"
+                "file": "notes/macro 2/poole model/poole model.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "2ff745da9e3ef164",
+            "id": "5e0087083b5677c3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "notes/macro 2/monetary policy/barrow gordon model/barro-gordon.excalidraw.md"
+                "file": "notes/macro 2/reading/augmented-solow-swan.excalidraw.md"
               }
             }
           }
@@ -77,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/macro 2/monetary policy/barrow gordon model/barro-gordon.excalidraw.md",
+                "file": "notes/macro 2/reading/augmented-solow-swan.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/macro 2/monetary policy/barrow gordon model/barro-gordon.excalidraw.md",
+                "file": "notes/macro 2/reading/augmented-solow-swan.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/macro 2/monetary policy/barrow gordon model/barro-gordon.excalidraw.md",
+                "file": "notes/macro 2/reading/augmented-solow-swan.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,59 +214,60 @@
       "omnisearch:Omnisearch": false,
       "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ff745da9e3ef164",
+  "active": "5e0087083b5677c3",
   "lastOpenFiles": [
-    "notes/macro 2/monetary policy/poole model/poole model.md",
-    "notes/macro 2/monetary policy/monetary policy.md",
-    "notes/macro 2/pdfs",
-    "notes/macro 2/monetary policy/poole model/money supply targeting.md",
-    "notes/macro 2/monetary policy/poole model/interest rate targeting.md",
-    "notes/macro 2/monetary policy/quantity theory of money.md",
-    "notes/macro 2/pdfs/poole-review-question2.pdf",
-    "notes/macro 2/pdfs/pbcs-cbi-slides.pdf",
-    "notes/macro 2/monetary policy/poole model/poole review questions.md",
-    "notes/macro 2/pdfs/central-bank-independence.pdf",
-    "notes/macro 2/pdfs/barro-gordon-extension-slides.pdf",
-    "notes/macro 2/pdfs/barro-gordon-slides.pdf",
-    "Untitled.md",
-    "notes/micro 2/consumer-theory.excalidraw.md",
-    "notes/micro 2/textbook.pdf",
-    "Excalidraw/Drawing 2023-10-05 13.09.43.excalidraw.md",
-    "notes/macro 2/monetary policy/barrow gordon model/barrow gordon model.md",
-    "notes/micro 2/micro 2.md",
-    "notes/macro 2/monetary policy/barrow gordon model/barro-gordon.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
-    "Excalidraw/Scripts/Downloaded/Connect elements.md",
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
-    "notes/macro 2/exogenous growth/solow-swan-evidence.pdf",
-    "notes/macro 2/exogenous growth/solow-swan-maths.pdf",
-    "notes/macro 2/exogenous growth/solow-swan-intro.pdf",
-    "notes/macro 2/monetary policy/barrow gordon model/mathematics of barrow-gordon.md",
-    "notes/micro 2/producer-theory.excalidraw.md",
-    "notes/micro 2/problem sets/problem set 1.md",
-    "notes/finance/corporate-governance.md",
-    "notes/finance/overview of corporate governance/corporate governance.md",
-    "notes/finance/agency problems/agency problems.md",
-    "notes/finance/financial analysis/financial analysis.md",
-    "notes/finance/overview of corporate governance/overview of corporate governance.md",
-    "notes/macro 2/exogenous growth/exogenous growth.md",
-    "notes/macro 2/macro 2.md",
-    "notes/micro 2/producer theory/producer theory.md",
-    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
-    "attachments/interest rate targeting-2.png",
-    "attachments/interest rate targeting-1.png",
+    "notes/macro 2/reading/augmented-solow-swan.excalidraw.md",
+    "notes/macro 2/poole model/poole model.md",
+    "notes/macro 2/exogenous-growth.excalidraw.md",
+    "notes/macro 2/reading",
+    "notes/macro 2/seminar questions",
+    "notes/macro 2/review questions/poole review questions.md",
+    "notes/macro 2/review questions/Clarification for review questions week 1-1.pdf.md",
+    "notes/macro 2/poole model/money supply targeting.md",
+    "notes/macro 2/poole model/interest rate targeting.md",
+    "notes/macro 2/poole model/poole seminar questions.md",
     "attachments/money supply targeting-2.png",
+    "attachments/Pasted Image 20231010104655_675.png",
+    "attachments/interest rate targeting-2.png",
+    "notes/macro 2/macro 2.md",
+    "notes/macro 2/review questions",
+    "notes/notes.md",
+    "Excalidraw/Drawing 2023-10-05 13.09.43.excalidraw.md",
+    "Untitled.md",
+    "notes/macro 2/pdfs/romer-weil-1992-slides.pdf",
+    "notes/macro 2/pdfs/romer-weil-1992.pdf",
+    "notes/macro 2/pdfs/poole-review-question2.pdf",
+    "notes/macro 2/pdfs/solow-swan-maths.pdf",
+    "notes/macro 2/pdfs/solow-swan-evidence.pdf",
+    "notes/macro 2/pdfs/solow-swan-intro.pdf",
+    "notes/macro 2/monetary policy/monetary policy.md",
+    "notes/macro 2/monetary policy/barrow gordon model/barrow gordon model.md",
+    "notes/macro 2/consumption and investment/consumption and investment.md",
+    "notes/macro 2/exogenous growth/Untitled.md",
+    "notes/macro 2/exogenous growth/exogenous growth.md",
+    "Untitled 3.md",
+    "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
+    "Excalidraw/Scripts/Downloaded/Concatenate lines.md",
+    "notes/macro 2/barro-gordon.excalidraw.md",
+    "Untitled 2.md",
+    "notes/macro 2/pdfs/barro-gordon-extension-slides.pdf",
+    "notes/macro 2/endogenous growth/endogenous growth.md",
+    "Excalidraw/Scripts/Downloaded/Uniform size.svg",
+    "Excalidraw/Scripts/Downloaded/Uniform size.md",
+    "Untitled 1.md",
+    "notes/micro 2/consumer-theory.excalidraw.md",
+    "notes/macro 2/monetary policy/quantity theory of money.md",
+    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
+    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
+    "attachments/interest rate targeting-1.png",
     "attachments/money supply targeting-1.png",
     "notes/finance/Overview of Corporate Finance/Untitled.canvas",
-    "Attachments/Macroeconomics Resit 1 - Spring Resit-2.png",
-    "Attachments/Macroeconomics Resit 1 - Spring Resit-1.png",
-    "Attachments/Summer Exam 2021-1.png",
     "Untitled.canvas",
     "Economics/Year 1/Hist1/British Decline in 19th Century.canvas",
     "Economics/Year 1/Macro1/Untitled.canvas",

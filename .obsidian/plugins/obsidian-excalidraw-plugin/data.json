@@ -29,8 +29,8 @@
   "defaultPenMode": "never",
   "allowPinchZoom": false,
   "allowWheelZoom": false,
-  "zoomToFitOnOpen": true,
-  "zoomToFitOnResize": true,
+  "zoomToFitOnOpen": false,
+  "zoomToFitOnResize": false,
   "zoomToFitMaxLevel": 2,
   "linkPrefix": "📍",
   "urlPrefix": "🌐",
@@ -50,7 +50,7 @@
   "iframelyAllowed": true,
   "pngExportScale": 1,
   "exportWithTheme": true,
-  "exportWithBackground": false,
+  "exportWithBackground": true,
   "exportPaddingSVG": 10,
   "keepInSync": false,
   "autoexportSVG": false,
@@ -63,7 +63,7 @@
   "experimentalFileType": false,
   "experimentalFileTag": "✏️",
   "experimentalLivePreview": true,
-  "experimentalEnableFourthFont": false,
+  "experimentalEnableFourthFont": true,
   "experimantalFourthFont": "Virgil",
   "fieldSuggester": true,
   "compatibilityMode": false,
@@ -72,7 +72,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.20",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.23",
     "libraryItems": [
       {
         "status": "unpublished",
@@ -1731,8 +1731,8 @@
       "Remember last padding?": false
     }
   },
-  "defaultTrayMode": true,
-  "previousRelease": "1.9.20",
+  "defaultTrayMode": false,
+  "previousRelease": "1.9.23",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js",
@@ -2056,7 +2056,7 @@
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfGapSize": 10,
-  "pdfLockAfterImport": true,
-  "pdfNumColumns": 1,
+  "pdfLockAfterImport": false,
+  "pdfNumColumns": 2,
   "pdfImportScale": 0.4
 }

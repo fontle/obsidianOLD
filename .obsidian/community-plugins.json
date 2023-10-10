@@ -19,7 +19,6 @@
   "tag-wrangler",
   "obsidian-zotero-desktop-connector",
   "obsidian-hider",
-  "oz-image-plugin",
   "dataview",
   "better-word-count",
   "obsidian-functionplot",
@@ -29,5 +28,6 @@
   "obsidian-enhancing-export",
   "text-snippets-obsidian",
   "mermaid-tools",
-  "obsidian-extract-pdf-highlights"
+  "obsidian-extract-pdf-highlights",
+  "oz-image-plugin"
 ]
