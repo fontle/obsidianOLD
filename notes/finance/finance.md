@@ -1,4 +1,7 @@
 %% Begin Waypoint %%
-- [[corporate-governance]]
+- [[agency-problems.excalidraw]]
+- [[corporate-governance.excalidraw]]
+- **pdfs**
+
 
 %% End Waypoint %%

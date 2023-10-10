@@ -6,60 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:notes/alternative  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "path:notes/finance  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "path:\"notes/macro 2\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "path:\"notes/micro 2\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
-      }
-    },
-    {
-      "query": "path:notes/econometrics  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084269
-      }
-    },
-    {
-      "query": "path:notes/industry  ",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.239583333333333,
-  "repelStrength": 7.8125,
-  "linkStrength": 0.671875,
-  "linkDistance": 84,
-  "scale": 0.3597425884590134,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.3597425884590138,
   "close": true
 }
