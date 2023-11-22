@@ -4,15 +4,30 @@
 Anna's preferences are given by, 
 
 $$u(x_{1},x_{2})=x_{1}^{\frac{1}{3}}x_{2}^{\frac{2}{3}} \qquad m = 12,\ p_{1}= 2, \ p_{2}= 1$$
-
+- - -
 **a.** The budget constraint is the combination of all the bundles such that Anna spends her entire endowment, 
 
 $$ 2 x_1 + 1 x_2 = 12$$
-
+Rearrange for intercept and slope: 
+$$x_{2}=12-2x_1$$
+Therefore, the slope of the budget constraint is $-2$
+- - -
 **b.** The marginal utilities are given by the partial derivatives of utility with respect to each good:
 
-$$\frac{\partial U}{\partial x_{1}} = \frac{x_{2}^{\frac{2}{3}}}{3x_{1}^{\frac{2}{3}}} \qquad\qquad \frac{\partial U}{\partial x_{2}} = \frac{2x_{1}^{\frac{1}{3}}}{3x_{2}^{\frac{1}{3}}}$$
+$$\frac{\partial U}{\partial x_{1}} = \frac{1}{3} \left(\frac{x_{2}}{x_{1}}\right)^{\frac{2}{3}}\qquad\qquad 
 
+\frac{\partial U}{\partial x_{2}} = \frac{2}{3}\left(\frac{x_{1}}{x_{2}}\right)^{\frac{1}{3}}$$
+
+The marginal rate of substitution is given by $\frac{-MU_{1}}{MU_{2}}$ therefore:
+$$
+\begin{align*}
+\text{MRS} = \frac{-MU_{1}}{MU_{2}} &= \frac{-1}{3} \left(\frac{x_{2}}{x_{1}}\right)^{\frac{2}{3}} \div\frac{2}{3}\left(\frac{x_{1}}{x_{2}}\right)^{\frac{1}{3}} \\\\
+&= \frac{-1}{3} \left(\frac{x_{2}}{x_{1}}\right)^{\frac{2}{3}} \times\frac{3}{2}\left(\frac{x_{2}}{x_{1}}\right)^{\frac{1}{3}}\\\\
+&= \frac{-x_{2}}{2x_{1}}
+\end{align*} 
+
+$$
+- - -
 **c.** The optimal quantities can be obtained through the Lagrangian technique, however the standard solution to the Cobb-Douglas function is: 
 
 $$x_1^{*}=\left(\frac{a}{a+b}\right)\times \frac{m}{p_{1}}\quad \qquad 
@@ -20,9 +35,16 @@ x_2^{*}=\left(\frac{b}{a+b}\right)\times \frac{m}{p_{2}}
 $$ 
 $$x_{1}^{*}=\left(\frac{\frac{1}{3}}{\frac{1}{3}+\frac{2}{3}}\right)\times \frac{12}{2}=2 \qquad x_{2}^{*}=\left(\frac{\frac{2}{3}}{\frac{1}{3}+\frac{2}{3}}\right)\times \frac{12}{1}=8$$
 Therefore the optimal bundle is $u(2,8)=5.0396842$.
+- - -
+**d.** Changing the price of good 1 from $2$ to $1$ would change the marginal rate of transformation to 1, since both prices are the same, the ratio of good 1 to good 2 is given by $\frac{1}{3}$ and $\frac{2}{3}$; therefore,
+$$
+x_{1}= 12 \times \frac{1}{3}=4  \qquad x_{2}=12 \times \frac{2}{3}=8
+$$
+Using the Slutzky Equation to decompose income and substitution effects:
 
-**d.** Ceteris paribus, a change in the price of good 1 to half of its original price would double the optimal quantity of good 1: therefore the optimal bundle would be $u(4,8)=6.349604208$.
 
+
+- - -
 **e**. The compensating variation is the amount of money one would have to give (**take**) a consumer to offset completely the harm (**benefit**) from a price increase (**decrease**). The formula for the compensating variation $(CV)$ is, 
 $$CV = m- e(\text{new prices},\ \text{old utility)}$$
 Where function $e(p_{1},\ p_{2},\ u)$ is the expenditure function of Anna's preferences. Alternatively, the compensating variation is given by 

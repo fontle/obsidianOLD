@@ -4,35 +4,90 @@
     "type": "split",
     "children": [
       {
-        "id": "3f25c2807c0d2464",
-        "type": "tabs",
+        "id": "f71a56df812bd62d",
+        "type": "split",
         "children": [
           {
-            "id": "496f0da628f37a06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "year2/finance/seminars/seminar-1/seminar 1.md",
-                "mode": "source",
-                "source": false
+            "id": "7c8364aab0095ff5",
+            "type": "tabs",
+            "dimension": 81.48148148148148,
+            "children": [
+              {
+                "id": "72dd55fe03fbe14e",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "year2/macro 2/monetarism.excalidraw.md"
+                  }
+                }
+              },
+              {
+                "id": "b69499cb7469eb8e",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "year2/macro 2/new-classical.excalidraw.md"
+                  }
+                }
+              },
+              {
+                "id": "6859d17c5bb8fbb1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Untitled.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3a4a74eb77c02cae",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "year2/macro 2/rbc.excalidraw.md"
+                  }
+                }
+              },
+              {
+                "id": "daf2163a85abdbf2",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "year2/finance/pdfs/capital-structure.excalidraw.md"
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 4
           },
           {
-            "id": "533e2616663dd9a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "year2/micro 2/problem sets/problem set 1.md",
-                "mode": "source",
-                "source": false
+            "id": "3f24877417ac3e31",
+            "type": "tabs",
+            "dimension": 18.51851851851852,
+            "children": [
+              {
+                "id": "bbbe32ca7f393847",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Untitled.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -81,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "year2/micro 2/problem sets/problem set 1.md",
+                "file": "year2/finance/pdfs/capital-structure.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "year2/micro 2/problem sets/problem set 1.md",
+                "file": "year2/finance/pdfs/capital-structure.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "year2/micro 2/problem sets/problem set 1.md",
+                "file": "year2/finance/pdfs/capital-structure.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,61 +276,61 @@
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
-      "omnisearch:Omnisearch": false,
       "workspaces:Manage workspace layouts": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "533e2616663dd9a8",
+  "active": "daf2163a85abdbf2",
   "lastOpenFiles": [
-    "year2/finance/seminars/seminar-1/seminar 1.md",
-    "year2/finance/seminars/seminar-1/seminar-1-original.pdf",
-    "year2/finance/finance.md",
-    "attachments/seminar 1-2.png",
-    "attachments/seminar 1-1.png",
-    "year2/finance/corporate-governance.excalidraw.md",
-    "year2/finance/agency-problems.excalidraw.md",
-    "year2/econometrics/econometrics.md",
-    "year2/notes.md",
-    "year2/micro 2/micro 2.md",
-    "year2/alternative/alternative.md",
-    "year2/macro 2/macro 2.md",
-    "year2/finance/pdfs/agency-problems-slides.pdf",
-    "year2/finance/seminars/seminar 1.md",
-    "econ-env/seminar 1-2.cfg",
-    "econ-env/lib/python3.11/site-packages",
-    "econ-env/bin/python3.11",
-    "econ-env/bin/python3",
-    "econ-env/bin/python",
-    "econ-env/include/python3.11",
-    "econ-env/lib/python3.11",
-    "econ-env/seminar 1-1.cfg",
     "Untitled.md",
-    "Untitled 2.md",
-    "year2/micro 2/consumer-theory.excalidraw.md",
-    "Untitled 1.md",
-    "year2/macro 2/review questions/poole review questions.md",
-    "year2/macro 2/poole model/poole model.md",
+    "year2/finance/pdfs/capital-structure.excalidraw.md",
+    "year2/finance/pdfs/capital-structure-slides.pdf",
+    "year2/macro 2/rbc.excalidraw.md",
+    "year2/macro 2/monetarism.excalidraw.md",
+    "year2/macro 2/new-classical.excalidraw.md",
+    "year2/macro 2/pdfs/new-classical-slides.pdf",
+    "year2/macro 2/macro 2.md",
+    "year2/micro 2/pdfs/lecture-notes.pdf",
+    "year2/finance/finance.md",
+    "year2/finance/financial-statement-analysis.excalidraw.md",
     "year2/macro 2/barro-gordon.excalidraw.md",
-    "year2/macro 2/exogenous-growth.excalidraw.md",
-    "year2/micro 2/problem sets/problem set 1.md",
+    "year2/macro 2/consumption.excalidraw.md",
+    "year2/macro 2/investment.excalidraw.md",
+    "year2/macro 2/Drawing 2023-11-14 10.14.09.excalidraw.md",
+    "year2/macro 2/pdfs/monetarism-slides.pdf",
+    "year2/finance/Drawing 2023-11-08 09.10.40.excalidraw.md",
+    "year2/micro 2/problem sets/Problem Set 3/main.pdf",
+    "year2/micro 2/problem sets/Problem Set 3/main.auxlock",
+    "year2/micro 2/problem sets/Problem Set 3/imgs/uoy-logo.png",
+    "year2/micro 2/problem sets/Problem Set 3/imgs",
+    "year2/micro 2/problem sets/Problem Set 3/main.tex",
+    "year2/micro 2/problem sets/Problem Set 3",
+    "year2/finance/pdfs/risk-analysis-slides.pdf",
+    "year2/micro 2/pdfs/Problem Set 3.md",
     "year2/micro 2/producer-theory.excalidraw.md",
-    "year2/industry/industry.md",
-    "year2/macro 2/reading/augmented-solow-swan.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Concatenate lines.md",
-    "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
-    "Excalidraw/Scripts/Downloaded/Uniform size.md",
-    "Excalidraw/Scripts/Downloaded/Uniform size.svg",
-    "notes/macro 2/monetary policy/barrow gordon model/barro-gordon.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
-    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
-    "attachments/interest rate targeting-2.png",
-    "attachments/interest rate targeting-1.png",
-    "attachments/money supply targeting-2.png",
+    "year2/micro 2/micro 2.md",
+    "year2/micro 2/problem sets/problem set 2.md",
+    "Untitled 5.md",
+    "Excalidraw/Scripts/Downloaded/Connect elements.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "year2/macro 2/poole model/poole model.md",
+    "year2/macro 2/exogenous-growth.excalidraw.md",
+    "attachments/Pasted Image 20231018103109_372.png",
+    "year2/finance/Untitled.md",
+    "attachments/Pasted Image 20231018103028_827.png",
+    "attachments/Pasted Image 20231018103028_803.png",
+    "attachments/Untitled-2.png",
+    "attachments/Untitled-1.png",
+    "attachments/Pasted Image 20231018100728_825.png",
+    "Untitled 1.md",
+    "attachments/Pasted Image 20231018095427_623.png",
+    "attachments/Pasted Image 20231018094023_588.png",
+    "attachments/Pasted Image 20231018093722_578.png",
     "notes/finance/Overview of Corporate Finance/Untitled.canvas",
     "Untitled.canvas",
     "Economics/Year 1/Hist1/British Decline in 19th Century.canvas",

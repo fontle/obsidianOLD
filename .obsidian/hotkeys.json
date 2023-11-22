@@ -16,14 +16,6 @@
       "key": "\\"
     }
   ],
-  "omnisearch:show-modal-infile": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "F"
-    }
-  ],
   "editor:open-search": [],
   "global-search:open": [],
   "omnisearch:show-modal": [
@@ -42,5 +34,6 @@
       ],
       "key": "L"
     }
-  ]
+  ],
+  "graph:open": []
 }
