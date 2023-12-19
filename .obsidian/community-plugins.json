@@ -30,5 +30,7 @@
   "mermaid-tools",
   "obsidian-extract-pdf-highlights",
   "oz-image-plugin",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-toggle-list",
+  "obsidian-tasks-plugin"
 ]

@@ -1,8 +1,8 @@
 {
   "accentColor": "#cabdf4",
-  "cssTheme": "Ukiyo",
+  "cssTheme": "Sanctum",
   "theme": "moonstone",
-  "textFontFamily": "",
+  "textFontFamily": "C059,D050000L,CaskaydiaCove Nerd Font",
   "nativeMenus": false,
   "enabledCssSnippets": [
     "big-math",
@@ -12,7 +12,7 @@
   "baseFontSizeAction": false,
   "baseFontSize": 16,
   "showViewHeader": false,
-  "interfaceFontFamily": "",
-  "monospaceFontFamily": "",
+  "interfaceFontFamily": "Cantarell",
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
   "translucency": false
 }

@@ -8,6 +8,8 @@ tags: [excalidraw]
 
 
 # Text Elements
+OG PC curve ^dewMyaAZ
+
 
 # Embedded files
 3aa8e6e3e6d60c983e9066715eb55b3002bb8c43: $$k(i)$$
@@ -1131,33 +1133,42 @@ f41d3132dfe47393be092ff1b09afb830809dff6: [[monetarism-slides.pdf#page=15]]
 			]
 		},
 		{
-			"id": "lzy7_7U2M9UoNama7rl9v",
 			"type": "arrow",
-			"x": -466.4204796101194,
-			"y": -2788.402545306959,
-			"width": 283.9901941286148,
-			"height": 55.084304895636706,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 195,
+			"versionNonce": 892455988,
+			"isDeleted": false,
+			"id": "lzy7_7U2M9UoNama7rl9v",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -466.4204796101194,
+			"y": -2788.402545306959,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 283.9901941286148,
+			"height": 55.084304895636706,
+			"seed": 1856714892,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1856714892,
-			"version": 195,
-			"versionNonce": 892455988,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1699979652785,
 			"link": null,
 			"locked": false,
+			"startBinding": {
+				"elementId": "0LHThWT7",
+				"focus": 0.40579173626630466,
+				"gap": 1.5221823345593748
+			},
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
@@ -1171,25 +1182,127 @@ f41d3132dfe47393be092ff1b09afb830809dff6: [[monetarism-slides.pdf#page=15]]
 					283.9901941286148,
 					9.7927653147799
 				]
-			],
-			"lastCommittedPoint": [
-				283.9901941286148,
-				9.7927653147799
-			],
-			"startBinding": {
-				"elementId": "0LHThWT7",
-				"focus": 0.40579173626630466,
-				"gap": 1.5221823345593748
+			]
+		},
+		{
+			"id": "ABinaV2bHFUaO7QhYdHHg",
+			"type": "line",
+			"x": 334.5050268651696,
+			"y": -1518.8317451756755,
+			"width": 395.13891001788295,
+			"height": 162.46411665974392,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
 			},
+			"seed": 1186623231,
+			"version": 190,
+			"versionNonce": 1016325297,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1701818381920,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					93.06993395300981,
+					132.2572439678877
+				],
+				[
+					395.13891001788295,
+					162.46411665974392
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			"endArrowhead": null
+		},
+		{
+			"id": "blEDRnCQAKhn59WCP6BXb",
+			"type": "rectangle",
+			"x": -93.97032420491774,
+			"y": -1170.3638775455101,
+			"width": 141.2376397665243,
+			"height": 44.90214509072416,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1607599871,
+			"version": 46,
+			"versionNonce": 108838047,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1701818394703,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "dewMyaAZ",
+			"type": "text",
+			"x": 61.14617701758465,
+			"y": -1144.2389765193348,
+			"width": 127.79986572265625,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1371004593,
+			"version": 30,
+			"versionNonce": 923986047,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1701818404624,
+			"link": null,
+			"locked": false,
+			"text": "OG PC curve",
+			"rawText": "OG PC curve",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 17,
+			"containerId": null,
+			"originalText": "OG PC curve",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#e03131",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 0.5,
@@ -1201,10 +1314,10 @@ f41d3132dfe47393be092ff1b09afb830809dff6: [[monetarism-slides.pdf#page=15]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1078.4683117838576,
-		"scrollY": 3233.973367129441,
+		"scrollX": 419.11543938975893,
+		"scrollY": 1761.1715209230922,
 		"zoom": {
-			"value": 0.8169296151645673
+			"value": 1.4698629623740158
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

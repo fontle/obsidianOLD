@@ -5,6 +5,7 @@
 - [[financial-statement-analysis.excalidraw]]
 - **pdfs**
 	- [[capital-structure.excalidraw]]
+	- [[Dornbusch]]
 - **seminars**
 	- **seminar-1**
 		- [[seminar 1]]

@@ -21,8 +21,8 @@ $$\frac{\partial U}{\partial x_{1}} = \frac{1}{3} \left(\frac{x_{2}}{x_{1}}\righ
 The marginal rate of substitution is given by $\frac{-MU_{1}}{MU_{2}}$ therefore:
 $$
 \begin{align*}
-\text{MRS} = \frac{-MU_{1}}{MU_{2}} &= \frac{-1}{3} \left(\frac{x_{2}}{x_{1}}\right)^{\frac{2}{3}} \div\frac{2}{3}\left(\frac{x_{1}}{x_{2}}\right)^{\frac{1}{3}} \\\\
-&= \frac{-1}{3} \left(\frac{x_{2}}{x_{1}}\right)^{\frac{2}{3}} \times\frac{3}{2}\left(\frac{x_{2}}{x_{1}}\right)^{\frac{1}{3}}\\\\
+\text{MRS} = \frac{-MU_{1}}{MU_{2}} &= \frac{-1}{3} \left(\frac{x_{2}}{x_{1}}\right)^{\frac{2}{3}} \div\frac{2}{3}\left(\frac{x_{1}}{x_{2}}\right)^{\frac{1}{3}} \\
+&= \frac{-1}{3} \left(\frac{x_{2}}{x_{1}}\right)^{\frac{2}{3}} \times\frac{3}{2}\left(\frac{x_{2}}{x_{1}}\right)^{\frac{1}{3}}\\
 &= \frac{-x_{2}}{2x_{1}}
 \end{align*} 
 
@@ -81,3 +81,6 @@ $$w^{\frac{1}{3}} \times \left(\frac{1}{6}\right)^{\frac{1}{3}} \times w^{\frac{
 $$w=\frac{6.34960}{\frac{1}{6}^{\frac{1}{3}} \times \frac{2}{3}^{\frac{2}{3}}}= 15.12_{\ldots}$$
 Evaluating for $EV$: 
 $$EV=15.12_{\ldots}-12=3.12_{\text{3sf}}$$
+
+
+
