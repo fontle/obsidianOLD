@@ -6,14 +6,13 @@
 - [[monetarism.excalidraw]]
 - [[new-classical.excalidraw]]
 - **pdfs**
-	- [[Dornbusch]]
+	- [[Untitled]]
 - **[[poole model]]**
 - [[rbc.excalidraw]]
 - **reading**
 	- [[augmented-solow-swan.excalidraw]]
 - **review questions**
 	- [[poole review questions]]
-- **seminar questions**
 
 %% End Waypoint %%
  

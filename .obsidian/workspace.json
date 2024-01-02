@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f918f133d1469f80",
+        "id": "df5fdd3b2072c00d",
         "type": "tabs",
         "children": [
           {
-            "id": "06c3a14ab236cbcf",
+            "id": "7a2cfc4931059608",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year2/finance/finance.md",
+                "file": "Solow model outline.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "404c8fc86661c521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solow model outline.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "year2/finance/finance.md",
+                "file": "Solow model outline.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 357.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca74095a8d46f702",
@@ -151,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "year2/finance/finance.md",
+                "file": "Solow model outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "year2/finance/finance.md",
+                "file": "Solow model outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,45 +229,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "06c3a14ab236cbcf",
+  "active": "404c8fc86661c521",
   "lastOpenFiles": [
-    "year2/macro 2/barro-gordon.excalidraw.md",
-    "year2/micro 2/problem sets/problem set 1.md",
-    "year2/micro 2/micro 2.md",
-    "year2/macro 2/macro 2.md",
-    "year2/finance/corporate-governance.excalidraw.md",
-    "Dornbusch.md",
-    "year2/macro 2/pdfs/new-classical-slides.pdf",
-    "year2/macro 2/pdfs/monetarism-slides.pdf",
-    "Excalidraw/Drawing 2023-12-06 11.18.54.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-06 12.53.29.excalidraw.md",
-    "year2/macro 2/pdfs/open-economy-slides.pdf",
-    "Excalidraw/Untitled.md",
+    "Solow model outline.md",
+    "year2/macro 2/pdfs/Untitled 2-1.pdf",
     "year2/macro 2/pdfs/Untitled.md",
-    "year2/macro 2/rbc.excalidraw.md",
-    "year2/macro 2/monetarism.excalidraw.md",
-    "year2/macro 2/investment.excalidraw.md",
-    "year2/macro 2/exogenous-growth.excalidraw.md",
-    "year2/macro 2/consumption.excalidraw.md",
-    "year2/finance/Drawing 2023-11-08 09.10.40.excalidraw.md",
-    "year2/macro 2/pdfs/barro-gordon-slides.pdf",
-    "year2/macro 2/pdfs/barro-gordon-extension-slides.pdf",
-    "Excalidraw/Drawing 2023-12-05 22.13.04.excalidraw.md",
-    "year2/macro 2/new-classical.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-05 20.18.13.excalidraw.md",
     "TODO.md",
+    "Excalidraw/Drawing 2023-12-06 12.53.29.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-06 11.18.54.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-05 22.13.04.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-05 20.18.13.excalidraw.md",
+    "Dornbusch.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "year2/macro 2/monetarism.excalidraw.md",
+    "year2/macro 2/new-classical.excalidraw.md",
+    "year2/macro 2/rbc.excalidraw.md",
     "year2/finance/pdfs/capital-structure.excalidraw.md",
     "year2/finance/pdfs/Untitled.md",
     "year2/finance/pdfs/capital-structure-slides.pdf",
+    "year2/macro 2/pdfs/new-classical-slides.pdf",
+    "year2/macro 2/macro 2.md",
     "year2/micro 2/pdfs/lecture-notes.pdf",
     "year2/finance/finance.md",
     "year2/finance/financial-statement-analysis.excalidraw.md",
+    "year2/macro 2/barro-gordon.excalidraw.md",
+    "year2/macro 2/consumption.excalidraw.md",
+    "year2/macro 2/investment.excalidraw.md",
     "year2/macro 2/Drawing 2023-11-14 10.14.09.excalidraw.md",
+    "year2/macro 2/pdfs/monetarism-slides.pdf",
+    "year2/finance/Drawing 2023-11-08 09.10.40.excalidraw.md",
     "year2/micro 2/problem sets/Problem Set 3/main.pdf",
     "year2/micro 2/problem sets/Problem Set 3/main.auxlock",
     "year2/micro 2/problem sets/Problem Set 3/imgs/uoy-logo.png",
     "year2/micro 2/problem sets/Problem Set 3/imgs",
+    "year2/micro 2/problem sets/Problem Set 3/main.tex",
+    "year2/micro 2/problem sets/Problem Set 3",
     "year2/micro 2/pdfs/Problem Set 3.md",
+    "year2/micro 2/producer-theory.excalidraw.md",
     "attachments/Pasted Image 20231018103109_372.png",
     "attachments/Pasted Image 20231018103028_827.png",
     "attachments/Pasted Image 20231018103028_803.png",
