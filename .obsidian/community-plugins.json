@@ -1,6 +1,5 @@
 [
   "obsidian-vimrc-support",
-  "table-editor-obsidian",
   "obsidian-git",
   "cycle-through-panes",
   "quickadd",
@@ -32,5 +31,8 @@
   "oz-image-plugin",
   "obsidian-style-settings",
   "obsidian-toggle-list",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "dbfolder",
+  "obsidian-completr",
+  "file-tree-alternative"
 ]
