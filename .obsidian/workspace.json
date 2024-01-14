@@ -4,33 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f918f133d1469f80",
+        "id": "10a7365ef0e9ee62",
         "type": "tabs",
         "children": [
           {
-            "id": "e46f1e8478ac0cc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "year2/macro 2/revision/The New Keynesian School.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e1ba970773610ab",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "year2/macro 2/revision/The Role of Imperfect Competition in New Keynesian Economics.pdf"
-              }
-            }
-          },
-          {
-            "id": "789722fe95343760",
+            "id": "6bef09a99f81942a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -39,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +96,7 @@
             }
           },
           {
-            "id": "b1478041eb137d14",
+            "id": "e7c66ab667888252",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -131,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5,
+    "width": 357.5,
     "collapsed": true
   },
   "right": {
@@ -206,6 +183,14 @@
             }
           },
           {
+            "id": "e1d8642c5dc5203a",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          },
+          {
             "id": "77dbddbdff8f4786",
             "type": "leaf",
             "state": {
@@ -214,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -223,6 +208,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "dbfolder:Create a new database table": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": true,
@@ -230,55 +217,52 @@
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "workspaces:Manage workspace layouts": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "dbfolder:Create a new database table": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
       "omnisearch:Omnisearch": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "789722fe95343760",
+  "active": "6bef09a99f81942a",
   "lastOpenFiles": [
     "year2/macro 2/revision/The Role of Imperfect Competition in New Keynesian Economics.pdf",
-    "year2/macro 2/revision/The Role of Imperfect Competition.md",
-    "Excalidraw/new keynesianism essential reading.md",
-    "year2/macro 2/revision/The New Keynesian School.md",
-    "year2/macro 2/revision/Monetarism.md",
     "year2/macro 2/revision/The New Classical School.md",
-    "year2/macro 2/revision/Real Business Cycle School.md",
+    "year2/macro 2/revision/The Role of Imperfect Comp.md",
+    "year2/macro 2/revision/The New Keynesian School.md",
+    "year2/macro 2/revision/The Role of Imperfect Competition.md",
+    "Solow model outline pc.md",
+    "attachments/The Role of Imperfect Comp 2024-01-12 23.26.41.excalidraw.md",
     "year2/macro 2/macro 2.md",
-    "Untitled 1.md",
-    "year2/macro 2/revision/Untitled",
-    "year2/macro 2/monetarism.excalidraw.md",
-    "year2/macro 2/investment.excalidraw.md",
-    "year2/macro 2/barro-gordon.excalidraw.md",
-    "year2/macro 2/revision",
-    "year2/macro 2/pdfs/consumption-slides-1.pdf",
-    "year2/macro 2/pdfs/new-classical-slides.pdf",
-    "year2/macro 2/pdfs/monetarism-slides.pdf",
-    "year2/macro 2/pdfs/investment-slides.pdf",
-    "year2/macro 2/pdfs/solow-swan-maths.pdf",
-    "year2/macro 2/pdfs/solow-swan-evidence.pdf",
-    "year2/macro 2/pdfs/romer-weil-1992-slides.pdf",
+    "year2/macro 2/revision/Monetarism.md",
     "Solow model outline.md",
-    "TODO.md",
-    "Dornbusch.md",
-    "SolowGrowthModelEssay/imgs/Solow model outline-1.png",
-    "Solow Growth Model/imgs/Solow model outline-1.png",
-    "year2/finance/finance.md",
+    "year2/micro 2/pdfs/finance-1.pdf",
+    "year2/macro 2/revision/Real Business Cycle School.md",
+    "year2/macro 2/revision",
+    "year2/macro 2/pdfs/open-economy-.pdf",
+    "year2/Solow model outline-2.zip",
+    "year2/Solow model outline-1.zip",
     "attachments/finance-1.png",
-    "Excalidraw/Drawing 2023-11-08 14.47.40.excalidraw.md",
-    "year2/micro 2/problem sets/problem set 1.md",
-    "year2/micro 2/micro 2.md",
-    "year2/finance/corporate-governance.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-06 11.18.54.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-06 12.53.29.excalidraw.md",
-    "Excalidraw/Untitled.md",
+    "SolowGrowthModelEssay/imgs/Solow model outline-1.png",
+    "SolowGrowthModelEssay/references.bib",
+    "SolowGrowthModelEssay/main.tex",
+    "SolowGrowthModelEssay/main.otf",
+    "SolowGrowthModelEssay/imgs",
+    "Excalidraw/new keynesianism essential reading.md",
     "year2/macro 2/pdfs/Untitled.md",
+    "TODO.md",
+    "Excalidraw/Drawing 2023-12-06 12.53.29.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-06 11.18.54.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-05 22.13.04.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-05 20.18.13.excalidraw.md",
+    "Dornbusch.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "year2/macro 2/monetarism.excalidraw.md",
+    "year2/macro 2/new-classical.excalidraw.md",
     "year2/macro 2/rbc.excalidraw.md",
-    "year2/macro 2/exogenous-growth.excalidraw.md",
+    "year2/finance/pdfs/capital-structure.excalidraw.md",
+    "year2/finance/pdfs/Untitled.md",
     "year2/micro 2/problem sets/Problem Set 3/imgs/uoy-logo.png",
     "attachments/Pasted Image 20231018103109_372.png",
     "attachments/Pasted Image 20231018103028_827.png",
@@ -286,6 +270,7 @@
     "attachments/Untitled-2.png",
     "attachments/Untitled-1.png",
     "attachments/Pasted Image 20231018100728_825.png",
+    "attachments/Pasted Image 20231018095427_623.png",
     "notes/finance/Overview of Corporate Finance/Untitled.canvas",
     "Untitled.canvas",
     "Economics/Year 1/Hist1/British Decline in 19th Century.canvas",

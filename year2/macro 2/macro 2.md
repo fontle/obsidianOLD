@@ -19,7 +19,6 @@
 	- [[The New Classical School]]
 	- [[The New Keynesian School]]
 	- [[The Role of Imperfect Competition]]
-- **seminar questions**
 
 %% End Waypoint %%
  
