@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"1c15617c5d64b556","x":-140,"y":-80,"width":220,"height":100,"type":"text","text":"## Corporate Finance "},
+		{"id":"adca2379c693a87f","x":-800,"y":-640,"width":489,"height":520,"type":"text","text":"## Agency Theory \n\n\n### Costs of Equity\n\n#### Causes\n\n#### Costs of Debt\n\n#### Implications for Investment Decisions"}
+	],
+	"edges":[]
+}

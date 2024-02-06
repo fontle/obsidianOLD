@@ -4,11 +4,11 @@
   "sanctum@@color-accent-rgb-l": "246, 141, 69",
   "sanctum@@light-mode-contrast-mode": "sanctum-contrast-light",
   "sanctum@@hide-vault-title": false,
-  "sanctum@@file-line-width": 40,
   "sanctum@@active-line-accent": "var(--background-hover)",
   "entry-point@@minimal-workspace-sides-tabs": "sides-tabs-hover",
   "entry-point@@color-scheme-selector": "color-scheme-golden-book",
   "entry-point@@separate-color-scheme": true,
   "entry-point@@dark-mode-color-scheme-selector": "dm-color-scheme-rose-shadow",
-  "entry-point@@light-mode-color-scheme-selector": "lm-color-scheme-golden-coffee"
+  "entry-point@@light-mode-color-scheme-selector": "lm-color-scheme-golden-coffee",
+  "sanctum@@file-line-width": 70
 }

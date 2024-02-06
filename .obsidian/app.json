@@ -2,7 +2,7 @@
   "vimMode": true,
   "spellcheck": false,
   "strictLineBreaks": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "attachmentFolderPath": "attachments",
   "promptDelete": false,
   "pdfExportSettings": {
