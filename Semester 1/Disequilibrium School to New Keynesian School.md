@@ -1,4 +1,4 @@
-# Disequilibrium Model 
+ Disequilibrium Model 
 
 
 Unlike Walrasian thinking where agents are price takers: Neo-Keynesians (inclusive of disequilibrium and new keynes schools ) assumes ALL prices (therefore including wages, the price of labour) are treated as exogenous as to prevent *Arrow's Paradox* where agents are simultaneously price takers and adjust prices to level where supply equals demand. 

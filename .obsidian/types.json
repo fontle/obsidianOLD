@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "week": "number",
+    "module": "multitext",
+    "type": "multitext",
+    "date": "datetime"
+  }
+}

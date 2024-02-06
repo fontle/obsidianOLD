@@ -7,7 +7,7 @@
 - [[financial-statement-analysis.excalidraw]]
 - **pdfs**
 	- [[capital-structure.excalidraw]]
-	- [[Untitled]]
+	- [[Semester 1/finance/pdfs/Untitled]]
 - **seminars**
 	- **seminar-1**
 		- [[seminar 1]]

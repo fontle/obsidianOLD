@@ -6,7 +6,7 @@
 - [[monetarism.excalidraw]]
 - [[new-classical.excalidraw]]
 - **pdfs**
-	- [[Untitled]]
+	- [[Semester 1/macro 2/pdfs/Untitled]]
 - **[[poole model]]**
 - [[rbc.excalidraw]]
 - **reading**
@@ -20,8 +20,7 @@
 	- [[The New Classical School]]
 	- [[The New Keynesian School]]
 	- [[The Role of Imperfect Competition]]
-	- [[Untitled]]
-- **seminar questions**
+	- [[Semester 1/macro 2/pdfs/Untitled]]
 
 %% End Waypoint %%
  

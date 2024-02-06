@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "11f15d561e56e129",
+        "id": "8876940614bc4fcd",
         "type": "tabs",
         "children": [
           {
-            "id": "fedb9eed32205143",
+            "id": "a3484c1aefb2c2a3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -47,24 +47,11 @@
             }
           },
           {
-            "id": "2c5c86fb16d6ed94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 1/macro 2/macro 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ab810d062ded4432",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Semester 1/finance/MnA.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -102,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -141,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#economics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 1/finance/MnA.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 1/finance/MnA.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -213,55 +198,55 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b1478041eb137d14",
+  "active": "a3484c1aefb2c2a3",
   "lastOpenFiles": [
-    "Semester 2",
-    "ECO00039I Exam Paper - January 2024.pdf",
-    "Semester 1/finance/finance-revision.pdf",
-    "Semester 1/finance/agency-problems.excalidraw.md",
-    "Semester 1/finance/corporate-governance.excalidraw.md",
-    "Semester 1/finance/Drawing 2024-01-30 17.16.50.excalidraw.md",
-    "Semester 1/finance/Drawing 2023-11-08 09.10.40.excalidraw.md",
-    "Semester 1/finance/Drawing 2024-01-24 17.50.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-31 09.09.37.excalidraw.md",
-    "Untitled.md",
-    "Semester 1/finance/MnA.pdf",
-    "Semester 1/finance/financial-statement-analysis.excalidraw.md",
+    "database.md",
+    "Semester2/Semester2.md",
+    "Semester2/lectures/Schools of Thought.md",
+    "templates/Seminar.md",
+    "templates/Lecture.md",
     "Semester 1/finance/finance.md",
-    "Excalidraw/Drawing 2024-01-30 17.15.33.excalidraw.md",
-    "year2/finance/Finance Revision.canvas",
-    "Semester 1/macro 2/revision/Untitled.md",
-    "Semester 1/macro 2/revision/The Role of Imperfect Competition.md",
-    "Disequilibrium School to New Keynesian School.md",
-    "attachments/Disequilibrium School to New Keynesian School-1.png",
-    "Semester 1/macro 2/revision/Rosalind Levacic - Macroeconomics_ An Introduction to Keynesian-Neoclassical Controversies (1982, MacMillan Publishing Company).pdf",
-    "year2/macro 2/revision/Rosalind Levacic - Macroeconomics_ An Introduction to Keynesian-Neoclassical Controversies (1982, MacMillan Publishing Company).pdf.crdownload",
-    "Semester 1/macro 2/revision/The New Keynesian School.md",
-    "Semester 1/macro 2/revision/macrotextbook.pdf",
-    "Semester 1/macro 2/revision/The Role of Imperfect Competition in New Keynesian Economics.pdf",
-    "Semester 1/macro 2/revision/Solow_Growth_Model (2).pdf",
-    "Semester 1/macro 2/revision/Solow_Growth_Model (1).pdf",
-    "Semester 1/macro 2/revision/Solow_Growth_Model.pdf",
-    "Semester 1/macro 2/revision/Real Business Cycles and New Keynesianism.md",
-    "Excalidraw/Scripts/Downloaded/PDF Page Text to Clipboard.svg",
-    "Excalidraw/Scripts/Downloaded/PDF Page Text to Clipboard.md",
-    "Semester 1/macro 2/revision/Monetarism.md",
-    "Semester 1/macro 2/revision/Real Business Cycle School.md",
-    "attachments/The Role of Imperfect Comp 2024-01-12 23.26.41.excalidraw.md",
-    "Solow model outline pc.md",
-    "Excalidraw/new keynesianism essential reading.md",
-    "Semester 1/macro 2/revision/The New Classical School.md",
-    "Semester 1/macro 2/macro 2.md",
+    "Semester 2/reading/Schools of Thought.md",
+    "Semester2/reading",
+    "Semester2/seminars",
+    "Semester2/lectures",
+    "Semester 2/seminars.md",
+    "Semester 2/reading.md",
+    "Semester 2/Methodology.md",
+    "Semester 2/lectures.md",
+    "Semester 2/Schools of Thought.md",
+    "Semester 2/Schools of Economic Thought.md",
+    "Semester 2/Seminar 1.md",
+    "Semester 2/lectures/1 Schools of Economic Thought.md",
+    "Untitled database.md",
+    "Semester 1/Disequilibrium School to New Keynesian School.md",
+    "templates",
+    "TODO.md",
+    "Semester 1/Dornbusch.md",
+    "Semester 1/ECO00039I Exam Paper - January 2024.pdf",
+    "Semester 1/Solow model outline pc.md",
     "Untitled 1.md",
-    "Semester 1/macro 2/monetarism.excalidraw.md",
-    "SolowGrowthModelEssay/imgs/Solow model outline-1.png",
+    "Untitled.md",
+    "Semester 2/lectures/10.md",
+    "Semester 2/lectures/1.md",
+    "Semester 2/lectures/2.md",
+    "Excalidraw/Drawing 2023-10-17 14.38.33.excalidraw.md",
+    "Semester2/seminars",
+    "Semester2/lectures",
+    "Semester 2/readings",
+    "Semester2",
+    "Semester 1/micro 2/problem sets/Problem Set 3/imgs/uoy-logo.png",
+    "Semester 1/micro 2/problem sets/Problem Set 3/main.pdf",
+    "Semester 1/macro 2/revision/a6d69aa6-cc41-4d64-a35c-8b11e191c59c.jpeg",
+    "year2/finance/Finance Revision.canvas",
+    "attachments/Disequilibrium School to New Keynesian School-1.png",
+    "Excalidraw/Scripts/Downloaded/PDF Page Text to Clipboard.svg",
+    "Semester 1/SolowGrowthModelEssay/imgs/Solow model outline-1.png",
     "Solow Growth Model/imgs/Solow model outline-1.png",
     "attachments/finance-1.png",
-    "Semester 1/micro 2/problem sets/Problem Set 3/imgs/uoy-logo.png",
+    "year2/micro 2/problem sets/Problem Set 3/imgs/uoy-logo.png",
     "attachments/Pasted Image 20231018103109_372.png",
     "attachments/Pasted Image 20231018103028_827.png",
-    "attachments/Pasted Image 20231018103028_803.png",
-    "attachments/Untitled-2.png",
     "notes/finance/Overview of Corporate Finance/Untitled.canvas",
     "Untitled.canvas",
     "Economics/Year 1/Hist1/British Decline in 19th Century.canvas",
