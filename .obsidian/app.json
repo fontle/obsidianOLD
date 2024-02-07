@@ -12,7 +12,7 @@
     "margin": "0",
     "downscalePercent": 82
   },
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "livePreview": true,

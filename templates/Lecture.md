@@ -1,9 +1,12 @@
 ---
-type:
-  - lecture
-module:
-  - AP
+type: lecture
+module: 
 week:
 ---
-# Title 
+	Objective: 
 
+## Lecture Notes 
+
+/Excalidraw:Createnewdrawinginanewtaband
+
+## Summary

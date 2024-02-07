@@ -10,6 +10,6 @@
 	- [[Semester 1/finance/pdfs/Untitled]]
 - **seminars**
 	- **seminar-1**
-		- [[seminar 1]]
+		- [[Semester 1/finance/seminars/seminar-1/seminar 1]]
 
 %% End Waypoint %%

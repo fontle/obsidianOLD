@@ -93,7 +93,7 @@ b7525da9d58f4bf6fef07aabb1f2a102adaed5b0: [[agency-problems-slides.pdf#page=26]]
 a30367bf8a1072def3105a7cb3422bd349646c6d: [[agency-problems-slides.pdf#page=27]]
 66f14d286130879a5618583609b47c0bea0b8637: [[agency-problems-slides.pdf#page=28]]
 e02ae6017b2ef14c12ab321f3ce99b84c842ad07: [[agency-problems-slides.pdf#page=29]]
-de69722bd11d6895b3ca3ab760f7db84bd60cd26: [[Untitled 1]]
+de69722bd11d6895b3ca3ab760f7db84bd60cd26: [[Political economy, the contest of economic ideas, Frank Stilwell.]]
 
 %%
 # Drawing

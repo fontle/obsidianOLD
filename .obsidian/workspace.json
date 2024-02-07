@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8876940614bc4fcd",
+        "id": "d51d80c0736b1a4c",
         "type": "tabs",
         "children": [
           {
-            "id": "a3484c1aefb2c2a3",
+            "id": "83763bf774a4ea5c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Semester/lectures/Schools of Thought.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -52,6 +56,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Semester/lectures/Schools of Thought.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -81,15 +86,14 @@
             }
           },
           {
-            "id": "b1478041eb137d14",
+            "id": "41827243ebf5e177",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Semester/lectures/Schools of Thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Semester/lectures/Schools of Thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,26 +196,41 @@
       "switcher:Open quick switcher": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "dbfolder:Create a new database table": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "omnisearch:Omnisearch": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "a3484c1aefb2c2a3",
+  "active": "83763bf774a4ea5c",
   "lastOpenFiles": [
-    "database.md",
-    "Semester2/Semester2.md",
-    "Semester2/lectures/Schools of Thought.md",
-    "templates/Seminar.md",
+    "Semester/reading/Political economy, the contest of economic ideas, Frank Stilwell..md",
+    "attachments/Political economy, the contest of economic ideas, Frank Stilwell.-3.png",
+    "attachments/Political economy, the contest of economic ideas, Frank Stilwell.-2.png",
+    "attachments/Political economy, the contest of economic ideas, Frank Stilwell.-1.png",
+    "Semester/seminars/Rationality and Methodological Individualism.md",
+    "Semester/lectures/Simple Regression Models.md",
+    "Semester/lectures/Schools of Thought.md",
     "templates/Lecture.md",
+    "templates/Seminar.md",
+    "templates/Reading.md",
+    "Semester/reading/Untitled.md",
+    "Semester/Dataviews/table.md",
+    "Semester/Dataviews/Content By Week.md",
+    "Semester/Dataviews/Untitled.md",
+    "attachments/Schools of Thought-1.png",
+    "attachments/Schools of Thought 2024-02-06 21.32.15.excalidraw.md",
+    "Semester/Dataviews",
+    "Semester/seminars/Untitled.md",
+    "Semester/s.md",
+    "database.md",
+    "Semester/Semester.md",
     "Semester 1/finance/finance.md",
     "Semester 2/reading/Schools of Thought.md",
-    "Semester2/reading",
-    "Semester2/seminars",
-    "Semester2/lectures",
+    "Semester/reading",
+    "Semester/seminars",
+    "Semester/lectures",
     "Semester 2/seminars.md",
     "Semester 2/reading.md",
     "Semester 2/Methodology.md",
@@ -217,36 +238,19 @@
     "Semester 2/Schools of Thought.md",
     "Semester 2/Schools of Economic Thought.md",
     "Semester 2/Seminar 1.md",
-    "Semester 2/lectures/1 Schools of Economic Thought.md",
-    "Untitled database.md",
-    "Semester 1/Disequilibrium School to New Keynesian School.md",
     "templates",
-    "TODO.md",
-    "Semester 1/Dornbusch.md",
     "Semester 1/ECO00039I Exam Paper - January 2024.pdf",
-    "Semester 1/Solow model outline pc.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Semester 2/lectures/10.md",
-    "Semester 2/lectures/1.md",
-    "Semester 2/lectures/2.md",
-    "Excalidraw/Drawing 2023-10-17 14.38.33.excalidraw.md",
-    "Semester2/seminars",
-    "Semester2/lectures",
+    "Semester/seminars",
+    "Semester/lectures",
     "Semester 2/readings",
-    "Semester2",
+    "Semester",
     "Semester 1/micro 2/problem sets/Problem Set 3/imgs/uoy-logo.png",
-    "Semester 1/micro 2/problem sets/Problem Set 3/main.pdf",
     "Semester 1/macro 2/revision/a6d69aa6-cc41-4d64-a35c-8b11e191c59c.jpeg",
     "year2/finance/Finance Revision.canvas",
     "attachments/Disequilibrium School to New Keynesian School-1.png",
     "Excalidraw/Scripts/Downloaded/PDF Page Text to Clipboard.svg",
     "Semester 1/SolowGrowthModelEssay/imgs/Solow model outline-1.png",
     "Solow Growth Model/imgs/Solow model outline-1.png",
-    "attachments/finance-1.png",
-    "year2/micro 2/problem sets/Problem Set 3/imgs/uoy-logo.png",
-    "attachments/Pasted Image 20231018103109_372.png",
-    "attachments/Pasted Image 20231018103028_827.png",
     "notes/finance/Overview of Corporate Finance/Untitled.canvas",
     "Untitled.canvas",
     "Economics/Year 1/Hist1/British Decline in 19th Century.canvas",

@@ -1,7 +1,7 @@
 ---
-type:
-  - seminar
+type: seminar
 module: 
-week: 
-date: ""
+week:
 ---
+
+
